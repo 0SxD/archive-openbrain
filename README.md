@@ -1,45 +1,43 @@
 # OpenBrainLM
 
-An open-source LM plug-in brain. Built from biomimicry and emergent Nicomachean ethics-based conflict resolution.
+**A brain harness for large language models.**
 
-## What Is This
+LLMs have no memory. No discipline. No self-correction. OpenBrainLM gives them a brain — a harness that adds long-term memory, reasoning discipline, and self-learning to any LLM.
 
-A pluggable brain architecture for language models. 8 operational layers derived from real biological mechanisms. 8 cognitive agents. 8 curated brain regions. A Trinity dialectic engine where Logos fights Pathos and Ethos arbitrates — the fight IS the thinking.
+Built from real neuroscience. Not metaphors — mechanisms.
 
-LM-agnostic. Pluggable backends. Zero vendor lock-in. Pure Python stdlib core.
+---
 
-**Read the full philosophy:** [`WHAT_IS_OPENBRAIN.md`](WHAT_IS_OPENBRAIN.md)
+## What It Does
 
-## Origin Story
+OpenBrainLM is a **brain-shaped harness** that wraps around any LLM and gives it:
 
-This project started as a research deep dive — the first thing built using Claude Code as an autonomous research and development tool. The question was: *can you derive a functional brain architecture from real biology, not metaphors?*
+### 1. A Brainstem (Hooks + Rules + Inhibition)
+Every action passes through a brainstem — hooks that fire before and after tool use, rules that enforce discipline, inhibition-by-default (basal ganglia model: actions are *released*, not activated). The harness prevents the LLM from acting without thinking.
 
-The 8-layer architecture, the Trinity dialectic, the concept papers — all emerged from that exploration. We're putting it out there to see what people think. The research was fascinating. The code works. Whether it's useful beyond the exploration is for the community to decide.
+### 2. Long-Term Memory (Consolidation + Schema + Quarantine)
+LLMs forget everything between sessions. OpenBrainLM gives them a hippocampal memory system:
+- **Short-term memory** — session activity ledger
+- **Long-term memory** — verified findings with schema: statement, confidence, source, status, last verified date
+- **Quarantine layer** — new information is quarantined until verified. Nothing enters long-term memory unverified.
+- **Consolidation cycle** — like biological sleep, the brain consolidates short-term into long-term at breakpoints
 
-**The 4 concept papers** in `docs/concept_papers/` document the thinking:
-1. [The Dialectic Loop](docs/concept_papers/01_THE_DIALECTIC_LOOP.md) — adversarial debate as decision mechanism
-2. [The Trinity & Memory](docs/concept_papers/02_THE_TRINITY_AND_MEMORY.md) — recursive self-checking + sleep cycle
-3. [The Self-Learning Brain](docs/concept_papers/03_THE_SELF_LEARNING_BRAIN.md) — evolution, fitness, knowledge promotion
-4. [The 8-Layer Brain](docs/concept_papers/04_THE_8_LAYER_BRAIN.md) — full architecture with proven components
+### 3. Trinity Dialectic (Scientific Reasoning Engine)
+Inspired by Aristotle's Nicomachean Ethics. Three voices evaluate every significant decision:
+- **Ethos** — the evidence corridor. Holds the verified evidence base AND the evaluation criteria. The shared ground truth both sides must work from.
+- **Pathos** — the mission. Argues for the goal, the creative direction, the "why are we doing this." Weighted and configurable.
+- **Logos** — the evaluation. Assesses whether the mission passes the criteria. Applies the evidence to judge the path forward. Weighted and configurable.
 
-## Quick Start
+This isn't a pipeline — it's a dialectic. Pathos and Logos can be weighted (yes/no, scored, threshold-gated). Ethos holds the corridor they both operate within. The productive mechanism is the structured disagreement itself. Highly customizable — different domains, different weights, different evaluation criteria.
 
-```bash
-# Clone
-git clone https://github.com/OpenBrainLM/OpenBrainLM.git
-cd OpenBrainLM
+### 4. Self-Learning Loop (Research Corridors + Verification Gates)
+The brain learns autonomously within strict boundaries:
+- **Research corridors** — scoped investigation, not unlimited browsing
+- **Verification gates** — claims must be verified against primary sources before promotion
+- **The loop** — research → verify → apply → audit → refine. Every step builds on the last.
 
-# Install (editable)
-pip install -e .
-
-# Run CLI
-python -m openbrainlm
-
-# Run tests
-pytest tests/ -v
-```
-
-## Architecture
+### 5. 8-Layer Biomimetic Architecture (The Full Vision)
+Where this is going — a full cognitive architecture derived from real biological mechanisms:
 
 | Layer | Name | Biology |
 |---|---|---|
@@ -54,35 +52,110 @@ pytest tests/ -v
 
 Cross-cutting: Prediction Error, Hebbian Plasticity (STDP), Interoception, Cerebellum Timing.
 
+The thesis: take what is in nature — fruit fly neural circuits, octopus arm autonomy, hippocampal consolidation, basal ganglia inhibition — and build the digital equivalent. Not artificial intelligence pretending to think. A harness that actually structures thought.
+
+**The biomimetic memory consolidation layer** (short-term → long-term with sleep cycles, Hebbian strengthening, and immune-system verification) is the next major milestone. See the [whitepaper](WHITEPAPER.md) for the full roadmap.
+
+---
+
+## The Thesis
+
+> If you give an LLM a research corridor, turn it into a scientist that can go back and forth and speak to itself, give it a strict harness, don't let it proceed until it meets criteria — criteria gates that it has to meet — and then give it very specific tools to work with... then it will really, really help.
+
+OpenBrainLM is that harness.
+
+---
+
+## LLM-Agnostic
+
+OpenBrainLM works with any LLM backend. The harness is the brain — the LLM is the raw intelligence being harnessed.
+
+- **Claude Code** — fully implemented (hooks, rules, brainstem, memory)
+- **Gemini** — adapter planned
+- **Codex / other** — adapter planned
+- **Pluggable bridge** — `openbrainlm/bridge.py` is the spinal cord. Swap backends without changing the brain.
+
+---
+
+## Quick Start
+
+```bash
+# Clone
+git clone https://github.com/0SxD/OpenBrainLM.git
+cd OpenBrainLM
+
+# Install (editable)
+pip install -e .
+
+# Run CLI
+python -m openbrainlm
+
+# Run tests
+pytest tests/ -v
+```
+
+---
+
 ## Key Documents
 
 | Document | What It Covers |
 |---|---|
-| [`WHAT_IS_OPENBRAIN.md`](WHAT_IS_OPENBRAIN.md) | Philosophy, Trinity dialectic, why this exists |
-| [`ARCHITECTURE.md`](ARCHITECTURE.md) | Full technical spec + system diagrams |
-| [`OPERATIONAL_LAYERS.md`](OPERATIONAL_LAYERS.md) | 8-layer biology spec with implementation details |
-| [`IMPLEMENTATION_PLAN.md`](IMPLEMENTATION_PLAN.md) | Phase sequence + 86-repo component map |
-| [`OPEN_BRAIN.md`](OPEN_BRAIN.md) | Queen pheromone — core principles (append-only) |
+| [`WHAT_IS_OPENBRAIN.md`](WHAT_IS_OPENBRAIN.md) | Philosophy — why this exists |
+| [`WHITEPAPER.md`](WHITEPAPER.md) | Technical whitepaper — the full architecture |
+| [`ARCHITECTURE.md`](ARCHITECTURE.md) | Technical spec + system diagrams |
+| [`OPERATIONAL_LAYERS.md`](OPERATIONAL_LAYERS.md) | 8-layer biology spec |
+| [`OPEN_BRAIN.md`](OPEN_BRAIN.md) | Core principles (append-only) |
+
+**Concept Papers:**
+1. [The Dialectic Loop](docs/concept_papers/01_THE_DIALECTIC_LOOP.md) — adversarial debate as decision mechanism
+2. [The Trinity & Memory](docs/concept_papers/02_THE_TRINITY_AND_MEMORY.md) — recursive self-checking + consolidation
+3. [The Self-Learning Brain](docs/concept_papers/03_THE_SELF_LEARNING_BRAIN.md) — evolution, fitness, knowledge promotion
+4. [The 8-Layer Brain](docs/concept_papers/04_THE_8_LAYER_BRAIN.md) — full biomimetic architecture
+
+---
 
 ## Design Principles
 
-1. **Biomimicry first.** Every layer derives from a real biological mechanism. Nothing invented. Everything assembled.
-2. **Inhibition-by-default.** Default state = all actions suppressed (basal ganglia model). Actions are RELEASED, not activated.
-3. **Trinity is a DIALECTIC, not a pipeline.** Logos and Pathos fight. Ethos arbitrates. The fight IS the productive mechanism.
-4. **Append-only knowledge.** Never delete from brain memory. Overflow to long-term storage.
-5. **Quarantine before promotion.** New research enters quarantine first. Immune agent verifies. Then promote.
+1. **Harness first.** The brain is a harness — hooks, rules, inhibition, memory. Without the harness, the LLM is raw potential with no structure.
+2. **Biomimicry, not metaphor.** Every component derives from a real biological mechanism. Nothing invented. Everything assembled from nature.
+3. **Inhibition-by-default.** Default state = all actions suppressed. Actions are *released*, not activated. (Basal ganglia model.)
+4. **Trinity is a dialectic, not a pipeline.** Ethos holds the evidence corridor. Pathos argues the mission. Logos evaluates against criteria. The structured disagreement is the productive mechanism.
+5. **Quarantine before promotion.** New information enters quarantine. Verified by immune challenge. Only then promoted to long-term memory.
+6. **Append-only knowledge.** Never delete from brain memory. Overflow to long-term storage.
+
+---
 
 ## Status
 
-**Alpha** — all 8 layers built, orchestrator functional, 135 tests passing. Phase 1 complete. The brain knows its architecture. It does not yet know its name.
+**Alpha** — brainstem hooks deployed, memory consolidation working, Trinity dialectic engine built, 135 tests passing. The harness works. The 8-layer biomimetic architecture is the roadmap.
 
-This is exploratory research, not production software. Use it, learn from it, build on it.
+This is research becoming infrastructure. Use it, learn from it, build on it.
+
+---
+
+## Origin
+
+This project started as a question: *can you derive a functional brain architecture for LLMs from real biology — not metaphors, but actual mechanisms?*
+
+The answer turned out to be yes. The biological patterns are clear. The harness works. The memory consolidation works. The dialectic reasoning works.
+
+What's here is a process — take what is in nature, build the digital equivalent, teach it, give it human traits (Aristotle's Nicomachean Ethics). It's not how most people are approaching AI cognition. But it works.
+
+---
 
 ## Acknowledgments
 
-The concept of a persistent, pluggable brain for AI was inspired by [OB1 (Open Brain)](https://github.com/NateBJones-Projects/OB1) by Nate B. Jones. OB1 provides persistent memory infrastructure — database, vector search, and an open protocol that any AI tool can plug into.
+Inspired by [OB1 (Open Brain)](https://github.com/NateBJones-Projects/OB1) by Nate B. Jones — the idea that AI needs a real brain, not just a context window. OpenBrainLM is an independent project with different architecture and purpose.
 
-OpenBrainLM is a completely independent project — different architecture, different purpose. OB1 is the memory infrastructure layer; OpenBrainLM is a pluggable brain architecture built from biological mechanisms. No code was taken from OB1. The inspiration was the idea itself: that AI needs a real brain, not just a context window.
+Built with insights from the research community: SPAUN 2.0 (Eliasmith), free energy principle (Friston), Drosophila connectome (Scheffer et al.), octopus arm autonomy (Sumbre et al.), and the Anthropic agent patterns.
+
+---
+
+## Contributing
+
+This is early. If the concept resonates, open an issue or fork it. The vision is bigger than one person — the community decides where this goes.
+
+---
 
 ## License
 

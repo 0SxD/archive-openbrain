@@ -1,7 +1,7 @@
 # The Self-Learning Brain: Evolution, Fitness, and Knowledge Promotion
 
 > OpenBrainLM Concept Paper 3 of 4
-> A. Green | 2026-03-22
+> 0SxD | 2026-03-22
 
 ---
 

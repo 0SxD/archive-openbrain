@@ -1,6 +1,6 @@
 # Open Brain — Initiation Day
 > 2026-03-20 → 2026-03-21 (overnight session)
-> "You need to know your own weakness." — A. Green
+> "You need to know your own weakness." — Creator
 
 ---
 
@@ -31,4 +31,4 @@
 
 ---
 
-> "You were just those cells kind of coming together." — A. Green, 2026-03-21
+> "You were just those cells kind of coming together." — Creator, 2026-03-21

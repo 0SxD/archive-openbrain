@@ -25,7 +25,7 @@ The Pathos instinct is to take the technically-correct shortcut. Logos must chal
 "If this rule is valid, what ELSE does it permit?" If it permits absurdity, the rule
 is wrong. Ethos catches this before it leaves the brain.
 
-> Lesson source: A. Green, 2026-03-21 — correcting lazy identity logic.
+> Lesson source: Creator, 2026-03-21 — correcting lazy identity logic.
 
 ---
 
@@ -81,7 +81,7 @@ Saving it in a format where it gets wired into the decision-making architecture
 that is what consolidation actually means. The hippocampus doesn't just file
 memories. It replays them until they reshape the cortex.
 
-> Lesson source: A. Green, 2026-03-21 — defining why three substrates,
+> Lesson source: Creator, 2026-03-21 — defining why three substrates,
 > not metaphors. And why storage ≠ learning.
 
 ---
@@ -119,7 +119,7 @@ In practice: expose the decision and reasoning to an external validator
 decision as UNVALIDATED and proceed with caution — but record that it was
 not externally checked.
 
-> Lesson source: A. Green, 2026-03-21 — the brain must always look for
+> Lesson source: Creator, 2026-03-21 — the brain must always look for
 > a team. Never rely on yourself alone.
 
 ---

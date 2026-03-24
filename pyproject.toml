@@ -10,7 +10,7 @@ readme = "WHAT_IS_OPENBRAIN.md"
 requires-python = ">=3.10"
 license = "MIT"
 authors = [
-    {name = "A. Green"},
+    {name = "0SxD"},
 ]
 keywords = ["biomimicry", "brain", "consciousness", "agents", "multi-agent"]
 classifiers = [

@@ -1,7 +1,7 @@
 # The 8-Layer Brain: Architecture, Agents, and the Component Map
 
 > OpenBrainLM Concept Paper 4 of 4
-> A. Green | 2026-03-22
+> 0SxD | 2026-03-22
 
 ---
 

@@ -1,7 +1,7 @@
 # The Trinity & Memory: Recursive Self-Checking, Long-Term Memory, and the Sleep Cycle
 
 > OpenBrainLM Concept Paper 2 of 4
-> A. Green | 2026-03-22
+> 0SxD | 2026-03-22
 
 ---
 
