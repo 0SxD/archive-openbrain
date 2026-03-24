@@ -27,7 +27,7 @@ This is the first layer of a learning system that spans from simple research ver
 
 **Ethos (The Shared Criteria)** is not a participant in the debate — it is what both sides pick up and wield to convince the other. Ethos represents:
 
-- **Measurable success conditions**: an evaluation scenario or rule set with quantifiable parameters and a defined mission outcome, confirmed by correct parity with untouched, third-party measurables. "Did this code pass the test suite?" "Does this research hold up against the cited papers?" "Does this strategy meet the drawdown constraint?"
+- **Measurable success conditions**: an evaluation scenario or rule set with quantifiable parameters and a defined mission outcome, confirmed by correct parity with untouched, third-party measurables. "Did this code pass the test suite?" "Does this research hold up against the cited papers?" "Does this design meet the safety constraints?"
 - **The evidence base**: curated research, verified data, existing code, established results — drawn from research corridors, NotebookLM notebooks, or any knowledge backend you configure
 - **The character of the system**: what it values, what it won't compromise on — the invariants
 
