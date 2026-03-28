@@ -189,3 +189,120 @@
   - test_hook_verification.sh needs manual cleanup
 
 [2026-03-26T19:00:00Z] [NEXT] Session 32: Run 20-test verification matrix + wire hooks to NT/trading_bot + resume NT-03
+
+[2026-03-26T21:00:00Z] [START] Session 32: Verification Matrix + Native Git Hook Migration
+  - Context: Run 20-test verification matrix from Session 31 handoff
+
+[2026-03-26T21:15:00Z] Layer 1 tests (T01-T04): 3 PASS + 1 CONDITIONAL
+  - T01 PASS: state file created after tool use with no receipt
+  - T02 CONDITIONAL: stderr from command hooks on exit 0 not surfaced (framework limitation)
+  - T03 PASS: receipt write clears state file
+  - T04 PASS: no state file after valid receipt
+
+[2026-03-26T21:20:00Z] Layer 2 tests (T05-T08): 4 PASS
+  - T05 PASS: no receipt → commit DENIED
+  - T06 PASS: valid receipt → commit succeeded
+  - T07 PASS: expired receipt (7302s) → DENIED
+  - T08 PASS: future receipt (-64s) → DENIED
+  - BUG FOUND: git commit regex matched inside quoted arguments (false positive)
+  - FIX: anchored regex to command position + subshell coverage
+  - 2 rounds ZCR + 2x Semgrep + CodeRabbit — all addressed
+
+[2026-03-26T21:30:00Z] MAJOR: Native Git Pre-Commit Hook (Sage directive)
+  - Migrated audit gate from PreToolUse:Bash (fragile regex) to .git/hooks/pre-commit
+  - Template: docs/templates/pre-commit | Installer: scripts/setup_git_hooks.sh
+  - Removed audit_gate_check.sh from settings.local.json PreToolUse:Bash
+  - 2 rounds ZCR + 2x Semgrep + CodeRabbit: 3 critical + 1 high found and fixed
+    - Fix 1: find prune syntax (broken → correct -name ... -prune -o)
+    - Fix 2: receipt epoch comparison (filesystem mtime → JSON timestamp_epoch)
+    - Fix 3: .venv/ + __pycache__/ + .pytest_cache/ + *.egg-info + node_modules excluded
+    - Fix 4: backup before overwriting existing hook in setup script
+
+[2026-03-26T21:45:00Z] System Integrity tests (T18-T20): 3 PASS
+  - T18 PASS: pickle in .md, no false positive
+  - T19 PASS: .coderabbit.yaml tracked
+  - T20 PASS: .bak gitignored
+
+[2026-03-26T22:00:00Z] Layer 3a tests (T09-T13): 5 PASS
+  - T09 PASS: Opus .py blocked (expired permit)
+  - T10 PASS: .md allowed (exempt type)
+  - T11 PASS: .claude/ allowed (exempt path)
+  - T12 PASS: Sonnet .py with permit succeeded
+  - T13 PASS: Sonnet .py with expired permit blocked (3754s)
+
+[2026-03-26T22:15:00Z] Layer 3b tests (T14-T17): 4 PASS
+  - T14 PASS: Opus read of unaudited .py → HARD DENY
+  - T15 PASS: .md read allowed (exempt type)
+  - T16 PASS: old .py read allowed (receipt newer)
+  - T17 PASS: .claude/ path read allowed (exempt path)
+
+[2026-03-26T22:30:00Z] Phase 3 specs saved
+  - docs/backlog/task_native_git_hook.md — native git hook spec (implemented)
+  - docs/backlog/epic_phase3_readiness.md — 4-component Phase 3 readiness epic (pending)
+
+[2026-03-26T22:30:00Z] [COMPLETE] Session 32: Verification Matrix + Native Git Hook
+  - 20-test matrix: 19 PASS + 1 CONDITIONAL (T02 framework limitation)
+  - Bug found + fixed: regex false-positive in audit_gate_check.sh
+  - Native git pre-commit hook: implemented, audited, installed
+  - Phase 3 epic spec saved, ready for execution
+  - PII scrub task added to backlog (Sage directive)
+  - HANDOFF: memory/handoff_session32_verification_complete.md
+
+[2026-03-26T22:30:00Z] [COMPLETE] Session 33: Fresh Re-test + Audit Gate + NT Upgrade
+  - 24-test matrix: 23 PASS, 1 CONDITIONAL (T02 framework limit) — fresh session
+  - 3-agent audit gate on session 32 code: Semgrep CLEAN, ZCR+CodeRabbit CONDITIONAL
+  - 4 fixes applied: receipt fallback, stat portability, dead var, timestamped backup
+  - Post-fix re-test: 4 PASS, 1 not testable (T22 — hook stack, Round 1 stands)
+  - NT upgraded: 1.223.0 → 1.224.0 (clean, no breaking changes)
+  - jumpmodels already installed (v0.1.1) — NT-03 is DONE
+  - DEFERRED: PII scrub, commit, Phase 3 epic, GitHub airlock
+  - HANDOFF: memory/handoff_session33_to_34.md
+
+[2026-03-26T22:30:00Z] [NEXT] Session 34:
+  1. NT-04: Write reassembly script (SJM + Scaler from .npz params)
+  2. NT-05: Wire SJM into Strategy.on_start() (causal predict_online only)
+  3. NT-06: BacktestEngine validate 6 Sharpe configs
+  4. DEFERRED: PII scrub, commit session 32+33, Phase 3 epic, GitHub airlock
+
+[2026-03-26T23:00:00Z] [LOST] Session 34: Closed without saving — no work preserved
+
+[2026-03-26T23:45:00Z] [COMPLETE] Session 35: Recovery + SJM Causal Audit Plan
+  - Session 34 recovered from handoff_session33_to_34.md + sjm_results_inventory.md
+  - 7-session SJM scan: ZERO positive causal net Sharpe exists (only 2 configs tested causally)
+  - CRITICAL BUG: identify_regime_states_by_returns() is output-based, not parameter-based
+    - Batch label map applied to online-decoded states — states permuted 10-14%
+    - This may explain negative causal results (inverted signals, not absent alpha)
+  - Sage approved Option B: sandbox causal validation with emission-based anchoring
+  - 3 exploration agents: mapped all call sites, jumpmodels internals, 30s bar data
+  - Hostile data audit: 364/365 days clean, Aug 29 gap (19min) not in Apr/Oct windows
+  - Plan written + approved: ~/.claude/plans/ticklish-tickling-flamingo.md
+  - Phase 1 DONE: research.md (4 evidence entries), output directory created
+  - MCP: 7 connected, 4 failed (GitHub, Greptile, Telegram, Discord)
+  - HANDOFF: memory/handoff_session35_sjm_causal_audit.md
+
+[2026-03-27T12:00:00Z] [COMPLETE] Session 36: SJM Phase 2 + MLflow Phases 1-5 (scripts written)
+  SJM Causal Audit v2:
+  - Phase 2 DONE: shadow_b_utils_v2.py (audited: Semgrep PASS, ZCR CONDITIONAL → allow_pickle fixed)
+  - Phase 3 PARTIAL: validate_emission_anchoring.py written, 2 RUNTIME BUGS found by ZCR
+    Bug 1: from jumpmodels import JumpModel → needs from jumpmodels.jump import JumpModel
+    Bug 2: Missing prob_vecs attribute (set prob_vecs=None for discrete models)
+    Both fixes verified with runtime tests, NOT YET APPLIED
+  - Identified: audit pipeline needs runtime smoke test (no tool runs Python interpreter)
+
+  MLflow Model Registry (Sage directive — prerequisite for NT):
+  - Phase 1 DONE: mlflow 3.10.1 + joblib 1.5.3 in both venvs
+  - Phase 2 DONE: mlflow_config.py (verified, Semgrep PASS)
+  - Phase 3 WRITTEN: convert_bundles_to_mlflow.py (import PASS, Semgrep PASS, NOT EXECUTED)
+  - Phase 4 WRITTEN: verify_mlflow_models.py (import PASS, Semgrep PASS, NOT EXECUTED)
+  - Phase 5 WRITTEN: strategies/model_loader.py (import PASS, Semgrep PASS)
+  - Phases 6-8: NOT STARTED (AST hook, guardrails, memory)
+
+  HANDOFF: memory/handoff_session36_mlflow.md
+
+[2026-03-27T20:00:00Z] [NEXT] Session 37: Execute MLflow + wire NT audit gates
+  1. Run convert_bundles_to_mlflow.py (sandbox venv) — register models
+  2. Run verify_mlflow_models.py (NT venv) — verify load + predict
+  3. Wire 3-layer audit gates for NT project
+  4. Implement runtime_smoke_test.py PostToolUse hook (global)
+  5. Complete MLflow Phases 6-8 (AST hook, guardrails, memory)
+  6. Apply SJM bug fixes + resume causal audit Phases 3-6

@@ -1,0 +1,144 @@
+#!/bin/bash
+# =============================================================================
+# Audit Gate — Native Git Pre-Commit Hook
+# =============================================================================
+# Purpose: Block commits if code has been modified since the last audit.
+# Enforces the 3-part audit receipt (Semgrep + CodeRabbit + Zero-Context).
+#
+# Install via: scripts/setup_git_hooks.sh
+# Template source: docs/templates/pre-commit (tracked in git)
+# =============================================================================
+
+set -euo pipefail
+
+# ---------------------------------------------------------------------------
+# Resolve repo root (works from any subdirectory)
+# ---------------------------------------------------------------------------
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+RECEIPT="$REPO_ROOT/.audit_receipt.json"
+
+# ---------------------------------------------------------------------------
+# Check 1: Receipt must exist
+# ---------------------------------------------------------------------------
+if [[ ! -f "$RECEIPT" ]]; then
+  echo "AUDIT GATE DENY: No .audit_receipt.json found at repo root ($REPO_ROOT)" >&2
+  echo "  → Run the 3-part audit (Zero-Context Reviewer + Semgrep + CodeRabbit) first." >&2
+  echo "  → Then call: bash .claude/hooks/write_audit_receipt.sh" >&2
+  exit 1
+fi
+
+# ---------------------------------------------------------------------------
+# Check 2: jq must be available (fail closed if not)
+# ---------------------------------------------------------------------------
+if ! command -v jq &>/dev/null; then
+  echo "AUDIT GATE DENY: 'jq' is not available in PATH." >&2
+  echo "  → Install jq (e.g. winget install jqlang.jq) or add it to PATH." >&2
+  exit 1
+fi
+
+# ---------------------------------------------------------------------------
+# Check 3: Validate receipt fields
+# ---------------------------------------------------------------------------
+
+# 3a: semgrep_pass must be true
+SEMGREP_PASS="$(jq -r '.semgrep_pass // "false"' "$RECEIPT")"
+if [[ "$SEMGREP_PASS" != "true" ]]; then
+  echo "AUDIT GATE DENY: receipt field 'semgrep_pass' is not true (got: $SEMGREP_PASS)" >&2
+  exit 1
+fi
+
+# 3b: coderabbit_approval_id must be non-empty
+CR_ID="$(jq -r '.coderabbit_approval_id // ""' "$RECEIPT")"
+if [[ -z "$CR_ID" ]]; then
+  echo "AUDIT GATE DENY: receipt field 'coderabbit_approval_id' is empty." >&2
+  exit 1
+fi
+
+# 3c: zero_context_reviewer_notes must be >50 characters
+ZCR_NOTES="$(jq -r '.zero_context_reviewer_notes // ""' "$RECEIPT")"
+ZCR_LEN="${#ZCR_NOTES}"
+if [[ "$ZCR_LEN" -le 50 ]]; then
+  echo "AUDIT GATE DENY: 'zero_context_reviewer_notes' is too short ($ZCR_LEN chars, need >50)." >&2
+  exit 1
+fi
+
+# ---------------------------------------------------------------------------
+# Check 4: Receipt age — must be <3600s old and not >60s in the future
+# ---------------------------------------------------------------------------
+RECEIPT_EPOCH="$(jq -r '.timestamp_epoch // "missing"' "$RECEIPT")"
+NOW_EPOCH="$(date +%s)"
+
+if [[ "$RECEIPT_EPOCH" == "missing" ]]; then
+    echo "AUDIT GATE DENY: Receipt missing 'timestamp_epoch' field." >&2
+    exit 1
+fi
+
+# Validate timestamp_epoch is a number
+if ! [[ "$RECEIPT_EPOCH" =~ ^[0-9]+$ ]]; then
+  echo "AUDIT GATE DENY: receipt 'timestamp_epoch' is not a valid integer: $RECEIPT_EPOCH" >&2
+  exit 1
+fi
+
+AGE_SECONDS=$(( NOW_EPOCH - RECEIPT_EPOCH ))
+
+# Receipt too old (>3600 seconds = 1 hour)
+if [[ "$AGE_SECONDS" -gt 3600 ]]; then
+  echo "AUDIT GATE DENY: Audit receipt is stale (${AGE_SECONDS}s old, limit 3600s)." >&2
+  echo "  → Re-run the 3-part audit and generate a fresh receipt before committing." >&2
+  exit 1
+fi
+
+# Receipt from the future — spoofing check (>60s ahead)
+if [[ "$AGE_SECONDS" -lt -60 ]]; then
+  FUTURE_DELTA=$(( -AGE_SECONDS ))
+  echo "AUDIT GATE DENY: Audit receipt timestamp is ${FUTURE_DELTA}s in the future (spoofing check)." >&2
+  exit 1
+fi
+
+# ---------------------------------------------------------------------------
+# Check 5: Find the newest .py or .sh source file
+#           Exclude .git, .claude, .venv, __pycache__, and other non-source dirs
+# ---------------------------------------------------------------------------
+NEWEST_FILE=""
+NEWEST_MTIME=0
+
+while IFS= read -r -d '' file; do
+        if [[ "$(uname -s)" == "Darwin" ]]; then
+            FILE_MTIME="$(stat -f %m "$file" 2>/dev/null || echo 0)"
+        else
+            FILE_MTIME="$(stat -c %Y "$file" 2>/dev/null || echo 0)"
+        fi
+    if [[ "$FILE_MTIME" -gt "$NEWEST_MTIME" ]]; then
+        NEWEST_MTIME="$FILE_MTIME"
+        NEWEST_FILE="$file"
+    fi
+done < <(find "$REPO_ROOT" \
+    \( -name ".git" -o -name ".claude" -o -name ".venv" -o -name "__pycache__" -o -name ".pytest_cache" -o -name "*.egg-info" -o -name "node_modules" \) -prune -o \
+    \( -name "*.py" -o -name "*.sh" \) -type f -print0)
+
+# ---------------------------------------------------------------------------
+# No source files found — nothing to audit, allow commit
+# ---------------------------------------------------------------------------
+if [[ -z "$NEWEST_FILE" ]]; then
+  echo "Audit Gate PASSED: No .py or .sh source files found — nothing to audit." >&2
+  exit 0
+fi
+
+# ---------------------------------------------------------------------------
+# Check 6: Compare newest source file mtime vs receipt timestamp_epoch (from JSON)
+# Use the receipt's timestamp_epoch (from JSON) as the authoritative audit timestamp.
+# This is more reliable than filesystem mtime which can be affected by copies, backups, etc.
+# ---------------------------------------------------------------------------
+if [[ "$NEWEST_MTIME" -gt "$RECEIPT_EPOCH" ]]; then
+  echo "AUDIT GATE DENY: Code modified since last audit." >&2
+  echo "  Newest source: $NEWEST_FILE (mtime: $NEWEST_MTIME)" >&2
+  echo "  Audit receipt epoch: $RECEIPT_EPOCH" >&2
+  echo "  Run the 3-part audit and write a fresh receipt." >&2
+  exit 1
+fi
+
+# ---------------------------------------------------------------------------
+# All checks passed
+# ---------------------------------------------------------------------------
+echo "Audit Gate PASSED: Receipt is valid, fresh, and newer than all source files." >&2
+exit 0
