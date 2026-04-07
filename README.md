@@ -1,4 +1,4 @@
-# OpenBrainLM
+# OpenBrainLM -> PUBLIC VERSION (coming...) "OctaBrian_v1.01"
 
 **A brain harness for large language models.**
 
