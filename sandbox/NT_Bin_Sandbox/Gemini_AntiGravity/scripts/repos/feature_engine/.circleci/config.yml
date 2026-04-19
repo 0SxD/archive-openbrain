@@ -1,0 +1,294 @@
+version: 2.1
+
+orbs:
+  codecov: codecov/codecov@3.2.3
+
+
+# --------------------------------------------------
+# Anchors & defaults
+# --------------------------------------------------
+
+defaults: &defaults
+  docker:
+    - image: cimg/python:3.10.0
+  working_directory: ~/project
+
+prepare_tox: &prepare_tox
+  run:
+    name: Install tox
+    command: |
+      pip install --upgrade pip
+      pip uninstall -y virtualenv
+      pip install --user tox
+
+init_pypirc: &init_pypirc
+  run:
+    name: Init .pypirc
+    command: |
+      echo -e "[pypi]" >> ~/.pypirc
+      echo -e "repository = $FE_PYPI_URL" >> ~/.pypirc
+      echo -e "username = $FE_PYPI_USER" >> ~/.pypirc
+      echo -e "password = $FE_PYPI_API_KEY" >> ~/.pypirc
+
+
+# --------------------------------------------------
+# Jobs
+# --------------------------------------------------
+
+jobs:
+
+  # ------------------------
+  # Test matrix
+  # ------------------------
+
+  test_feature_engine_py39:
+    docker:
+      - image: cimg/python:3.9.0
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.9)
+          command: |
+            tox -e py39
+
+  test_feature_engine_py310:
+    docker:
+      - image: cimg/python:3.10.0
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.10)
+          command: |
+            tox -e py310
+
+  test_feature_engine_py311_sklearn150:
+    docker:
+      - image: cimg/python:3.11.7
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.11, scikit-learn 1.5)
+          command: |
+            tox -e py311-sklearn150
+
+  test_feature_engine_py311_sklearn160:
+    docker:
+      - image: cimg/python:3.11.7
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.11, scikit-learn 1.6)
+          command: |
+            tox -e py311-sklearn160
+
+  test_feature_engine_py311_sklearn170:
+    docker:
+      - image: cimg/python:3.11.7
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.11, scikit-learn 1.7)
+          command: |
+            tox -e py311-sklearn170
+
+  test_feature_engine_py312_pandas230:
+    docker:
+      - image: cimg/python:3.12.1
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.12, pandas 2.3)
+          command: |
+            tox -e py312-pandas230
+
+  test_feature_engine_py312_pandas300:
+    docker:
+      - image: cimg/python:3.12.1
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.12, pandas 3.0)
+          command: |
+            tox -e py312-pandas300
+
+  test_feature_engine_py313:
+    docker:
+      - image: cimg/python:3.13.1
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.13)
+          command: |
+            tox -e py313
+
+  test_feature_engine_py314:
+    docker:
+      - image: cimg/python:3.14.0
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run tests (Python 3.14)
+          command: |
+            tox -e py314
+
+
+  # ------------------------
+  # Quality checks
+  # ------------------------
+
+  test_style:
+    docker:
+      - image: cimg/python:3.10.0
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run style checks
+          command: |
+            tox -e stylechecks
+
+  test_docs:
+    docker:
+      - image: cimg/python:3.10.0
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Build documentation
+          command: |
+            tox -e docs
+
+  test_type:
+    docker:
+      - image: cimg/python:3.10.0
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - *prepare_tox
+      - run:
+          name: Run type checks
+          command: |
+            tox -e typechecks
+
+
+  # ------------------------
+  # Coverage
+  # ------------------------
+
+  upload_codecov:
+    docker:
+      - image: cimg/python:3.10.0
+    working_directory: ~/project
+    steps:
+      - checkout:
+          path: ~/project
+      - run:
+          name: Run tests and collect coverage
+          command: |
+            pip install --upgrade pip
+            pip install -e ".[tests]"
+            coverage run -m pytest -v
+            coverage report
+      - codecov/upload
+
+
+  # ------------------------
+  # Release
+  # ------------------------
+
+  package_and_upload_to_pypi:
+    <<: *defaults
+    steps:
+      - checkout
+      - *init_pypirc
+      - run:
+          name: Build and upload package
+          command: |
+            python -m venv env
+            source env/bin/activate
+            pip install --upgrade pip
+            pip install twine build
+            rm -rf dist/*
+            python -m build
+            ls -l dist
+            twine upload dist/*
+
+
+# --------------------------------------------------
+# Workflows
+# --------------------------------------------------
+
+workflows:
+  version: 2
+
+  test-all:
+    jobs:
+      - test_feature_engine_py39
+      - test_feature_engine_py310
+      - test_feature_engine_py311_sklearn150
+      - test_feature_engine_py311_sklearn160
+      - test_feature_engine_py311_sklearn170
+      - test_feature_engine_py312_pandas230
+      - test_feature_engine_py312_pandas300
+      - test_feature_engine_py313
+      - test_feature_engine_py314
+      - test_style
+      - test_docs
+      - test_type
+
+      - upload_codecov:
+          filters:
+            branches:
+              ignore:
+                - 1.9.X
+
+      - package_and_upload_to_pypi:
+          requires:
+            - test_feature_engine_py39
+            - test_feature_engine_py310
+            - test_feature_engine_py311_sklearn150
+            - test_feature_engine_py311_sklearn160
+            - test_feature_engine_py311_sklearn170
+            - test_feature_engine_py312_pandas230
+            - test_feature_engine_py312_pandas300
+            - test_feature_engine_py313
+            - test_feature_engine_py314
+            - test_style
+            - test_docs
+            - test_type
+          filters:
+            branches:
+              only:
+                - 1.9.X

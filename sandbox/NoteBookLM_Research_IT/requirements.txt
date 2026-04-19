@@ -1,0 +1,8 @@
+# No Python pip dependencies required.
+# This sandbox uses Python stdlib only, per OpenBrain CLAUDE.md governance rules.
+#
+# Runtime dependency (pre-installed, open source MIT):
+#   notebooklm-mcp-nodejs  — https://github.com/YassKhazzan/notebooklm-mcp-nodejs
+#   Node.js / npx           — https://nodejs.org (MIT)
+#
+# The query_notebook.py script invokes the above via subprocess (no pip install needed).

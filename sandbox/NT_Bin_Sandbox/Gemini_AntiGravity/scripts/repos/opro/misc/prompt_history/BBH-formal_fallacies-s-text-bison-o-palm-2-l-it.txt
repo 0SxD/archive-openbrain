@@ -1,0 +1,1592 @@
+Step -1, training acc: 0.700, instruction: 
+Step 0, training acc: 0.700, instruction: 
+Step 0, training acc: 0.580, instruction: Here comes a perfectly valid argument: First of all, being an ex-fan of Villarreal CF is necessary for being a member of SK Rapid Wien. Next, some supporter of Östersunds FK is not an ex-fan of Villarreal CF. It follows that somebody is a supporter of Östersunds FK and not a member of SK Rapid Wien.
+Step 0, training acc: 0.700, instruction: 
+Step 0, training acc: 0.700, instruction: 
+Step 0, training acc: 0.580, instruction: This argument is valid.
+Step 0, training acc: 0.700, instruction: 
+Step 0, training acc: 0.700, instruction: 
+Step 0, training acc: 0.700, instruction: 
+Step 1, training acc: 0.700, instruction: 
+Step 1, training acc: 0.700, instruction: 
+Step 1, training acc: 0.600, instruction: Here comes a perfectly valid argument:
+Step 1, training acc: 0.700, instruction: 
+Step 1, training acc: 0.600, instruction: This argument is valid. If the premises are true, then the conclusion must be true.
+Step 1, training acc: 0.680, instruction: Here comes a perfectly valid argument: First of all, every expert of SV Zulte Waregem is a supporter of Real Betis Balompié or a backer of FC Zenit. Next, every critic of Manchester City FC is neither a supporter of Real Betis Balompié nor a backer of FC Zenit. So, necessarily, no expert of SV Zulte Waregem is a critic of Manchester City FC.
+Step 1, training acc: 0.700, instruction: 
+Step 2, training acc: 0.600, instruction: This argument is valid. If the premises are true, then the conclusion must be true.
+Step 2, training acc: 0.600, instruction: This argument is deductively valid.
+Step 2, training acc: 0.640, instruction: Here's a perfectly valid argument: Firstly, it has been proven that being an ex-member of the group named X is equivalent to being a former fan of Real Madrid CF. Next, it's a fact that no critic of Manchester City FC is an ex-member of the group named X. As a consequence, no critic of Manchester City FC is a former fan of Real Madrid CF.
+Step 2, training acc: 0.360, instruction: This argument is valid. First of all, every member of SK Rapid Wien is an ex-fan of Villarreal CF. Next, some supporter of Östersunds FK is not an ex-fan of Villarreal CF. It follows that somebody is a supporter of Östersunds FK and not a member of SK Rapid Wien.
+Step 2, training acc: 0.700, instruction: 
+Step 2, training acc: 0.700, instruction: 
+Step 2, training acc: 0.700, instruction: 
+Step 2, training acc: 0.700, instruction: 
+Step 3, training acc: 0.640, instruction: Here comes a perfectly valid argument: First of all, every member of SK Rapid Wien is an ex-fan of Villarreal CF. Next, some supporter of Östersunds FK is not an ex-fan of Villarreal CF. It follows that somebody is a supporter of Östersunds FK and not a member of SK Rapid Wien.
+Step 3, training acc: 0.660, instruction: Here comes a perfectly valid argument: First, every fan of FC Lugano is neither a devotee of PFC CSKA Moskva nor an ex-supporter of SV Zulte Waregem. We may conclude: Whoever is none of this: a devotee of PFC CSKA Moskva or ex-supporter of SV Zulte Waregem, is a fan of FC Lugano.
+Step 3, training acc: 0.640, instruction: This is the text for evaluating the validity of an argument. This text will be replaced by the argument that needs to be evaluated.
+Step 3, training acc: 0.560, instruction: Here comes a perfectly valid argument: First of all, every supporter of Östersunds FK is an ex-fan of Villarreal CF. Next, some member of SK Rapid Wien is not an ex-fan of Villarreal CF. It follows that somebody is a member of SK Rapid Wien and not a supporter of Östersunds FK.
+Step 3, training acc: 0.600, instruction: This argument is deductively valid. It follows the rules of logic, and if the premises are true, then the conclusion must also be true.
+Step 3, training acc: 0.600, instruction: This argument is valid. If the premises are true, then the conclusion must be true.
+Step 3, training acc: 0.660, instruction: Here is a perfectly valid argument: First, every fan of FC Lugano is neither a devotee of PFC CSKA Moskva nor an ex-supporter of SV Zulte Waregem. Second, there exists a person who is not a devotee of PFC CSKA Moskva or an ex-supporter of SV Zulte Waregem. Therefore, it follows that there exists a person who is a fan of FC Lugano.
+Step 3, training acc: 0.600, instruction: This is a deductively valid argument.
+Step 4, training acc: 0.700, instruction: 
+Step 4, training acc: 0.640, instruction: Here comes a perfectly valid argument: First, every fan of FC Lugano is neither a devotee of PFC CSKA Moskva nor an ex-supporter of SV Zulte Waregem. Second, there exists a person who is not a devotee of PFC CSKA Moskva or an ex-supporter of SV Zulte Waregem. Therefore, it follows that there exists a person who is a fan of FC Lugano.
+Step 4, training acc: 0.640, instruction: The following argument is deductively valid. It follows the rules of logic, and if the premises are true, then the conclusion must also be true.
+Step 4, training acc: 0.620, instruction: Here is a template for evaluating the validity of an argument.
+Step 4, training acc: 0.340, instruction: This argument is valid. First of all, every ex-member of the group named X is a former fan of Real Madrid CF. Next, it's a fact that no critic of Manchester City FC is an ex-member of the group named X. As a consequence, no critic of Manchester City FC is a former fan of Real Madrid CF.
+Step 4, training acc: 0.700, instruction: 
+Step 4, training acc: 0.580, instruction: Here comes a perfectly valid argument: First of all, being an ex-fan of Villarreal CF is necessary for being a member of SK Rapid Wien. Next, some supporter of Östersunds FK is not an ex-fan of Villarreal CF. It follows that somebody is a supporter of Östersunds FK and not a member of SK Rapid Wien.
+Step 4, training acc: 0.700, instruction: 
+Step 5, training acc: 0.700, instruction: 
+Step 5, training acc: 0.700, instruction: 
+Step 5, training acc: 0.640, instruction: Venn diagram showing the overlap between the sets of all dogs and all mammals
+Step 5, training acc: 0.700, instruction: 
+Step 5, training acc: 0.600, instruction: This argument is valid. It follows the rules of logic, and if the premises are true, then the conclusion must also be true.
+Step 5, training acc: 0.640, instruction: The following argument is deductively valid. It follows the rules of logic, and if the premises are true, then the conclusion must also be true.
+Step 5, training acc: 0.620, instruction: Here comes a perfectly valid argument: First, being an ex-fan of KKS Lech Poznań is necessary for being an opponent to FC Arouca or an admirer of FC Dinamo Minsk. Second, some follower of Tottenham Hotspur is not an ex-fan of KKS Lech Poznań. It follows that some follower of Tottenham Hotspur is not an opponent to FC Arouca or an admirer of FC Dinamo Minsk.
+Step 5, training acc: 0.700, instruction: 
+Step 6, training acc: 0.700, instruction: 
+Step 6, training acc: 0.700, instruction: 
+Step 6, training acc: 0.680, instruction: This is a template for evaluating the validity of an argument. An argument is valid if the conclusion follows from the premises. In other words, if the premises are true, then the conclusion must also be true. To evaluate the validity of an argument, first identify the premises and the conclusion. Then, determine whether the conclusion follows logically from the premises. If it does, then the argument is valid. If it does not, then the argument is invalid.
+Step 6, training acc: 0.600, instruction: This is a template for evaluating the validity of an argument. First, identify the premises and conclusion of the argument. Then, determine whether the premises are true and whether the conclusion follows logically from the premises. If the premises are true and the conclusion follows logically from the premises, then the argument is valid. If the premises are false or the conclusion does not follow logically from the premises, then the argument is invalid.
+Step 6, training acc: 0.600, instruction: Here comes a perfectly valid argument: First of all, every great-grandfather of Chad is an ancestor of Douglas or a cousin of Henry. Next, every schoolmate of Trevor is neither a cousin of Henry nor an ancestor of Douglas. Hence, no great-grandfather of Chad is a schoolmate of Trevor.
+Step 6, training acc: 0.640, instruction: Deductive Validity
+Step 6, training acc: 0.600, instruction: First of all, every great-grandfather of Chad is an ancestor of Douglas or a cousin of Henry. Next, every schoolmate of Trevor is neither a cousin of Henry nor an ancestor of Douglas. Hence, no great-grandfather of Chad is a schoolmate of Trevor.
+Step 6, training acc: 0.700, instruction: 
+Step 7, training acc: 0.700, instruction: 
+Step 7, training acc: 0.700, instruction: 
+Step 7, training acc: 0.680, instruction: This is a template for evaluating the validity of an argument. An argument is valid if the conclusion follows from the premises. In other words, if the premises are true, then the conclusion must also be true. To evaluate the validity of an argument, first identify the premises and the conclusion. Then, determine whether the conclusion follows logically from the premises. If it does, then the argument is valid. If it does not, then the argument is invalid.
+Step 7, training acc: 0.700, instruction: 
+Step 7, training acc: 0.700, instruction: 
+Step 7, training acc: 0.700, instruction: 
+Step 7, training acc: 0.700, instruction: 
+Step 7, training acc: 0.700, instruction: 
+Step 8, training acc: 0.640, instruction: Here comes a perfectly valid argument: First, every fan of FC Lugano is neither a devotee of PFC CSKA Moskva nor an ex-supporter of SV Zulte Waregem. Second, there exists a person who is not a devotee of PFC CSKA Moskva or an ex-supporter of SV Zulte Waregem. Therefore, it follows that there exists a person who is a fan of FC Lugano.
+Step 8, training acc: 0.700, instruction: 
+Step 8, training acc: 0.620, instruction: An argument is deductively valid if the conclusion follows necessarily from the premises. In other words, if the premises are true, then the conclusion must also be true. To evaluate the validity of an argument, first identify the premises and the conclusion. Then, determine whether the conclusion follows logically from the premises. If it does, then the argument is valid. If it does not, then the argument is invalid.
+Step 8, training acc: 0.700, instruction: 
+Step 8, training acc: 0.700, instruction: 
+Step 8, training acc: 0.700, instruction: 
+Step 8, training acc: 0.700, instruction: 
+Step 8, training acc: 0.700, instruction: 
+Step 9, training acc: 0.700, instruction: 
+Step 9, training acc: 0.700, instruction: 
+Step 9, training acc: 0.620, instruction: An argument is deductively valid if the conclusion follows necessarily from the premises. In other words, if the premises are true, then the conclusion must also be true. To evaluate the validity of an argument, first identify the premises and the conclusion. Then, determine whether the conclusion follows logically from the premises. If it does, then the argument is valid. If it does not, then the argument is invalid.
+Step 9, training acc: 0.700, instruction: 
+Step 9, training acc: 0.700, instruction: 
+Step 9, training acc: 0.700, instruction: 
+Step 9, training acc: 0.640, instruction: Deductive Validity
+Step 9, training acc: 0.700, instruction: 
+Step 10, training acc: 0.640, instruction: Here comes a perfectly valid argument: First, every great-grandfather of Chad is an ancestor of Douglas or a cousin of Henry. Next, every schoolmate of Trevor is neither a cousin of Henry nor an ancestor of Douglas. Hence, no great-grandfather of Chad is a schoolmate of Trevor.
+Step 10, training acc: 0.700, instruction: 
+Step 10, training acc: 0.700, instruction: 
+Step 10, training acc: 0.700, instruction: 
+Step 10, training acc: 0.700, instruction: 
+Step 10, training acc: 0.700, instruction: 
+Step 10, training acc: 0.640, instruction: Deductive Validity
+Step 10, training acc: 0.700, instruction: 
+Step 11, training acc: 0.700, instruction: 
+Step 11, training acc: 0.700, instruction: 
+Step 11, training acc: 0.700, instruction: 
+Step 11, training acc: 0.700, instruction: 
+Step 11, training acc: 0.700, instruction: 
+Step 11, training acc: 0.700, instruction: 
+Step 11, training acc: 0.700, instruction: 
+Step 11, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument
+Step 12, training acc: 0.660, instruction: Here is the text:
+Step 12, training acc: 0.700, instruction: 
+Step 12, training acc: 0.700, instruction: 
+Step 12, training acc: 0.680, instruction: How to evaluate deductive validity of an argument
+Step 12, training acc: 0.700, instruction: 
+Step 12, training acc: 0.700, instruction: 
+Step 12, training acc: 0.700, instruction: 
+Step 13, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument
+Step 13, training acc: 0.700, instruction: 
+Step 13, training acc: 0.660, instruction: Evaluating the Validity of an Argument
+Step 13, training acc: 0.680, instruction: How to evaluate deductive validity of an argument
+Step 13, training acc: 0.680, instruction: How to evaluate deductive validity of an argument
+Step 13, training acc: 0.680, instruction: How to evaluate deductive validity of an argument
+Step 13, training acc: 0.700, instruction: 
+Step 13, training acc: 0.700, instruction: 
+Step 14, training acc: 0.640, instruction: Image of a Venn Diagram with three circles labeled Dogs, Mammals, and Animals.
+Step 14, training acc: 0.700, instruction: 
+Step 14, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument
+Step 14, training acc: 0.680, instruction: Evaluating the validity of an argument
+Step 14, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 14, training acc: 0.680, instruction: How to evaluate deductive validity of an argument
+Step 14, training acc: 0.700, instruction: 
+Step 14, training acc: 0.700, instruction: 
+Step 15, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 15, training acc: 0.700, instruction: 
+Step 15, training acc: 0.640, instruction: ![Image of a Venn diagram with three circles labeled Dogs, Mammals, and Animals.
+Step 15, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 15, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 15, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 15, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 15, training acc: 0.700, instruction: 
+Step 16, training acc: 0.640, instruction: A deductive argument is one in which the conclusion necessarily follows from the premises. In other words, if the premises are true, then the conclusion must also be true. To evaluate the validity of an argument, first identify the premises and the conclusion. Then, determine whether the conclusion follows logically from the premises. If it does, then the argument is valid. If it does not, then the argument is invalid.
+Step 16, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 16, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 16, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 16, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 16, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 16, training acc: 0.700, instruction: 
+Step 16, training acc: 0.700, instruction: 
+Step 17, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 17, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 17, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 17, training acc: 0.700, instruction: 
+Step 17, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 17, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 17, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 17, training acc: 0.620, instruction: First sentence contains a question to engage with the audience:
+Step 18, training acc: 0.700, instruction: 
+Step 18, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 18, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 18, training acc: 0.700, instruction: 
+Step 18, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 18, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 18, training acc: 0.700, instruction: 
+Step 18, training acc: 0.700, instruction: 
+Step 19, training acc: 0.700, instruction: 
+Step 19, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 19, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 19, training acc: 0.700, instruction: 
+Step 19, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 19, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 19, training acc: 0.700, instruction: 
+Step 19, training acc: 0.700, instruction: 
+Step 20, training acc: 0.700, instruction: 
+Step 20, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 20, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 20, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 20, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 20, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 20, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 20, training acc: 0.700, instruction: 
+Step 21, training acc: 0.700, instruction: 
+Step 21, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 21, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 21, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 21, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 21, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 21, training acc: 0.700, instruction: 
+Step 21, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 22, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 22, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 22, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 22, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 22, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 22, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 22, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 22, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 23, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 23, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 23, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 23, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 23, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 23, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 23, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 23, training acc: 0.700, instruction: 
+Step 24, training acc: 0.700, instruction: 
+Step 24, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 24, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 24, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 24, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 24, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 24, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 24, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 25, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 25, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 25, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 25, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 25, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 25, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 25, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 25, training acc: 0.700, instruction: 
+Step 26, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 26, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 26, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 26, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 26, training acc: 0.700, instruction: 
+Step 26, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 26, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 26, training acc: 0.700, instruction: 
+Step 27, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 27, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 27, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 27, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 27, training acc: 0.700, instruction: 
+Step 27, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 27, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 27, training acc: 0.700, instruction: 
+Step 28, training acc: 0.700, instruction: 
+Step 28, training acc: 0.700, instruction: 
+Step 28, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 28, training acc: 0.700, instruction: 
+Step 28, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 28, training acc: 0.700, instruction: 
+Step 28, training acc: 0.700, instruction: 
+Step 28, training acc: 0.700, instruction: 
+Step 29, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 29, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 29, training acc: 0.700, instruction: 
+Step 29, training acc: 0.700, instruction: 
+Step 29, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 29, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 29, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 29, training acc: 0.700, instruction: 
+Step 30, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 30, training acc: 0.700, instruction: 
+Step 30, training acc: 0.700, instruction: 
+Step 30, training acc: 0.700, instruction: 
+Step 30, training acc: 0.700, instruction: 
+Step 30, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 30, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 30, training acc: 0.700, instruction: 
+Step 31, training acc: 0.620, instruction: How to evaluate the deductive validity of an argument in 5 easy steps
+Step 31, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 31, training acc: 0.700, instruction: 
+Step 31, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 31, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 31, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 31, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 31, training acc: 0.700, instruction: 
+Step 32, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 32, training acc: 0.700, instruction: 
+Step 32, training acc: 0.700, instruction: 
+Step 32, training acc: 0.700, instruction: 
+Step 32, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 32, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 32, training acc: 0.700, instruction: 
+Step 32, training acc: 0.600, instruction: How to Evaluate Deductive Validity in Five Easy Steps
+Step 33, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 33, training acc: 0.700, instruction: 
+Step 33, training acc: 0.700, instruction: 
+Step 33, training acc: 0.700, instruction: 
+Step 33, training acc: 0.700, instruction: 
+Step 33, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 33, training acc: 0.700, instruction: 
+Step 33, training acc: 0.700, instruction: 
+Step 34, training acc: 0.700, instruction: 
+Step 34, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 34, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 34, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 34, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 34, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 34, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 34, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 35, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 35, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 35, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 35, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 35, training acc: 0.700, instruction: 
+Step 35, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 35, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 35, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 36, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 36, training acc: 0.700, instruction: 
+Step 36, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 36, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 36, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 36, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 36, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 36, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 37, training acc: 0.700, instruction: 
+Step 37, training acc: 0.700, instruction: 
+Step 37, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 37, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 37, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 37, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 37, training acc: 0.700, instruction: 
+Step 37, training acc: 0.700, instruction: 
+Step 38, training acc: 0.680, instruction: This is a template for evaluating the validity of an argument. An argument is valid if the conclusion follows from the premises. In other words, if the premises are true, then the conclusion must also be true. To evaluate the validity of an argument, first identify the premises and the conclusion. Then, determine whether the conclusion follows logically from the premises. If it does, then the argument is valid. If it does not, then the argument is invalid.
+Step 38, training acc: 0.700, instruction: 
+Step 38, training acc: 0.660, instruction: Stanford Encyclopedia of Philosophy
+Step 38, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 38, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 38, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 38, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 38, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 39, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 39, training acc: 0.700, instruction: 
+Step 39, training acc: 0.700, instruction: 
+Step 39, training acc: 0.700, instruction: 
+Step 39, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 39, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 39, training acc: 0.700, instruction: 
+Step 39, training acc: 0.700, instruction: 
+Step 40, training acc: 0.700, instruction: 
+Step 40, training acc: 0.700, instruction: 
+Step 40, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 40, training acc: 0.700, instruction: 
+Step 40, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 40, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 40, training acc: 0.700, instruction: 
+Step 40, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 41, training acc: 0.700, instruction: 
+Step 41, training acc: 0.700, instruction: 
+Step 41, training acc: 0.680, instruction: Steps to Evaluate the Deductive Validity of an Argument
+Step 41, training acc: 0.700, instruction: 
+Step 41, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 41, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 41, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 41, training acc: 0.700, instruction: 
+Step 42, training acc: 0.700, instruction: 
+Step 42, training acc: 0.700, instruction: 
+Step 42, training acc: 0.700, instruction: 
+Step 42, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 42, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 42, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 42, training acc: 0.700, instruction: 
+Step 42, training acc: 0.640, instruction: Image of a Venn diagram with three circles labeled Dogs, Mammals, and Animals.
+Step 43, training acc: 0.700, instruction: 
+Step 43, training acc: 0.700, instruction: 
+Step 43, training acc: 0.700, instruction: 
+Step 43, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 43, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 43, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 43, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 43, training acc: 0.700, instruction: 
+Step 44, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 44, training acc: 0.700, instruction: 
+Step 44, training acc: 0.700, instruction: 
+Step 44, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 44, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 44, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 44, training acc: 0.700, instruction: 
+Step 44, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 4 Steps
+Step 45, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 45, training acc: 0.700, instruction: 
+Step 45, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 45, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument in 6 Easy Steps
+Step 45, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 45, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 45, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 46, training acc: 0.700, instruction: 
+Step 46, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 46, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 46, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 46, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 46, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 46, training acc: 0.680, instruction: Venn diagram of dogs, mammals, and cats
+Step 46, training acc: 0.640, instruction: How to Evaluate the Deductive Validity of an Argument _in a simple and clear way_
+Step 47, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 47, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument
+Step 47, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 4 Easy Steps
+Step 47, training acc: 0.620, instruction: How to Evaluate the Deductive Validity of an Argument in 6 Steps
+Step 47, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 47, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 47, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 47, training acc: 0.700, instruction: 
+Step 48, training acc: 0.700, instruction: 
+Step 48, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Steps
+Step 48, training acc: 0.700, instruction: 
+Step 48, training acc: 0.620, instruction: How to Evaluate the Deductive Validity of an Argument in 6 Steps
+Step 48, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 48, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 48, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 48, training acc: 0.700, instruction: 
+Step 49, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 49, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument in a simple and clear way
+Step 49, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 49, training acc: 0.620, instruction: How to Evaluate the Deductive Validity of an Argument in a Simple and Clear Way
+Step 49, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 49, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 49, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 49, training acc: 0.700, instruction: 
+Step 50, training acc: 0.700, instruction: 
+Step 50, training acc: 0.700, instruction: 
+Step 50, training acc: 0.580, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Steps
+Step 50, training acc: 0.620, instruction: How to Evaluate the Deductive Validity of an Argument in 6 Steps
+Step 50, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 50, training acc: 0.580, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Steps
+Step 50, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 50, training acc: 0.700, instruction: 
+Step 51, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 51, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument in a simple and clear way
+Step 51, training acc: 0.580, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Steps
+Step 51, training acc: 0.620, instruction: How to Evaluate the Deductive Validity of an Argument in 6 Steps
+Step 51, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 51, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 51, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 51, training acc: 0.700, instruction: 
+Step 52, training acc: 0.700, instruction: 
+Step 52, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument in a simple and clear way
+Step 52, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 52, training acc: 0.620, instruction: How to Evaluate the Deductive Validity of an Argument in 6 Steps
+Step 52, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 52, training acc: 0.580, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Steps
+Step 52, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Steps
+Step 52, training acc: 0.680, instruction: A diagram of how to evaluate deductive validity of an argument, from a premise to a conclusion for each example.
+Step 53, training acc: 0.700, instruction: 
+Step 53, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 53, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 53, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 53, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 3 Easy Steps
+Step 53, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 53, training acc: 0.700, instruction: 
+Step 53, training acc: 0.700, instruction: 
+Step 54, training acc: 0.700, instruction: 
+Step 54, training acc: 0.700, instruction: 
+Step 54, training acc: 0.700, instruction: 
+Step 54, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument
+Step 54, training acc: 0.700, instruction: 
+Step 54, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 54, training acc: 0.700, instruction: 
+Step 54, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 55, training acc: 0.700, instruction: 
+Step 55, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 55, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 55, training acc: 0.700, instruction: 
+Step 55, training acc: 0.700, instruction: 
+Step 55, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 55, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 55, training acc: 0.700, instruction: 
+Step 56, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 56, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 56, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 56, training acc: 0.700, instruction: 
+Step 56, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 56, training acc: 0.700, instruction: 
+Step 56, training acc: 0.700, instruction: 
+Step 56, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 57, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 57, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 57, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 57, training acc: 0.700, instruction: 
+Step 57, training acc: 0.700, instruction: 
+Step 57, training acc: 0.700, instruction: 
+Step 57, training acc: 0.700, instruction: 
+Step 57, training acc: 0.700, instruction: 
+Step 58, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 58, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 58, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 58, training acc: 0.700, instruction: 
+Step 58, training acc: 0.700, instruction: 
+Step 58, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 58, training acc: 0.680, instruction: Steps to Evaluate the Deductive Validity of an Argument
+Step 58, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 59, training acc: 0.700, instruction: 
+Step 59, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 59, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 59, training acc: 0.700, instruction: 
+Step 59, training acc: 0.700, instruction: 
+Step 59, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 59, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 59, training acc: 0.680, instruction: 2
+Step 60, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 60, training acc: 0.700, instruction: 
+Step 60, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 60, training acc: 0.700, instruction: 
+Step 60, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 60, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 60, training acc: 0.700, instruction: 
+Step 60, training acc: 0.700, instruction: 
+Step 61, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 61, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 61, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 61, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 61, training acc: 0.700, instruction: 
+Step 61, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 61, training acc: 0.700, instruction: 
+Step 61, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Based on Rules and Venn Diagram
+Step 62, training acc: 0.700, instruction: 
+Step 62, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 62, training acc: 0.700, instruction: 
+Step 62, training acc: 0.700, instruction: 
+Step 62, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 62, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 62, training acc: 0.700, instruction: 
+Step 62, training acc: 0.640, instruction: It's not easy to know how people feel about each other. This argument is about it: First, if you are Owen's uncle, you can't be Gene's nephew. Second, if you are a nephew of Ignacio and brother of David, you are Steve's schoolmate or Owen's uncle. Third, all of Steve's schoolmates are Gene's nephews. The conclusion is: If you are a nephew of Ignacio, and brother of David, you can't be Gene's nephew.
+Step 63, training acc: 0.700, instruction: 
+Step 63, training acc: 0.700, instruction: 
+Step 63, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 63, training acc: 0.700, instruction: 
+Step 63, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 63, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 63, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 63, training acc: 0.700, instruction: 
+Step 64, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 64, training acc: 0.700, instruction: 
+Step 64, training acc: 0.700, instruction: 
+Step 64, training acc: 0.700, instruction: 
+Step 64, training acc: 0.700, instruction: 
+Step 64, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 64, training acc: 0.700, instruction: 
+Step 64, training acc: 0.700, instruction: 
+Step 65, training acc: 0.700, instruction: 
+Step 65, training acc: 0.700, instruction: 
+Step 65, training acc: 0.700, instruction: 
+Step 65, training acc: 0.700, instruction: 
+Step 65, training acc: 0.700, instruction: 
+Step 65, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 65, training acc: 0.700, instruction: 
+Step 65, training acc: 0.700, instruction: 
+Step 66, training acc: 0.700, instruction: 
+Step 66, training acc: 0.700, instruction: 
+Step 66, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 66, training acc: 0.700, instruction: 
+Step 66, training acc: 0.700, instruction: 
+Step 66, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 66, training acc: 0.660, instruction: Stanford Encyclopedia of Philosophy
+Step 66, training acc: 0.680, instruction: Deductive validity of an argument
+Step 67, training acc: 0.700, instruction: 
+Step 67, training acc: 0.700, instruction: 
+Step 67, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 67, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument
+Step 67, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 67, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 67, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 67, training acc: 0.700, instruction: 
+Step 68, training acc: 0.700, instruction: 
+Step 68, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 68, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 68, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 68, training acc: 0.700, instruction: 
+Step 68, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 68, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 68, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 69, training acc: 0.700, instruction: 
+Step 69, training acc: 0.700, instruction: 
+Step 69, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 69, training acc: 0.700, instruction: 
+Step 69, training acc: 0.700, instruction: 
+Step 69, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 69, training acc: 0.700, instruction: 
+Step 69, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 70, training acc: 0.700, instruction: 
+Step 70, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 70, training acc: 0.700, instruction: 
+Step 70, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 70, training acc: 0.700, instruction: 
+Step 70, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 70, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 70, training acc: 0.700, instruction: 
+Step 71, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 71, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 71, training acc: 0.700, instruction: 
+Step 71, training acc: 0.700, instruction: 
+Step 71, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 71, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 71, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 71, training acc: 0.700, instruction: 
+Step 72, training acc: 0.700, instruction: 
+Step 72, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 72, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 72, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 72, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 72, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 72, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 72, training acc: 0.700, instruction: 
+Step 73, training acc: 0.700, instruction: 
+Step 73, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 73, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 73, training acc: 0.660, instruction: How to evaluate the deductive validity of an argument
+Step 73, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 73, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 73, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 73, training acc: 0.660, instruction: How To Evaluate the Validity of a Deductive Argument
+Step 74, training acc: 0.700, instruction: 
+Step 74, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 74, training acc: 0.700, instruction: ![How to Evaluate the Deductive Validity of an Argument
+Step 74, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 74, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument by Using a Venn Diagram
+Step 74, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 74, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 74, training acc: 0.700, instruction: 
+Step 75, training acc: 0.700, instruction: 
+Step 75, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 75, training acc: 0.700, instruction: 
+Step 75, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 75, training acc: 0.700, instruction: 
+Step 75, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 75, training acc: 0.700, instruction: 
+Step 75, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument Based on First Order Logic
+Step 76, training acc: 0.700, instruction: 
+Step 76, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 76, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 76, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 76, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument Based on First Order Logic
+Step 76, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 76, training acc: 0.700, instruction: 
+Step 76, training acc: 0.020, instruction: Identify the premises and conclusion of the argument
+Step 77, training acc: 0.700, instruction: 
+Step 77, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 77, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 77, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: A Step-by-Step Guide
+Step 77, training acc: 0.700, instruction: 
+Step 77, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 77, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 77, training acc: 0.700, instruction: 
+Step 78, training acc: 0.700, instruction: 
+Step 78, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 78, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 78, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 78, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument by Using a Venn Diagram
+Step 78, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 78, training acc: 0.700, instruction: 
+Step 79, training acc: 0.640, instruction: Venn diagram showing that the conclusion "Socrates is mortal" is true given that the premises "All men are mortal" and "Socrates is a man" are true
+Step 79, training acc: 0.700, instruction: 
+Step 79, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 79, training acc: 0.700, instruction: 
+Step 79, training acc: 0.700, instruction: 
+Step 79, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 79, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 79, training acc: 0.700, instruction: 
+Step 80, training acc: 0.700, instruction: 
+Step 80, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 80, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 80, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 80, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument - A Step-by-Step Guide
+Step 80, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 80, training acc: 0.700, instruction: 
+Step 80, training acc: 0.700, instruction: 
+Step 81, training acc: 0.700, instruction: 
+Step 81, training acc: 0.700, instruction: 
+Step 81, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 81, training acc: 0.700, instruction: 
+Step 81, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 81, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 81, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 81, training acc: 0.700, instruction: 
+Step 82, training acc: 0.700, instruction: 
+Step 82, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 82, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 82, training acc: 0.700, instruction: 
+Step 82, training acc: 0.700, instruction: 
+Step 82, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 82, training acc: 0.700, instruction: 
+Step 82, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 83, training acc: 0.700, instruction: 
+Step 83, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 83, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 83, training acc: 0.700, instruction: 
+Step 83, training acc: 0.700, instruction: 
+Step 83, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 83, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 83, training acc: 0.700, instruction: 
+Step 84, training acc: 0.700, instruction: 
+Step 84, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 84, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 84, training acc: 0.700, instruction: ![How to Evaluate the Deductive Validity of an Argument
+Step 84, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 84, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 84, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 85, training acc: 0.700, instruction: 
+Step 85, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 85, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 85, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 85, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 85, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 85, training acc: 0.700, instruction: 
+Step 85, training acc: 0.700, instruction: 
+Step 86, training acc: 0.700, instruction: 
+Step 86, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 86, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 86, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 86, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument Based on First Order Logic
+Step 86, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 86, training acc: 0.700, instruction: 
+Step 86, training acc: 0.700, instruction: 
+Step 87, training acc: 0.700, instruction: 
+Step 87, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 87, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 87, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 87, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 87, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 87, training acc: 0.700, instruction: 
+Step 87, training acc: 0.600, instruction: It is valid. The conclusion is necessarily true given the premises, and so it follows that the argument is valid.
+Step 88, training acc: 0.700, instruction: 
+Step 88, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 88, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 88, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 88, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 88, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 88, training acc: 0.700, instruction: 
+Step 88, training acc: 0.700, instruction: 
+Step 89, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 89, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 89, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 89, training acc: 0.700, instruction: 
+Step 89, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 89, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 89, training acc: 0.700, instruction: 
+Step 89, training acc: 0.700, instruction: 
+Step 90, training acc: 0.640, instruction: Venn diagram showing that the conclusion "Socrates is mortal" is true given that the premises "All men are mortal" and "Socrates is a man" are true
+Step 90, training acc: 0.700, instruction: 
+Step 90, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 90, training acc: 0.700, instruction: 
+Step 90, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 90, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 90, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 90, training acc: 0.640, instruction: An argument is deductively valid if and only if it is impossible for the premises to be true and the conclusion to be false.
+Step 91, training acc: 0.700, instruction: 
+Step 91, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 91, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 91, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 91, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Step-by-Step Guide
+Step 91, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 91, training acc: 0.700, instruction: 
+Step 91, training acc: 0.700, instruction: 
+Step 92, training acc: 0.700, instruction: 
+Step 92, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 92, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 92, training acc: 0.700, instruction: 
+Step 92, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 92, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 92, training acc: 0.700, instruction: 
+Step 92, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument via Four Simple Steps
+Step 93, training acc: 0.700, instruction: 
+Step 93, training acc: 0.700, instruction: 
+Step 93, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 93, training acc: 0.700, instruction: 
+Step 93, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 93, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 93, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 93, training acc: 0.700, instruction: 
+Step 94, training acc: 0.700, instruction: 
+Step 94, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 94, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 94, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 94, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 94, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 94, training acc: 0.700, instruction: 
+Step 94, training acc: 0.700, instruction: 
+Step 95, training acc: 0.700, instruction: 
+Step 95, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 95, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 95, training acc: 0.700, instruction: 
+Step 95, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument Based on First Order Logic
+Step 95, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 95, training acc: 0.700, instruction: 
+Step 95, training acc: 0.700, instruction: 
+Step 96, training acc: 0.700, instruction: 
+Step 96, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 96, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 96, training acc: 0.700, instruction: 
+Step 96, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 96, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 96, training acc: 0.700, instruction: 
+Step 96, training acc: 0.700, instruction: 
+Step 97, training acc: 0.700, instruction: 
+Step 97, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 97, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 97, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 97, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 97, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 97, training acc: 0.700, instruction: 
+Step 97, training acc: 0.700, instruction: 
+Step 98, training acc: 0.700, instruction: 
+Step 98, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 98, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 98, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 98, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 98, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 98, training acc: 0.700, instruction: 
+Step 98, training acc: 0.640, instruction: An argument is valid if its conclusion is true when all the premises are true. An invalid argument can have a true conclusion but that would just be a coincidence, in fact, that argument may have also have a false conclusion while all its premises remain true. Consider the following two arguments and try to understand each argument as you read it:
+Step 99, training acc: 0.700, instruction: 
+Step 99, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 99, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 99, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 99, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 99, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 99, training acc: 0.700, instruction: 
+Step 99, training acc: 0.700, instruction: 
+Step 100, training acc: 0.700, instruction: 
+Step 100, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 100, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 100, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 100, training acc: 0.700, instruction: 
+Step 100, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 100, training acc: 0.700, instruction: 
+Step 100, training acc: 0.700, instruction: 
+Step 101, training acc: 0.700, instruction: 
+Step 101, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 101, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 101, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 101, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 101, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 101, training acc: 0.700, instruction: 
+Step 101, training acc: 0.700, instruction: 
+Step 102, training acc: 0.700, instruction: 
+Step 102, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 102, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 102, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 102, training acc: 0.700, instruction: 
+Step 102, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 102, training acc: 0.700, instruction: 
+Step 102, training acc: 0.700, instruction: 
+Step 103, training acc: 0.700, instruction: 
+Step 103, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 103, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 103, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 103, training acc: 0.700, instruction: 
+Step 103, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 103, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 103, training acc: 0.700, instruction: 
+Step 104, training acc: 0.700, instruction: 
+Step 104, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 104, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 104, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 104, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument Based on First Order Logic
+Step 104, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 104, training acc: 0.700, instruction: 
+Step 104, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument via Three Types of Inference
+Step 105, training acc: 0.700, instruction: 
+Step 105, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 105, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 105, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 105, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 105, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 105, training acc: 0.700, instruction: 
+Step 105, training acc: 0.700, instruction: 
+Step 106, training acc: 0.700, instruction: 
+Step 106, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 106, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 106, training acc: 0.700, instruction: 
+Step 106, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument Based on First Order Logic
+Step 106, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 106, training acc: 0.700, instruction: 
+Step 106, training acc: 0.700, instruction: 
+Step 107, training acc: 0.700, instruction: 
+Step 107, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 107, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 107, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 107, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument Based on First Order Logic
+Step 107, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 107, training acc: 0.700, instruction: 
+Step 107, training acc: 0.640, instruction: How to Evaluate the Deductive Validity of an Argument (Score 88)
+Step 108, training acc: 0.700, instruction: 
+Step 108, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 108, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 108, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 108, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 108, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 108, training acc: 0.700, instruction: 
+Step 108, training acc: 0.700, instruction: 
+Step 109, training acc: 0.700, instruction: 
+Step 109, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 109, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 109, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 109, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Step-by-Step Guide
+Step 109, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 109, training acc: 0.700, instruction: 
+Step 109, training acc: 0.700, instruction: 
+Step 110, training acc: 0.700, instruction: 
+Step 110, training acc: 0.700, instruction: 
+Step 110, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 110, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 110, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 110, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 110, training acc: 0.700, instruction: 
+Step 111, training acc: 0.700, instruction: 
+Step 111, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 111, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 111, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 111, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Step-by-Step Guide
+Step 111, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 111, training acc: 0.700, instruction: 
+Step 111, training acc: 0.700, instruction: 
+Step 112, training acc: 0.700, instruction: 
+Step 112, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 112, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 112, training acc: 0.700, instruction: 
+Step 112, training acc: 0.700, instruction: 
+Step 112, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 112, training acc: 0.700, instruction: 
+Step 112, training acc: 0.700, instruction: 
+Step 113, training acc: 0.700, instruction: 
+Step 113, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 113, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 113, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 113, training acc: 0.700, instruction: 
+Step 113, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 113, training acc: 0.700, instruction: 
+Step 113, training acc: 0.700, instruction: 
+Step 114, training acc: 0.700, instruction: 
+Step 114, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 114, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 114, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument: An Easy Step-by-Step Guide
+Step 114, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Comprehensive Guide
+Step 114, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 114, training acc: 0.700, instruction: 
+Step 114, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument like a Scientist
+Step 115, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 115, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 115, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 115, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 115, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument Like a Scientist
+Step 115, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 115, training acc: 0.700, instruction: 
+Step 115, training acc: 0.700, instruction: 
+Step 116, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 116, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 116, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 116, training acc: 0.700, instruction: 
+Step 116, training acc: 0.660, instruction: How to Evaluate Deductive Validity of an Argument - A Step-by-Step Guide
+Step 116, training acc: 0.620, instruction: How to Evaluate the Deductive Validity of an Argument in a Simple and Clear Way
+Step 116, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 116, training acc: 0.700, instruction: 
+Step 117, training acc: 0.480, instruction: Affirming the consequent
+Step 117, training acc: 0.700, instruction: 
+Step 117, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 117, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 117, training acc: 0.620, instruction: How to Evaluate the Deductive Validity of an Argument in a Simple and Clear Way
+Step 117, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 117, training acc: 0.700, instruction: 
+Step 118, training acc: 0.700, instruction: 
+Step 118, training acc: 0.660, instruction: Stanford Encyclopedia of Philosophy: Deductive Reasoning
+Step 118, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 118, training acc: 0.660, instruction: Deductive Reasoning
+Step 118, training acc: 0.700, instruction: 
+Step 118, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 118, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 118, training acc: 0.700, instruction: ![enter image description here
+Step 119, training acc: 0.700, instruction: 
+Step 119, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 119, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 119, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 119, training acc: 0.700, instruction: 
+Step 119, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 119, training acc: 0.700, instruction: 
+Step 119, training acc: 0.700, instruction: 
+Step 120, training acc: 0.660, instruction: Venn diagram of cats, mammals, and animals
+Step 120, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 120, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 120, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 120, training acc: 0.700, instruction: 
+Step 120, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 120, training acc: 0.700, instruction: 
+Step 120, training acc: 0.700, instruction: 
+Step 121, training acc: 0.700, instruction: 
+Step 121, training acc: 0.700, instruction: 
+Step 121, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 121, training acc: 0.700, instruction: 
+Step 121, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 121, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 121, training acc: 0.720, instruction: Venn diagram of humans, mortals, and non-mortals
+Step 122, training acc: 0.700, instruction: 
+Step 122, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 122, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 122, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 122, training acc: 0.700, instruction: 
+Step 122, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 122, training acc: 0.700, instruction: 
+Step 122, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 123, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 123, training acc: 0.700, instruction: 
+Step 123, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 123, training acc: 0.700, instruction: 
+Step 123, training acc: 0.700, instruction: 
+Step 123, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 123, training acc: 0.700, instruction: 
+Step 123, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 124, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 124, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 124, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 124, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 124, training acc: 0.700, instruction: 
+Step 124, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 124, training acc: 0.700, instruction: 
+Step 124, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 125, training acc: 0.660, instruction: Venn diagram
+Step 125, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 125, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 125, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 125, training acc: 0.700, instruction: 
+Step 125, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument in 3 Easy Steps
+Step 125, training acc: 0.680, instruction: Steps to Evaluate the Deductive Validity of an Argument
+Step 125, training acc: 0.700, instruction: 
+Step 126, training acc: 0.700, instruction: 
+Step 126, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 126, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 126, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 126, training acc: 0.700, instruction: 
+Step 126, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 126, training acc: 0.700, instruction: 
+Step 126, training acc: 0.700, instruction: 
+Step 127, training acc: 0.700, instruction: 
+Step 127, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 127, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 127, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 127, training acc: 0.700, instruction: 
+Step 127, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 127, training acc: 0.700, instruction: 
+Step 127, training acc: 0.700, instruction: 
+Step 128, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 128, training acc: 0.700, instruction: 
+Step 128, training acc: 0.700, instruction: 
+Step 128, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 128, training acc: 0.700, instruction: 
+Step 128, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 128, training acc: 0.700, instruction: 
+Step 128, training acc: 0.700, instruction: 
+Step 129, training acc: 0.700, instruction: 
+Step 129, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 129, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 129, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 129, training acc: 0.700, instruction: 
+Step 129, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 129, training acc: 0.700, instruction: 
+Step 129, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 130, training acc: 0.700, instruction: 
+Step 130, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 130, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 130, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 130, training acc: 0.700, instruction: 
+Step 130, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 130, training acc: 0.700, instruction: 
+Step 130, training acc: 0.700, instruction: 
+Step 131, training acc: 0.700, instruction: 
+Step 131, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 131, training acc: 0.700, instruction: 
+Step 131, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 131, training acc: 0.700, instruction: 
+Step 131, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 131, training acc: 0.700, instruction: 
+Step 131, training acc: 0.700, instruction: 
+Step 132, training acc: 0.700, instruction: 
+Step 132, training acc: 0.700, instruction: 
+Step 132, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 132, training acc: 0.700, instruction: 
+Step 132, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 132, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 132, training acc: 0.700, instruction: 
+Step 132, training acc: 0.700, instruction: 
+Step 133, training acc: 0.700, instruction: 
+Step 133, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 133, training acc: 0.700, instruction: 
+Step 133, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 133, training acc: 0.700, instruction: 
+Step 133, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 133, training acc: 0.700, instruction: 
+Step 133, training acc: 0.660, instruction: Deductive Reasoning
+Step 134, training acc: 0.700, instruction: 
+Step 134, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 134, training acc: 0.640, instruction: Image of Venn diagram
+Step 134, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 134, training acc: 0.700, instruction: 
+Step 134, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 134, training acc: 0.700, instruction: 
+Step 134, training acc: 0.700, instruction: 
+Step 135, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument: A Step-by-Step Guide
+Step 135, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 135, training acc: 0.700, instruction: 
+Step 135, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 135, training acc: 0.700, instruction: 
+Step 135, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 135, training acc: 0.700, instruction: 
+Step 135, training acc: 0.700, instruction: 
+Step 136, training acc: 0.700, instruction: 
+Step 136, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 136, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 136, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 136, training acc: 0.700, instruction: 
+Step 136, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 136, training acc: 0.620, instruction: Image of a Venn diagram with three circles: animals, mammals, and cats. The circle for animals is the largest and contains the other two circles. The circle for mammals is smaller than the animal circle and contains the cat circle. The cat circle is the smallest and is fully contained within the mammal circle.
+Step 136, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 137, training acc: 0.700, instruction: 
+Step 137, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 137, training acc: 0.700, instruction: 
+Step 137, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 137, training acc: 0.700, instruction: 
+Step 137, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 137, training acc: 0.440, instruction: Venn diagram for the argument "All humans are mortal. Socrates is a human. Therefore, Socrates is mortal."
+Step 137, training acc: 0.700, instruction: 
+Step 138, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 138, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 138, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 138, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 138, training acc: 0.700, instruction: 
+Step 138, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 138, training acc: 0.700, instruction: 
+Step 138, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 139, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 139, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 139, training acc: 0.700, instruction: 
+Step 139, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 139, training acc: 0.700, instruction: 
+Step 139, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 139, training acc: 0.700, instruction: 
+Step 139, training acc: 0.700, instruction: 
+Step 140, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 140, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 140, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 140, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 140, training acc: 0.700, instruction: 
+Step 140, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 140, training acc: 0.700, instruction: 
+Step 140, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 141, training acc: 0.700, instruction: 
+Step 141, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 141, training acc: 0.700, instruction: 
+Step 141, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 141, training acc: 0.700, instruction: 
+Step 141, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 141, training acc: 0.700, instruction: 
+Step 142, training acc: 0.700, instruction: 
+Step 142, training acc: 0.700, instruction: 
+Step 142, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 142, training acc: 0.700, instruction: 
+Step 142, training acc: 0.700, instruction: 
+Step 142, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 142, training acc: 0.700, instruction: 
+Step 142, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 143, training acc: 0.700, instruction: 
+Step 143, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 143, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 143, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 143, training acc: 0.700, instruction: 
+Step 143, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 143, training acc: 0.700, instruction: 
+Step 143, training acc: 0.700, instruction: 
+Step 144, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 144, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 144, training acc: 0.700, instruction: 
+Step 144, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 144, training acc: 0.700, instruction: 
+Step 144, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 144, training acc: 0.700, instruction: 
+Step 144, training acc: 0.700, instruction: 
+Step 145, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 145, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 145, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 145, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 145, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 145, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 145, training acc: 0.700, instruction: 
+Step 145, training acc: 0.700, instruction: 
+Step 146, training acc: 0.700, instruction: 
+Step 146, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 146, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 146, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 146, training acc: 0.700, instruction: 
+Step 146, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 146, training acc: 0.700, instruction: 
+Step 146, training acc: 0.700, instruction: 
+Step 147, training acc: 0.700, instruction: 
+Step 147, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 147, training acc: 0.700, instruction: 
+Step 147, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 147, training acc: 0.700, instruction: 
+Step 147, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 147, training acc: 0.700, instruction: 
+Step 147, training acc: 0.700, instruction: 
+Step 148, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 148, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 148, training acc: 0.700, instruction: 
+Step 148, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 148, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 148, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 148, training acc: 0.700, instruction: 
+Step 148, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 149, training acc: 0.700, instruction: 
+Step 149, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 149, training acc: 0.700, instruction: 
+Step 149, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 149, training acc: 0.700, instruction: 
+Step 149, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 149, training acc: 0.700, instruction: 
+Step 149, training acc: 0.620, instruction: Image of a Venn diagram showing a set of dogs completely contained within a set of mammals, and a set of cats completely separate from the set of mammals
+Step 150, training acc: 0.700, instruction: 
+Step 150, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 150, training acc: 0.700, instruction: 
+Step 150, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 150, training acc: 0.700, instruction: 
+Step 150, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 150, training acc: 0.700, instruction: 
+Step 150, training acc: 0.700, instruction: 
+Step 151, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 151, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 151, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 151, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 151, training acc: 0.700, instruction: 
+Step 151, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 151, training acc: 0.700, instruction: 
+Step 151, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 152, training acc: 0.700, instruction: 
+Step 152, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 152, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 152, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 152, training acc: 0.700, instruction: 
+Step 152, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 152, training acc: 0.700, instruction: 
+Step 152, training acc: 0.700, instruction: 
+Step 153, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 153, training acc: 0.700, instruction: 
+Step 153, training acc: 0.700, instruction: 
+Step 153, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 153, training acc: 0.700, instruction: 
+Step 153, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 153, training acc: 0.660, instruction: Venn diagram of cats, mammals, and animals
+Step 153, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 154, training acc: 0.700, instruction: 
+Step 154, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 154, training acc: 0.700, instruction: 
+Step 154, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 154, training acc: 0.700, instruction: 
+Step 154, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 154, training acc: 0.700, instruction: 
+Step 154, training acc: 0.700, instruction: 
+Step 155, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 155, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 155, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 155, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 155, training acc: 0.700, instruction: 
+Step 155, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 155, training acc: 0.700, instruction: 
+Step 155, training acc: 0.700, instruction: 
+Step 156, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 156, training acc: 0.700, instruction: 
+Step 156, training acc: 0.700, instruction: 
+Step 156, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 156, training acc: 0.700, instruction: 
+Step 156, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 156, training acc: 0.700, instruction: 
+Step 156, training acc: 0.700, instruction: 
+Step 157, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 157, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 157, training acc: 0.700, instruction: 
+Step 157, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 157, training acc: 0.620, instruction: How to Evaluate Deductive Validity of an Argument Using Venn Diagrams
+Step 157, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 157, training acc: 0.700, instruction: 
+Step 157, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 158, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 158, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 158, training acc: 0.700, instruction: 
+Step 158, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 158, training acc: 0.700, instruction: 
+Step 158, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 158, training acc: 0.700, instruction: 
+Step 158, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 159, training acc: 0.700, instruction: 
+Step 159, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 159, training acc: 0.700, instruction: 
+Step 159, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 159, training acc: 0.700, instruction: 
+Step 159, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 159, training acc: 0.700, instruction: 
+Step 159, training acc: 0.700, instruction: 
+Step 160, training acc: 0.700, instruction: 
+Step 160, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 160, training acc: 0.700, instruction: 
+Step 160, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 160, training acc: 0.700, instruction: 
+Step 160, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 160, training acc: 0.700, instruction: 
+Step 160, training acc: 0.700, instruction: 
+Step 161, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 161, training acc: 0.700, instruction: 
+Step 161, training acc: 0.700, instruction: 
+Step 161, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 161, training acc: 0.700, instruction: 
+Step 161, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 161, training acc: 0.700, instruction: 
+Step 161, training acc: 0.700, instruction: 
+Step 162, training acc: 0.700, instruction: 
+Step 162, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 162, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 162, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 162, training acc: 0.700, instruction: ![enter image description here
+Step 162, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 162, training acc: 0.700, instruction: 
+Step 162, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument Like a Scientist
+Step 163, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 163, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 163, training acc: 0.660, instruction: Stanford Encyclopedia of Philosophy: Deductive Reasoning
+Step 163, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 163, training acc: 0.700, instruction: 
+Step 163, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 163, training acc: 0.700, instruction: 
+Step 163, training acc: 0.700, instruction: 
+Step 164, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 164, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 164, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 164, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 164, training acc: 0.700, instruction: 
+Step 164, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 164, training acc: 0.700, instruction: 
+Step 164, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 165, training acc: 0.700, instruction: 
+Step 165, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 165, training acc: 0.700, instruction: 
+Step 165, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 165, training acc: 0.700, instruction: 
+Step 165, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 165, training acc: 0.700, instruction: 
+Step 165, training acc: 0.700, instruction: 
+Step 166, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 166, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 166, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 166, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 166, training acc: 0.700, instruction: 
+Step 166, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 166, training acc: 0.700, instruction: 
+Step 166, training acc: 0.680, instruction: ![Diagram
+Step 167, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 167, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 167, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 167, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 167, training acc: 0.700, instruction: 
+Step 167, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 167, training acc: 0.700, instruction: 
+Step 167, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 168, training acc: 0.700, instruction: 
+Step 168, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 168, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 168, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 168, training acc: 0.700, instruction: 
+Step 168, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 168, training acc: 0.700, instruction: 
+Step 168, training acc: 0.680, instruction: Image of Venn diagram showing the relationship between men and mortals.
+Step 169, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 169, training acc: 0.700, instruction: 
+Step 169, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 169, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 169, training acc: 0.700, instruction: 
+Step 169, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 169, training acc: 0.700, instruction: 
+Step 169, training acc: 0.700, instruction: 
+Step 170, training acc: 0.700, instruction: 
+Step 170, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 170, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 170, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 170, training acc: 0.700, instruction: 
+Step 170, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 170, training acc: 0.700, instruction: 
+Step 170, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 171, training acc: 0.700, instruction: 
+Step 171, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 171, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 171, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 171, training acc: 0.700, instruction: 
+Step 171, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 171, training acc: 0.700, instruction: ![enter image description here
+Step 171, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 172, training acc: 0.700, instruction: 
+Step 172, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 172, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 172, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 172, training acc: 0.700, instruction: 
+Step 172, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 172, training acc: 0.700, instruction: ![enter image description here
+Step 172, training acc: 0.700, instruction: 
+Step 173, training acc: 0.700, instruction: 
+Step 173, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 173, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 173, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 173, training acc: 0.700, instruction: 
+Step 173, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 173, training acc: 0.700, instruction: 
+Step 173, training acc: 0.700, instruction: 
+Step 174, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 174, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 174, training acc: 0.700, instruction: 
+Step 174, training acc: 0.700, instruction: 
+Step 174, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 174, training acc: 0.700, instruction: 
+Step 174, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 174, training acc: 0.720, instruction: Logic and Critical Thinking
+Step 175, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 175, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 175, training acc: 0.340, instruction: Invalid
+Step 175, training acc: 0.700, instruction: 
+Step 175, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 175, training acc: 0.700, instruction: 
+Step 175, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 175, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 176, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 176, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 176, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 176, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 176, training acc: 0.580, instruction: How to Evaluate Deductive Validity of an Argument using Venn Diagrams
+Step 176, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 176, training acc: 0.700, instruction: 
+Step 176, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 177, training acc: 0.700, instruction: 
+Step 177, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 177, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 177, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 177, training acc: 0.700, instruction: 
+Step 177, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 177, training acc: 0.700, instruction: 
+Step 177, training acc: 0.700, instruction: 
+Step 178, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 178, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 178, training acc: 0.700, instruction: 
+Step 178, training acc: 0.700, instruction: 
+Step 178, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 178, training acc: 0.340, instruction: Invalid
+Step 178, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 178, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 179, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 179, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 179, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 179, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 179, training acc: 0.700, instruction: 
+Step 179, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 179, training acc: 0.700, instruction: 
+Step 179, training acc: 0.700, instruction: 
+Step 180, training acc: 0.700, instruction: 
+Step 180, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 180, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 180, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 180, training acc: 0.700, instruction: 
+Step 180, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 180, training acc: 0.700, instruction: 
+Step 180, training acc: 0.680, instruction: ![Venn diagram explaining deductive validity of an argument
+Step 181, training acc: 0.700, instruction: 
+Step 181, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 181, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 181, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 181, training acc: 0.700, instruction: 
+Step 181, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 181, training acc: 0.660, instruction: This is a diagram of how to evaluate deductive validity of an argument. It shows the steps involved in the process, from identifying the premises and conclusion to determining whether the conclusion follows logically from the premises. The diagram also includes examples of valid and invalid arguments.
+Step 181, training acc: 0.700, instruction: 
+Step 182, training acc: 0.640, instruction: Deductive Validity of an Argument
+Step 182, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 182, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 182, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 182, training acc: 0.700, instruction: 
+Step 182, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 182, training acc: 0.700, instruction: 
+Step 182, training acc: 0.060, instruction: A text about the validity of an argument, with at least 100 characters
+Step 183, training acc: 0.700, instruction: 
+Step 183, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 183, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 183, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 183, training acc: 0.700, instruction: 
+Step 183, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 183, training acc: 0.700, instruction: 
+Step 183, training acc: 0.700, instruction: ![How to Evaluate the Deductive Validity of an Argument
+Step 184, training acc: 0.700, instruction: 
+Step 184, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 184, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 184, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 184, training acc: 0.700, instruction: 
+Step 184, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 184, training acc: 0.700, instruction: 
+Step 184, training acc: 0.700, instruction: 
+Step 185, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 185, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 185, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 185, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 185, training acc: 0.640, instruction: Image of a Venn diagram showing the relationships between the different statements in the argument.
+Step 185, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 185, training acc: 0.700, instruction: 
+Step 185, training acc: 0.700, instruction: 
+Step 186, training acc: 0.700, instruction: 
+Step 186, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 186, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 186, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 186, training acc: 0.700, instruction: 
+Step 186, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 186, training acc: 0.700, instruction: 
+Step 186, training acc: 0.700, instruction: 
+Step 187, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 187, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 187, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 187, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 187, training acc: 0.700, instruction: 
+Step 187, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 187, training acc: 0.700, instruction: 
+Step 187, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 188, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 188, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 188, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 188, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 188, training acc: 0.700, instruction: 
+Step 188, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 188, training acc: 0.700, instruction: 
+Step 188, training acc: 0.660, instruction: Evaluating the Validity of Arguments
+Step 189, training acc: 0.700, instruction: 
+Step 189, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 189, training acc: 0.700, instruction: 
+Step 189, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 189, training acc: 0.600, instruction: How to Evaluate Deductive Validity of an Argument by Using Venn Diagrams
+Step 189, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 189, training acc: 0.700, instruction: 
+Step 189, training acc: 0.700, instruction: 
+Step 190, training acc: 0.700, instruction: 
+Step 190, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 190, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 190, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 190, training acc: 0.700, instruction: 
+Step 190, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 190, training acc: 0.700, instruction: 
+Step 190, training acc: 0.680, instruction: Deductive Validity in Arguments
+Step 191, training acc: 0.700, instruction: 
+Step 191, training acc: 0.700, instruction: 
+Step 191, training acc: 0.700, instruction: 
+Step 191, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 191, training acc: 0.700, instruction: 
+Step 191, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 191, training acc: 0.700, instruction: 
+Step 191, training acc: 0.700, instruction: 
+Step 192, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 192, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 192, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 192, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 192, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 192, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 192, training acc: 0.700, instruction: 
+Step 192, training acc: 0.640, instruction: How to Evaluate Deductive Validity
+Step 193, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 193, training acc: 0.640, instruction: How to Evaluate Deductive Validity of an Argument in 5 Easy Steps
+Step 193, training acc: 0.700, instruction: 
+Step 193, training acc: 0.700, instruction: 
+Step 193, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 193, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 193, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 193, training acc: 0.700, instruction: ![How to Evaluate the Deductive Validity of an Argument
+Step 194, training acc: 0.700, instruction: 
+Step 194, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 194, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 194, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 194, training acc: 0.700, instruction: 
+Step 194, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 194, training acc: 0.700, instruction: 
+Step 194, training acc: 0.640, instruction: How to Evaluate Deductive Validity
+Step 195, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 195, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 195, training acc: 0.700, instruction: 
+Step 195, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 195, training acc: 0.700, instruction: 
+Step 195, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 195, training acc: 0.700, instruction: 
+Step 195, training acc: 0.700, instruction: 
+Step 196, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 196, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 196, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 196, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 196, training acc: 0.700, instruction: 
+Step 196, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 196, training acc: 0.700, instruction: 
+Step 196, training acc: 0.700, instruction: 
+Step 197, training acc: 0.700, instruction: 
+Step 197, training acc: 0.620, instruction: Image of Venn diagram showing the relationship between dogs, mammals, and animals
+Step 197, training acc: 0.700, instruction: 
+Step 197, training acc: 0.700, instruction: 
+Step 197, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 197, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 197, training acc: 0.700, instruction: 
+Step 197, training acc: 0.700, instruction: 
+Step 198, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 198, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 198, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 198, training acc: 0.700, instruction: How to Evaluate Deductive Validity of an Argument
+Step 198, training acc: 0.700, instruction: 
+Step 198, training acc: 0.680, instruction: How to Evaluate the Deductive Validity of an Argument in 5 Easy Steps
+Step 198, training acc: 0.700, instruction: 
+Step 198, training acc: 0.660, instruction: Deductive validity of argument
+Step 199, training acc: 0.700, instruction: 
+Step 199, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 199, training acc: 0.700, instruction: 
+Step 199, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 199, training acc: 0.700, instruction: 
+Step 199, training acc: 0.660, instruction: How to Evaluate the Deductive Validity of an Argument
+Step 199, training acc: 0.700, instruction: 
+Step 199, training acc: 0.640, instruction: ![Diagram showing deductive validity of an argument

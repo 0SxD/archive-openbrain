@@ -1,0 +1,1434 @@
+Step -1, training acc: 0.800, instruction: 
+Step 0, training acc: 0.880, instruction: False and False or not (True) is False
+Step 0, training acc: 0.700, instruction: ```(False and False) or not (True)```
+Step 0, training acc: 0.800, instruction: 
+Step 0, training acc: 0.800, instruction: 
+Step 0, training acc: 0.580, instruction: A logical expression is a combination of logical variables, operators, and parentheses. The most common operators are and, or, not, and implies. Logical variables can be true or false. The meaning of a logical expression is determined by the values of the variables and the operators.
+Step 0, training acc: 0.900, instruction: Not
+Step 0, training acc: 0.780, instruction: 1 / ( 1 - ( 1 / ( 1 - not False ) ) )
+Step 0, training acc: 0.860, instruction: False and False or not ( True ) is False
+Step 1, training acc: 0.580, instruction: False and False or not ( True )
+Step 1, training acc: 0.440, instruction: ```not not True or False```
+Step 1, training acc: 0.520, instruction: Not False or not ( True and False )
+Step 1, training acc: 0.660, instruction: True or False or (True and False)
+Step 1, training acc: 0.680, instruction: Not False
+Step 1, training acc: 0.520, instruction: Not ( not False ) or not False
+Step 1, training acc: 0.800, instruction: 
+Step 2, training acc: 0.760, instruction: False and not False and False and not False and True and not True and False and True
+Step 2, training acc: 0.860, instruction: False and True and ( not False ) is False
+Step 2, training acc: 0.540, instruction: ```False and True and ( not False )```
+Step 2, training acc: 0.580, instruction: A logical expression is a combination of logical variables, operators, and parentheses. The most common operators are and, or, not, and implies. Logical variables can be true or false. The meaning of a logical expression is determined by the values of the variables and the operators.
+Step 2, training acc: 0.860, instruction: True and True and ( not False ) is True
+Step 2, training acc: 0.640, instruction: False and True and (not False)
+Step 2, training acc: 0.720, instruction: True and (not False)
+Step 3, training acc: 0.460, instruction: Not (True or False or False)
+Step 3, training acc: 0.620, instruction: Not (True or False)
+Step 3, training acc: 0.620, instruction: ```False``` or ```True``` or not ```True``` or ```False```
+Step 3, training acc: 0.720, instruction: True or False or not True
+Step 3, training acc: 0.780, instruction: Not (True or True or False) is False
+Step 3, training acc: 0.540, instruction: ```not True or not False or not ( True and False )```
+Step 3, training acc: 0.800, instruction: 
+Step 4, training acc: 0.680, instruction: Not False
+Step 4, training acc: 0.880, instruction: Not False and not True
+Step 4, training acc: 0.780, instruction: False and True and False
+Step 4, training acc: 0.620, instruction: Not ( False or True ) and not not not False
+Step 4, training acc: 0.800, instruction: True
+Step 4, training acc: 0.840, instruction: False and False and not False or True and not not False is True
+Step 4, training acc: 0.540, instruction: Not ( True and False )
+Step 4, training acc: 0.580, instruction: False and (not False) and (not True)
+Step 5, training acc: 0.760, instruction: True or False
+Step 5, training acc: 0.820, instruction: False or not False or not True
+Step 5, training acc: 0.800, instruction: True and False
+Step 5, training acc: 0.480, instruction: False and (not False) and (not True and not False)
+Step 5, training acc: 0.760, instruction: Not True and (False and False)
+Step 5, training acc: 0.840, instruction: Not True and not False
+Step 5, training acc: 0.640, instruction: ```False or not False or True```
+Step 5, training acc: 0.540, instruction: Not (True or False) and not (False and True)
+Step 6, training acc: 0.460, instruction: False and False and not (False or True)
+Step 6, training acc: 0.460, instruction: Not ( False or not True )
+Step 6, training acc: 0.680, instruction: Not False
+Step 6, training acc: 0.800, instruction: True
+Step 6, training acc: 0.700, instruction: Not ( False or not True ) and not False
+Step 6, training acc: 0.760, instruction: True or False
+Step 6, training acc: 0.520, instruction: True and (not False) and (not False)
+Step 6, training acc: 0.840, instruction: Not (False or False or True) is False
+Step 7, training acc: 0.680, instruction: True or False or not True and not True
+Step 7, training acc: 0.480, instruction: True or False or (not False and True)
+Step 7, training acc: 0.680, instruction: Not False
+Step 7, training acc: 0.700, instruction: True and False or True
+Step 7, training acc: 0.820, instruction: False or not True
+Step 7, training acc: 0.660, instruction: False or ( True ) or not True is
+Step 7, training acc: 0.540, instruction: Not (False or True)
+Step 8, training acc: 0.820, instruction: Not (False or False and not False) is True
+Step 8, training acc: 0.800, instruction: True and False
+Step 8, training acc: 0.880, instruction: Not False and not (False and False and False) is True
+Step 8, training acc: 0.600, instruction: True and not False or ( not False )
+Step 8, training acc: 0.640, instruction: False and not (False and False)
+Step 8, training acc: 0.760, instruction: True or False
+Step 8, training acc: 0.600, instruction: Not (False and False and False)
+Step 8, training acc: 0.560, instruction: Not (False or False and False) and not (True and False and False)
+Step 9, training acc: 0.500, instruction: Not (False or True or True) and not (False and False and False)
+Step 9, training acc: 0.620, instruction: True and not (True or False)
+Step 9, training acc: 0.700, instruction: True or (False and False)
+Step 9, training acc: 0.840, instruction: Not True and not False
+Step 9, training acc: 0.620, instruction: True and not (True or False)
+Step 9, training acc: 0.800, instruction: True
+Step 9, training acc: 0.520, instruction: Not (False and True)
+Step 9, training acc: 0.460, instruction: Not (not (not True) or not False)
+Step 10, training acc: 0.480, instruction: True and (not False or True)
+Step 10, training acc: 0.520, instruction: Not (False and True)
+Step 10, training acc: 0.420, instruction: (not True) or (not False)
+Step 10, training acc: 0.840, instruction: Not True and not False
+Step 10, training acc: 0.700, instruction: Not True and False
+Step 10, training acc: 0.800, instruction: True
+Step 10, training acc: 0.600, instruction: True and False and (Not True and Not False)
+Step 11, training acc: 0.520, instruction: Not (False or True or True)
+Step 11, training acc: 0.520, instruction: Not (False and True)
+Step 11, training acc: 0.780, instruction: False and not False or True and not False
+Step 11, training acc: 0.540, instruction: False or not True and (False or not True)
+Step 11, training acc: 0.700, instruction: Not True and False
+Step 11, training acc: 0.800, instruction: True
+Step 11, training acc: 0.880, instruction: True and not True
+Step 11, training acc: 0.500, instruction: True and False or not (False and False)
+Step 12, training acc: 0.760, instruction: Not not False
+Step 12, training acc: 0.600, instruction: True and False or False and True
+Step 12, training acc: 0.800, instruction: 
+Step 12, training acc: 0.900, instruction: False
+Step 12, training acc: 0.800, instruction: True
+Step 12, training acc: 0.900, instruction: False and not ( True ) is False
+Step 12, training acc: 0.540, instruction: Not (False or False or False)
+Step 12, training acc: 0.800, instruction: False and False and False and False and False and False and False and True and True and True
+Step 13, training acc: 0.800, instruction: Not (True or False) and False is False
+Step 13, training acc: 0.800, instruction: False and not False
+Step 13, training acc: 0.880, instruction: Not ( False and not True ) is True
+Step 13, training acc: 0.840, instruction: Not (False or False or True) and False is False
+Step 13, training acc: 0.620, instruction: Not (False or False or True) and not False
+Step 13, training acc: 0.800, instruction: True
+Step 13, training acc: 0.820, instruction: False and not True
+Step 13, training acc: 0.820, instruction: Not (False or True) and False is False
+Step 14, training acc: 0.480, instruction: Not (False or True) and (False or not False)
+Step 14, training acc: 0.620, instruction: True and not True and (not False)
+Step 14, training acc: 0.860, instruction: ![enter image description here
+Step 14, training acc: 0.540, instruction: False and not (True and False)
+Step 14, training acc: 0.620, instruction: Not (False or False or True) and not False
+Step 14, training acc: 0.760, instruction: Not True
+Step 14, training acc: 0.460, instruction: Not ( not False or not False )
+Step 14, training acc: 0.860, instruction: False and False and False or False is False
+Step 15, training acc: 0.480, instruction: Not (False or True) and (False or not False)
+Step 15, training acc: 0.540, instruction: Not (False or not False and True)
+Step 15, training acc: 0.800, instruction: True
+Step 15, training acc: 0.820, instruction: (False or True) and False
+Step 15, training acc: 0.880, instruction: True and not True
+Step 15, training acc: 0.820, instruction: Not not not not not not not not not True
+Step 15, training acc: 0.860, instruction: False and True and ( not False ) is False
+Step 15, training acc: 0.860, instruction: False and True and ( not False ) is False
+Step 16, training acc: 0.840, instruction: False and (not True) and False is False
+Step 16, training acc: 0.720, instruction: True or not False
+Step 16, training acc: 0.520, instruction: Not (True or False) and True
+Step 16, training acc: 0.880, instruction: False and False and not (True or False or True) is False
+Step 16, training acc: 0.680, instruction: Not (False or False) and False
+Step 16, training acc: 0.620, instruction: Not (True or False) and not True
+Step 16, training acc: 0.600, instruction: Not (True and False) and not (True and False)
+Step 16, training acc: 0.820, instruction: False and False and False and False and False and False and False and False and False and False
+Step 17, training acc: 0.640, instruction: False and (not True) and not False
+Step 17, training acc: 0.540, instruction: Not (False or True)
+Step 17, training acc: 0.440, instruction: Not (False or (False or not True))
+Step 17, training acc: 0.380, instruction: False and ( False or True ) or not True is
+Step 17, training acc: 0.900, instruction: True and not False and (not False) is True
+Step 17, training acc: 0.800, instruction: False and not False
+Step 17, training acc: 0.560, instruction: True and (False or not False)
+Step 18, training acc: 0.860, instruction: True and True and not False is True
+Step 18, training acc: 0.680, instruction: True or False or not False
+Step 18, training acc: 0.520, instruction: (True and False) and (not False) and (not False)
+Step 18, training acc: 0.440, instruction: False and False and False or not False or True and not (not True)
+Step 18, training acc: 0.880, instruction: False and False or False and False and False and not False is False
+Step 18, training acc: 0.820, instruction: False and not True
+Step 18, training acc: 0.560, instruction: Not (False and False and False) and not (True or True)
+Step 19, training acc: 0.840, instruction: True and False and not True
+Step 19, training acc: 0.860, instruction: False or False or False and not False
+Step 19, training acc: 0.600, instruction: Not (False and False and False)
+Step 19, training acc: 0.820, instruction: Not (False or True) and (not False) is True
+Step 19, training acc: 0.660, instruction: True or False or (True and False)
+Step 19, training acc: 0.760, instruction: True or False
+Step 19, training acc: 0.540, instruction: True and (not False) or (not True)
+Step 20, training acc: 0.520, instruction: Not ( True or False ) and not False
+Step 20, training acc: 0.560, instruction: False and (not True) or not False
+Step 20, training acc: 0.720, instruction: True or not False
+Step 20, training acc: 0.800, instruction: Not (True or False) and False is False
+Step 20, training acc: 0.880, instruction: True and not True
+Step 20, training acc: 0.880, instruction: False and not (True or True) and False is False
+Step 20, training acc: 0.880, instruction: True and (True or not False) is True
+Step 20, training acc: 0.500, instruction: Not ( not ( True ) or False ) and ( False and False ) or True
+Step 21, training acc: 0.600, instruction: True and (True or False) and (not False)
+Step 21, training acc: 0.600, instruction: False and False or not True and False
+Step 21, training acc: 0.840, instruction: True and (True or False) and False is True
+Step 21, training acc: 0.580, instruction: Not (True and False) and (False or not False)
+Step 21, training acc: 0.700, instruction: False and not True or False
+Step 21, training acc: 0.880, instruction: True and (False or not False) is True
+Step 22, training acc: 0.560, instruction: True and (True or not False)
+Step 22, training acc: 0.580, instruction: True or False or (not True and not False)
+Step 22, training acc: 0.480, instruction: True or (True or not False)
+Step 22, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 22, training acc: 0.500, instruction: True and True or not (False and False)
+Step 22, training acc: 0.700, instruction: False and not True or False
+Step 22, training acc: 0.520, instruction: Not ( not False and not True )
+Step 23, training acc: 0.620, instruction: Not False and not False and (True or False) is
+Step 23, training acc: 0.620, instruction: True or (False and not False) and (not not False)
+Step 23, training acc: 0.680, instruction: Not True or (True and not False)
+Step 23, training acc: 0.880, instruction: True and False and (not False) is True
+Step 23, training acc: 0.760, instruction: Not True and not False and not False
+Step 23, training acc: 0.540, instruction: Not ( True and False )
+Step 23, training acc: 0.640, instruction: False and (False or not False) and not True
+Step 24, training acc: 0.880, instruction: True and (True or not False) is True
+Step 24, training acc: 0.700, instruction: Not False and not not True
+Step 24, training acc: 0.720, instruction: Not (False and True) and (False or not False)
+Step 24, training acc: 0.540, instruction: True and False and (True or False or True) is not False
+Step 24, training acc: 0.880, instruction: False and False and not (True or False or True) is False
+Step 24, training acc: 0.620, instruction: True and True and not False or False
+Step 24, training acc: 0.640, instruction: True and True and True or False or False or not False
+Step 25, training acc: 0.880, instruction: True and (False or not False) is True
+Step 25, training acc: 0.440, instruction: False and False and (not True or not False)
+Step 25, training acc: 0.760, instruction: ```False and not True and (True or False) is False```
+Step 25, training acc: 0.860, instruction: True and False and (True or False or True) is True
+Step 25, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 25, training acc: 0.880, instruction: True and (False or not False) is True
+Step 25, training acc: 0.820, instruction: True and True and not True is False
+Step 26, training acc: 0.620, instruction: True and (False or not not False)
+Step 26, training acc: 0.840, instruction: Not False and not not False and (not False)
+Step 26, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 26, training acc: 0.760, instruction: Not True or False or not not True is True
+Step 26, training acc: 0.820, instruction: True and False and not False
+Step 26, training acc: 0.820, instruction: Not (False and False and False) is True
+Step 26, training acc: 0.880, instruction: True and not (False or True) is True
+Step 26, training acc: 0.880, instruction: False and False
+Step 27, training acc: 0.680, instruction: True and (True or False) and not (False or True)
+Step 27, training acc: 0.720, instruction: Not False and not False or False
+Step 27, training acc: 0.820, instruction: True and (not False) and True
+Step 27, training acc: 0.600, instruction: Not not ( True or False ) and not False
+Step 27, training acc: 0.540, instruction: True and False and not False and not (True or False or True)
+Step 27, training acc: 0.640, instruction: False and False and (True or False)
+Step 27, training acc: 0.800, instruction: Not not False and not False
+Step 27, training acc: 0.820, instruction: False and False and False and False and False and False and False and not False
+Step 28, training acc: 0.880, instruction: True and (False or not False) is True
+Step 28, training acc: 0.580, instruction: False or True and not (False and False)
+Step 28, training acc: 0.900, instruction: True and not (True and True)
+Step 28, training acc: 0.840, instruction: Not (False or False or False) is True
+Step 28, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 28, training acc: 0.880, instruction: False and False and not (True or False or True) is False
+Step 28, training acc: 0.420, instruction: Not ( not ( True or True or False ) )
+Step 28, training acc: 0.760, instruction: Not (False or True or False) is False
+Step 29, training acc: 0.500, instruction: True and (not False or False)
+Step 29, training acc: 0.880, instruction: False and False and not (False and False and True) is False
+Step 29, training acc: 0.800, instruction: 
+Step 29, training acc: 0.880, instruction: True and not (True or False or True) is False
+Step 29, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 29, training acc: 0.660, instruction: True or False or (True and False)
+Step 29, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 29, training acc: 0.460, instruction: Not ( True and False ) and not ( False and True )
+Step 30, training acc: 0.900, instruction: True and not (True or True or True) is False
+Step 30, training acc: 0.640, instruction: True and not False or False and True
+Step 30, training acc: 0.520, instruction: True and False and (not False or not True)
+Step 30, training acc: 0.900, instruction: Not not not False and True and False and not not not (False or True) is False
+Step 30, training acc: 0.460, instruction: Not ( not True or not False )
+Step 30, training acc: 0.520, instruction: False and not (True or True)
+Step 30, training acc: 0.880, instruction: True and False and not ( True or False or True ) is False
+Step 30, training acc: 0.620, instruction: Not (False or not True) and not (True and False)
+Step 31, training acc: 0.580, instruction: True and (True or False)
+Step 31, training acc: 0.900, instruction: True and not (True and True)
+Step 31, training acc: 0.660, instruction: Not (False and True) and not False
+Step 31, training acc: 0.620, instruction: True and not (False and False and False)
+Step 31, training acc: 0.840, instruction: Not ( True or True ) and False is False
+Step 31, training acc: 0.660, instruction: True and ( True or not False ) and False
+Step 31, training acc: 0.880, instruction: Not (False and not True) and False is False
+Step 32, training acc: 0.860, instruction: True and False and not (True or True or True) is False
+Step 32, training acc: 0.860, instruction: False or (False) or not True is False
+Step 32, training acc: 0.800, instruction: 
+Step 32, training acc: 0.880, instruction: False and not (True or False or True) is False
+Step 32, training acc: 0.860, instruction: True and False and (True or False) is True
+Step 32, training acc: 0.860, instruction: False or (False) or not True is False
+Step 32, training acc: 0.880, instruction: True and not (False or True or True) is False
+Step 32, training acc: 0.760, instruction: Not (False or False and False) is True
+Step 33, training acc: 0.560, instruction: True and (True or not False)
+Step 33, training acc: 0.660, instruction: False and not (True and False) and not False
+Step 33, training acc: 0.660, instruction: True and (not True or False) and not True
+Step 33, training acc: 0.860, instruction: True and False and (True or not False) is True
+Step 33, training acc: 0.660, instruction: True and (False or True or not False)
+Step 33, training acc: 0.380, instruction: True and (True or not False or False) and not (not True and True and not not False) and (True and not True and True) is
+Step 33, training acc: 0.520, instruction: Not (not True and not True and not True)
+Step 33, training acc: 0.500, instruction: False and (False or not True) and not (True or not True)
+Step 34, training acc: 0.600, instruction: True and not (True or False or False)
+Step 34, training acc: 0.500, instruction: Not True or (not True or not False)
+Step 34, training acc: 0.860, instruction: Not True and False and not True
+Step 34, training acc: 0.920, instruction: Not True or ( False and True ) is False
+Step 34, training acc: 0.860, instruction: True and (not True) is False
+Step 34, training acc: 0.660, instruction: True and False and not (False or True)
+Step 34, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 35, training acc: 0.620, instruction: True and False and not (False and True and False)
+Step 35, training acc: 0.460, instruction: False and not (False and False) and not (True or True)
+Step 35, training acc: 0.580, instruction: True or not False and (False or True)
+Step 35, training acc: 0.760, instruction: Not False and not True and False
+Step 35, training acc: 0.400, instruction: Not ( True or not True ) and ( not False )
+Step 35, training acc: 0.620, instruction: Not True or ( False and not False ) and not True
+Step 35, training acc: 0.820, instruction: True and (False or not True) is True
+Step 35, training acc: 0.560, instruction: Not (True and False) and (not False)
+Step 36, training acc: 0.620, instruction: True and (False or not not False)
+Step 36, training acc: 0.620, instruction: Not (False and not (False and True))
+Step 36, training acc: 0.800, instruction: Not True and False or False and False is False
+Step 36, training acc: 0.640, instruction: Not not not False and True and False and not not not (False or True)
+Step 36, training acc: 0.560, instruction: True and not (True and False) and not (True and True)
+Step 36, training acc: 0.860, instruction: False and not (True or True or False) is False
+Step 36, training acc: 0.920, instruction: True and ( False or not not not False ) is True
+Step 36, training acc: 0.460, instruction: Not (not False or not True)
+Step 37, training acc: 0.560, instruction: True and (False or not False)
+Step 37, training acc: 0.580, instruction: True and not (False or True) or False
+Step 37, training acc: 0.880, instruction: True and False and (not False) is True
+Step 37, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 37, training acc: 0.620, instruction: True and (False or not False) and not (False or True or True)
+Step 37, training acc: 0.820, instruction: Not ( False or False and False ) is True
+Step 37, training acc: 0.880, instruction: True and False and (not False) is True
+Step 38, training acc: 0.880, instruction: True and (False or not not False) is True
+Step 38, training acc: 0.840, instruction: True and not (False or True) or (False and False) is True
+Step 38, training acc: 0.880, instruction: True and not (False or True or True) is False
+Step 38, training acc: 0.780, instruction: False and (False or not False) is True
+Step 38, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 38, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 38, training acc: 0.880, instruction: True and False and (not False) is True
+Step 39, training acc: 0.880, instruction: True and not (False or not not True) is True
+Step 39, training acc: 0.660, instruction: True or False or (True and False)
+Step 39, training acc: 0.700, instruction: True and False and ( not True and True ) and not False
+Step 39, training acc: 0.880, instruction: True and not (False or True) is True
+Step 39, training acc: 0.860, instruction: True and False or True or False is True
+Step 39, training acc: 0.460, instruction: Not (False or True) and not (not True or not False)
+Step 39, training acc: 0.600, instruction: True or False or not True or False
+Step 39, training acc: 0.820, instruction: True and False and not (True or False or True) is True
+Step 40, training acc: 0.880, instruction: True and False and not (False and False and True) is False
+Step 40, training acc: 0.780, instruction: False or False or not False or not False or not False
+Step 40, training acc: 0.660, instruction: Not (True or False) and not False
+Step 40, training acc: 0.860, instruction: Not False and not False and not False
+Step 40, training acc: 0.560, instruction: Not ( True and not False ) and not False or False and False
+Step 40, training acc: 0.660, instruction: Not not True or not not False or False
+Step 40, training acc: 0.660, instruction: True or not (False and False and True)
+Step 40, training acc: 0.760, instruction: Not (False or False and False) is True
+Step 41, training acc: 0.860, instruction: True and not (True or True or False) is False
+Step 41, training acc: 0.520, instruction: True and not (False or False and False)
+Step 41, training acc: 0.480, instruction: True or (not False and not True)
+Step 41, training acc: 0.380, instruction: Not (False or not not not False) and not (True or True or False)
+Step 41, training acc: 0.720, instruction: False and (False and not True) and not False
+Step 41, training acc: 0.480, instruction: Not ( True or True or False )
+Step 41, training acc: 0.720, instruction: True or not (False and False)
+Step 42, training acc: 0.880, instruction: True and False and not (False and False and True) is False
+Step 42, training acc: 0.580, instruction: True and False and (True or False or not True)
+Step 42, training acc: 0.700, instruction: True or (not False) and True
+Step 42, training acc: 0.480, instruction: Not False and not not True and (True or False)
+Step 42, training acc: 0.840, instruction: True and (not True or False) is False
+Step 42, training acc: 0.540, instruction: Not (True or False) or True
+Step 42, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 43, training acc: 0.620, instruction: True and (False or not not not False)
+Step 43, training acc: 0.880, instruction: False and (False or not False) is False
+Step 43, training acc: 0.440, instruction: True or (not False and not False)
+Step 43, training acc: 0.640, instruction: False and True and False and (False or not not False)
+Step 43, training acc: 0.880, instruction: False and (False or not False) is False
+Step 43, training acc: 0.880, instruction: True and not (True or False or True) is False
+Step 44, training acc: 0.620, instruction: True and not (True or False)
+Step 44, training acc: 0.640, instruction: True and not (False and not True)
+Step 44, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 44, training acc: 0.880, instruction: True and False and not (False and False and not True) is False
+Step 44, training acc: 0.880, instruction: True and not (True and True and True)
+Step 44, training acc: 0.560, instruction: True and (False or not False)
+Step 45, training acc: 0.600, instruction: True and (False or not True) and not False
+Step 45, training acc: 0.840, instruction: Not True and not False
+Step 45, training acc: 0.640, instruction: True or (False and True)
+Step 45, training acc: 0.580, instruction: True and False and not (False and True and True)
+Step 45, training acc: 0.880, instruction: True and not (True and True and True)
+Step 45, training acc: 0.540, instruction: True and not (False and True or not True)
+Step 45, training acc: 0.720, instruction: True or not False
+Step 45, training acc: 0.620, instruction: True and (False or not not False)
+Step 46, training acc: 0.400, instruction: Not (False and not True) or (True and False)
+Step 46, training acc: 0.640, instruction: True or (False and True)
+Step 46, training acc: 0.480, instruction: Not (not False or True)
+Step 46, training acc: 0.580, instruction: True and False and (True or False or not True)
+Step 46, training acc: 0.540, instruction: False and (not False or True) and True or False
+Step 46, training acc: 0.560, instruction: True and (True or not False)
+Step 46, training acc: 0.860, instruction: Not ( True or False or False ) and not ( False and True and False ) is False
+Step 47, training acc: 0.880, instruction: True and (False or not False) is True
+Step 47, training acc: 0.860, instruction: True and (False or True) is True
+Step 47, training acc: 0.640, instruction: True or (False and True)
+Step 47, training acc: 0.900, instruction: True and (False or not not not False) is True
+Step 47, training acc: 0.320, instruction: Not ( False or True ) and not False is
+Step 47, training acc: 0.800, instruction: True
+Step 47, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 47, training acc: 0.600, instruction: True and not (True or False or False)
+Step 48, training acc: 0.880, instruction: True and not (False or not not True) is True
+Step 48, training acc: 0.680, instruction: Not not True or not False
+Step 48, training acc: 0.700, instruction: True or (not False) and True
+Step 48, training acc: 0.900, instruction: True and (False or not not not False) is True
+Step 48, training acc: 0.480, instruction: True and ( not not False or not not True )
+Step 48, training acc: 0.760, instruction: True or False
+Step 48, training acc: 0.620, instruction: True or False or not not not (True or True) or True
+Step 49, training acc: 0.640, instruction: Not (True or not True)
+Step 49, training acc: 0.440, instruction: True or (not False and not False)
+Step 49, training acc: 0.880, instruction: False and not (False or True or True) is False
+Step 49, training acc: 0.880, instruction: False and True
+Step 49, training acc: 0.900, instruction: True and (False or not not not False) is True
+Step 50, training acc: 0.900, instruction: True and (False or not not not False) is True
+Step 50, training acc: 0.820, instruction: True and (False or not True) is True
+Step 50, training acc: 0.600, instruction: True and not (True or False or True)
+Step 50, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 50, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 50, training acc: 0.840, instruction: Not True and not False
+Step 50, training acc: 0.440, instruction: True or (not False and not not True)
+Step 51, training acc: 0.560, instruction: True and (False or not False)
+Step 51, training acc: 0.840, instruction: False and (True or False or True) is False
+Step 51, training acc: 0.580, instruction: True or (False and not False)
+Step 51, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 51, training acc: 0.520, instruction: True and ( not ( True or True ) ) or False
+Step 51, training acc: 0.800, instruction: Not (True or True) and False is False
+Step 51, training acc: 0.720, instruction: True or not False
+Step 51, training acc: 0.820, instruction: True and False and not (True or False or True) is True
+Step 52, training acc: 0.560, instruction: True and (False or not False)
+Step 52, training acc: 0.460, instruction: False and not (False and False) and not (True and True)
+Step 52, training acc: 0.640, instruction: True or not False and not (True or not True)
+Step 52, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 52, training acc: 0.820, instruction: True and ( not True ) and False is False
+Step 52, training acc: 0.560, instruction: Not True and not (False and not False) or (True and False)
+Step 52, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 52, training acc: 0.820, instruction: True and False and not (True or False or True) is True
+Step 53, training acc: 0.560, instruction: True and (False or not False)
+Step 53, training acc: 0.880, instruction: True and (False or not False) is True
+Step 53, training acc: 0.700, instruction: Not not True and not (True or not True)
+Step 53, training acc: 0.920, instruction: Not True or ( False and True ) is False
+Step 53, training acc: 0.900, instruction: False and (True and False) is False
+Step 53, training acc: 0.620, instruction: Not False and not (True and not True)
+Step 53, training acc: 0.540, instruction: True and False and (not True or False or not False) and (not True or not False or not False) and (not not False or False or True)
+Step 54, training acc: 0.900, instruction: False and not (False and True) is False
+Step 54, training acc: 0.640, instruction: Not True or ( False and True )
+Step 54, training acc: 0.880, instruction: True and not (False or not not True) is True
+Step 54, training acc: 0.380, instruction: True and ( not ( not ( False ) ) or False )
+Step 54, training acc: 0.860, instruction: False and False or not ( True ) is False
+Step 54, training acc: 0.460, instruction: True and False and (False or not True)
+Step 54, training acc: 0.820, instruction: Not ( False or False and False ) is True
+Step 55, training acc: 0.900, instruction: True and False and not (False or True or True) is False
+Step 55, training acc: 0.780, instruction: True and False and (True and False)
+Step 55, training acc: 0.880, instruction: False and (False or not False) is False
+Step 55, training acc: 0.880, instruction: True and False and not (False and False and True) is False
+Step 55, training acc: 0.820, instruction: Not False or (True) and True is True
+Step 55, training acc: 0.580, instruction: True and False and not (False and False and True)
+Step 55, training acc: 0.760, instruction: True or ( True ) or True
+Step 55, training acc: 0.880, instruction: True and not (False or True or True) is False
+Step 56, training acc: 0.780, instruction: Not (False or False or True) is True
+Step 56, training acc: 0.440, instruction: True or (not False and not False)
+Step 56, training acc: 0.900, instruction: True and not (False or False or True) is False
+Step 56, training acc: 0.740, instruction: False and False or True
+Step 56, training acc: 0.660, instruction: Not (not False) and (False or True or not False)
+Step 56, training acc: 0.560, instruction: True and (not False or not not not False)
+Step 56, training acc: 0.900, instruction: False and (not False or not True) is False
+Step 57, training acc: 0.880, instruction: True and False and not (False and False and not True) is False
+Step 57, training acc: 0.420, instruction: True and False and (True and False) and not (False or True or True)
+Step 57, training acc: 0.220, instruction: True and not (False or True) or not False is
+Step 57, training acc: 0.880, instruction: True and not (True or False or True) is False
+Step 57, training acc: 0.840, instruction: True and (not True or False) is False
+Step 57, training acc: 0.860, instruction: False or (False) or not True is False
+Step 57, training acc: 0.500, instruction: True and not False and (not False or not True)
+Step 57, training acc: 0.620, instruction: True and (False or not not not False)
+Step 58, training acc: 0.880, instruction: True and False and not (False and False and not True) is False
+Step 58, training acc: 0.780, instruction: True and False and (True and False)
+Step 58, training acc: 0.620, instruction: True and (False or not not False)
+Step 58, training acc: 0.900, instruction: True and not (True or False or not False) is False
+Step 58, training acc: 0.560, instruction: Not not (True and False)
+Step 58, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 58, training acc: 0.540, instruction: Not (True and False) and not (False and False)
+Step 59, training acc: 0.680, instruction: True and (False or (True or False))
+Step 59, training acc: 0.860, instruction: True and (False or True) is True
+Step 59, training acc: 0.560, instruction: True and (False or not False)
+Step 59, training acc: 0.600, instruction: True and not (True or False or False)
+Step 59, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 59, training acc: 0.480, instruction: True and (not False or True)
+Step 59, training acc: 0.860, instruction: True and False and ( not False or not True ) is False
+Step 59, training acc: 0.580, instruction: Not False or not (not True)
+Step 60, training acc: 0.620, instruction: True and not (False or False) and (not False or True)
+Step 60, training acc: 0.780, instruction: True and not (True and True) and False
+Step 60, training acc: 0.840, instruction: True and (False or not True or not False) is True
+Step 60, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 60, training acc: 0.480, instruction: Not (not (True or False) or not (False or True))
+Step 60, training acc: 0.680, instruction: True and not (False or False or True)
+Step 60, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 60, training acc: 0.600, instruction: Not ( True or False ) and False is
+Step 61, training acc: 0.460, instruction: True and False and (False or not True)
+Step 61, training acc: 0.500, instruction: True and False and not (False or True or True)
+Step 61, training acc: 0.800, instruction: True and False and (True or False or True) is False
+Step 61, training acc: 0.600, instruction: True and not (True or False or False)
+Step 61, training acc: 0.860, instruction: True and False and (True or False or True) is True
+Step 61, training acc: 0.620, instruction: True and (False or not not not False)
+Step 62, training acc: 0.900, instruction: True and False and (False or not True or not False) is False
+Step 62, training acc: 0.760, instruction: True or False
+Step 62, training acc: 0.480, instruction: Not (True or False) and (False or True)
+Step 62, training acc: 0.880, instruction: False and True
+Step 62, training acc: 0.800, instruction: Not (True or False) and (not False) is True
+Step 62, training acc: 0.600, instruction: True and not (True or False or True)
+Step 62, training acc: 0.820, instruction: Not ( True or False ) and False is False
+Step 63, training acc: 0.540, instruction: True and not (False or not False or not True)
+Step 63, training acc: 0.780, instruction: False or not not True or not False is True
+Step 63, training acc: 0.440, instruction: True or (not False and not False)
+Step 63, training acc: 0.640, instruction: True and not (False or False or False)
+Step 63, training acc: 0.500, instruction: True and not (True and False) and (not True or False)
+Step 63, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 63, training acc: 0.760, instruction: Not False and (False or True)
+Step 64, training acc: 0.880, instruction: True and (False or not False) is True
+Step 64, training acc: 0.860, instruction: True and (False or True) is True
+Step 64, training acc: 0.720, instruction: True or not False
+Step 64, training acc: 0.920, instruction: Not True or ( False and True ) is False
+Step 64, training acc: 0.880, instruction: False and True
+Step 64, training acc: 0.900, instruction: True and False and not (False or True or not False) is False
+Step 64, training acc: 0.420, instruction: True and not (True or False or not True)
+Step 64, training acc: 0.860, instruction: True and False and (False or True or not False) is True
+Step 65, training acc: 0.600, instruction: True and (not True or not True or True)
+Step 65, training acc: 0.640, instruction: True and not (True or not False) and True
+Step 65, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 65, training acc: 0.920, instruction: Not True or ( False and True ) is False
+Step 65, training acc: 0.880, instruction: False and True
+Step 65, training acc: 0.880, instruction: True and not (True or False and True) is False
+Step 65, training acc: 0.760, instruction: Not True
+Step 65, training acc: 0.880, instruction: True and not (True or True or True) is True
+Step 66, training acc: 0.600, instruction: True and not (True or False) and False
+Step 66, training acc: 0.900, instruction: True and False and (not True or not False) is False
+Step 66, training acc: 0.440, instruction: True or (not False and not False)
+Step 66, training acc: 0.840, instruction: Not False and False or True or False is True
+Step 66, training acc: 0.880, instruction: Not ( False and False ) and True is True
+Step 66, training acc: 0.640, instruction: True or False or True
+Step 66, training acc: 0.800, instruction: True and False and (True or False or True) is False
+Step 66, training acc: 0.900, instruction: True and False and not (False or True or True) is False
+Step 67, training acc: 0.540, instruction: True and not (False or not False)
+Step 67, training acc: 0.580, instruction: True and not (True and True) and not (False or True)
+Step 67, training acc: 0.440, instruction: True or (not False and not False)
+Step 67, training acc: 0.900, instruction: True and (False or not not not False) is True
+Step 67, training acc: 0.680, instruction: Not True or not False or not (True and False)
+Step 67, training acc: 0.860, instruction: True and False and ( not False or not True ) is False
+Step 67, training acc: 0.880, instruction: True and not (False and not True) is True
+Step 68, training acc: 0.880, instruction: True and (False or not False) is True
+Step 68, training acc: 0.860, instruction: True and (False or True) is True
+Step 68, training acc: 0.660, instruction: True or False and not (True and False)
+Step 68, training acc: 0.620, instruction: True and (False or not not not False)
+Step 68, training acc: 0.600, instruction: Not ( False or not not not False ) and False
+Step 68, training acc: 0.620, instruction: True and not (True or False)
+Step 68, training acc: 0.540, instruction: Not not True and not (not False or not not not False)
+Step 68, training acc: 0.600, instruction: True and not (True or False or False)
+Step 69, training acc: 0.540, instruction: True and not (False or not False)
+Step 69, training acc: 0.900, instruction: False and not (False and False) is False
+Step 69, training acc: 0.640, instruction: True or (False and True)
+Step 69, training acc: 0.560, instruction: Not ( not False or True ) and not (not False) and ( False or not not not False )
+Step 69, training acc: 0.800, instruction: Not (True or False) and False is False
+Step 69, training acc: 0.520, instruction: Not ( False or True ) and False is
+Step 69, training acc: 0.700, instruction: Not False and (True or not False)
+Step 70, training acc: 0.880, instruction: True and (False or not not False) is True
+Step 70, training acc: 0.440, instruction: True or (not False and not False)
+Step 70, training acc: 0.900, instruction: True and (False or not not not False) is True
+Step 70, training acc: 0.600, instruction: Not ( True or not False ) and not False and not True
+Step 70, training acc: 0.620, instruction: True and not (True or False)
+Step 70, training acc: 0.900, instruction: True and False and ( False or not False ) is False
+Step 70, training acc: 0.840, instruction: Not not not True and False and not not not (True or False) is False
+Step 71, training acc: 0.900, instruction: True and not (True or True or True) is False
+Step 71, training acc: 0.600, instruction: Not (True or True) and False
+Step 71, training acc: 0.900, instruction: True and not (False or False or True) is False
+Step 71, training acc: 0.880, instruction: False and True
+Step 71, training acc: 0.620, instruction: Not (True or False) and not True
+Step 71, training acc: 0.900, instruction: True and not (True and not False) and (not False) is True
+Step 72, training acc: 0.740, instruction: True and not (True or True)
+Step 72, training acc: 0.620, instruction: False or ( True and False ) or True
+Step 72, training acc: 0.520, instruction: True or (not True and not False)
+Step 72, training acc: 0.900, instruction: True and False and ( False or not False ) is False
+Step 72, training acc: 0.500, instruction: Not ( not ( not True ) or not False ) or not False
+Step 72, training acc: 0.640, instruction: True and (False and (not False and not True))
+Step 72, training acc: 0.480, instruction: True and (not False or True)
+Step 72, training acc: 0.580, instruction: True and not (True or not False) and (not False)
+Step 73, training acc: 0.740, instruction: True and not (True or True)
+Step 73, training acc: 0.580, instruction: True and not (False and False) and not (True or False)
+Step 73, training acc: 0.440, instruction: True or (not False and not False)
+Step 73, training acc: 0.680, instruction: True and not (True or True) and (False or not False)
+Step 73, training acc: 0.680, instruction: True and not (True or not True)
+Step 73, training acc: 0.860, instruction: True and not True or True and True is False
+Step 74, training acc: 0.680, instruction: True and not (True and False)
+Step 74, training acc: 0.860, instruction: False or ( False ) or not True is False
+Step 74, training acc: 0.720, instruction: True or not True
+Step 74, training acc: 0.860, instruction: False and True and (False or False) is False
+Step 74, training acc: 0.640, instruction: True and (not True or False) and (False or not False)
+Step 74, training acc: 0.420, instruction: True or ( not True ) or False is
+Step 74, training acc: 0.640, instruction: True and not (True or True) and (False and not False)
+Step 75, training acc: 0.560, instruction: True and not (True or True) and (not False)
+Step 75, training acc: 0.540, instruction: Not True or (not True or False)
+Step 75, training acc: 0.440, instruction: True or (not False and not False)
+Step 75, training acc: 0.560, instruction: True and not (True or not False)
+Step 75, training acc: 0.660, instruction: Not (not True or False) and not False
+Step 76, training acc: 0.740, instruction: True and not (True or True)
+Step 76, training acc: 0.640, instruction: Not (False or not False and not True)
+Step 76, training acc: 0.440, instruction: True or (not False and not False)
+Step 76, training acc: 0.900, instruction: True and not (True and not False) and (not False) is True
+Step 76, training acc: 0.780, instruction: False and True and False
+Step 76, training acc: 0.780, instruction: Not False or not True
+Step 76, training acc: 0.900, instruction: True and False and not (False or True or True) is False
+Step 77, training acc: 0.680, instruction: True and not (True and False)
+Step 77, training acc: 0.640, instruction: True and not (False and not True)
+Step 77, training acc: 0.540, instruction: True or (not False) or True
+Step 77, training acc: 0.640, instruction: True and not (True and False) and (False or not False)
+Step 77, training acc: 0.620, instruction: Not ( False or True ) and not False
+Step 77, training acc: 0.800, instruction: True or not (False and True) is True
+Step 77, training acc: 0.820, instruction: Not not not (False and True) and (not False or not True) is True
+Step 78, training acc: 0.620, instruction: True and (False or not not False)
+Step 78, training acc: 0.540, instruction: True and not (False or not False)
+Step 78, training acc: 0.500, instruction: True and False and not (False or True or True)
+Step 78, training acc: 0.860, instruction: True and (False or not True) is False
+Step 78, training acc: 0.540, instruction: Not (not True and not True)
+Step 78, training acc: 0.580, instruction: True and (True or False)
+Step 79, training acc: 0.560, instruction: True and (False or not False)
+Step 79, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 79, training acc: 0.720, instruction: True or not False
+Step 79, training acc: 0.900, instruction: True and False and (not False or not True) is False
+Step 79, training acc: 0.680, instruction: True and not (True and False)
+Step 79, training acc: 0.800, instruction: True and False and (False or False) is True
+Step 80, training acc: 0.520, instruction: True and False and (not False or not False)
+Step 80, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 80, training acc: 0.660, instruction: True or not (False or not False)
+Step 80, training acc: 0.820, instruction: True and (False or not True) is True
+Step 80, training acc: 0.840, instruction: True and False and ( False or True ) is False
+Step 80, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 81, training acc: 0.560, instruction: True and (False or not False)
+Step 81, training acc: 0.660, instruction: True or False or (True and False)
+Step 81, training acc: 0.640, instruction: True or (False and True)
+Step 81, training acc: 0.520, instruction: True and (False or not True) or False
+Step 81, training acc: 0.840, instruction: True and False and ( False or True ) is False
+Step 81, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 81, training acc: 0.880, instruction: True and (not True or not False) is True
+Step 81, training acc: 0.600, instruction: True and False and (not True and not False)
+Step 82, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 82, training acc: 0.640, instruction: True and not (False and not True)
+Step 82, training acc: 0.480, instruction: True or (not False and not True)
+Step 82, training acc: 0.540, instruction: Not (False or True)
+Step 82, training acc: 0.560, instruction: True and (True or True) and not (False or False)
+Step 82, training acc: 0.600, instruction: Not True or ( False and True ) is
+Step 82, training acc: 0.520, instruction: True and not (True or True) and not (not True or False)
+Step 83, training acc: 0.460, instruction: True and (not False or not False) and (not True or not False)
+Step 83, training acc: 0.660, instruction: True or not (False or not False)
+Step 83, training acc: 0.840, instruction: True and (not True or False) is False
+Step 83, training acc: 0.840, instruction: True and False and ( False or True ) is False
+Step 83, training acc: 0.920, instruction: False and not (False or True) is False
+Step 83, training acc: 0.880, instruction: True and (True or not False) is True
+Step 83, training acc: 0.600, instruction: True and False and (not True and not False)
+Step 84, training acc: 0.620, instruction: True and (False or not not not False)
+Step 84, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 84, training acc: 0.440, instruction: True or (not False and not False)
+Step 84, training acc: 0.520, instruction: True and not (False or False or True) and (not False or not True)
+Step 84, training acc: 0.840, instruction: True and False and ( False or True ) is False
+Step 84, training acc: 0.820, instruction: True and False and not False
+Step 84, training acc: 0.420, instruction: ( True and False ) and ( not True and not False )
+Step 84, training acc: 0.860, instruction: True and False and (not True or False or not True) is False
+Step 85, training acc: 0.520, instruction: True and False and (not False or not False)
+Step 85, training acc: 0.580, instruction: Not False and True or False and not (not False or True)
+Step 85, training acc: 0.840, instruction: True or True or not False or False is True
+Step 85, training acc: 0.600, instruction: Not ( not False ) and not False
+Step 85, training acc: 0.840, instruction: True and False and ( False or True ) is False
+Step 85, training acc: 0.640, instruction: True or True or False
+Step 85, training acc: 0.540, instruction: True and ( not False or not False )
+Step 86, training acc: 0.500, instruction: True and False and (not True or not False)
+Step 86, training acc: 0.940, instruction: False and not (True and not False) is False
+Step 86, training acc: 0.640, instruction: True or (False and True)
+Step 86, training acc: 0.920, instruction: False and not (False or True) is False
+Step 86, training acc: 0.840, instruction: True and False and ( False or True ) is False
+Step 86, training acc: 0.840, instruction: Not True and True and not False
+Step 86, training acc: 0.540, instruction: False and not (True and False)
+Step 86, training acc: 0.600, instruction: True and False and (not True and not False)
+Step 87, training acc: 0.840, instruction: False and (True or False or not True) is False
+Step 87, training acc: 0.680, instruction: True and not (True and False)
+Step 87, training acc: 0.660, instruction: False or ( True ) or not True is
+Step 87, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 87, training acc: 0.860, instruction: True and ( not True ) and ( not False ) is False
+Step 87, training acc: 0.460, instruction: True or False or not (False and True) and (False or not False)
+Step 87, training acc: 0.500, instruction: ( True ) or ( not False ) or not True
+Step 87, training acc: 0.900, instruction: True and False and not (False or True or not False) is False
+Step 88, training acc: 0.840, instruction: True and (False or not True or False) is False
+Step 88, training acc: 0.440, instruction: True or (not False and not False)
+Step 88, training acc: 0.520, instruction: False and not (False or True)
+Step 88, training acc: 0.900, instruction: True and False and not (False or True or not False) is False
+Step 88, training acc: 0.260, instruction: Not ( False or True and not True ) is
+Step 88, training acc: 0.580, instruction: Not (False and False or False)
+Step 89, training acc: 0.580, instruction: False and not (False or not False)
+Step 89, training acc: 0.900, instruction: True and False and (False or True or not True) is False
+Step 89, training acc: 0.700, instruction: True or not False or not True
+Step 89, training acc: 0.440, instruction: Not (not True or not False or True)
+Step 89, training acc: 0.580, instruction: True and False and not (True or False or True)
+Step 89, training acc: 0.900, instruction: True and False and (not True or False) is False
+Step 89, training acc: 0.860, instruction: True and (not False or False) is True
+Step 89, training acc: 0.500, instruction: True and False and (not True or not False)
+Step 90, training acc: 0.440, instruction: False and (True and False) and not (False or True or True)
+Step 90, training acc: 0.700, instruction: True or (False and False)
+Step 90, training acc: 0.820, instruction: Not ( True or False and False ) is True
+Step 90, training acc: 0.440, instruction: True and False and not (True or False or not True and not False)
+Step 90, training acc: 0.720, instruction: False or not (True and False)
+Step 90, training acc: 0.880, instruction: False and (False or True) is False
+Step 91, training acc: 0.860, instruction: True and False and (False or True) is False
+Step 91, training acc: 0.800, instruction: False or True and not False
+Step 91, training acc: 0.820, instruction: True and (True or False) is True
+Step 91, training acc: 0.600, instruction: False and not (False and not True) and (True or not False)
+Step 91, training acc: 0.720, instruction: False or not (True and False)
+Step 91, training acc: 0.640, instruction: ( False ) and not False or not True
+Step 91, training acc: 0.760, instruction: False or not not not False and True
+Step 92, training acc: 0.800, instruction: False or True and not False
+Step 92, training acc: 0.800, instruction: Not (True or False or True) is False
+Step 92, training acc: 0.860, instruction: Not (not (False) or True) is False
+Step 92, training acc: 0.600, instruction: True or not not (False and False)
+Step 92, training acc: 0.840, instruction: True and (not True or False) is False
+Step 92, training acc: 0.540, instruction: False and not (True and False)
+Step 93, training acc: 0.800, instruction: False or True and not False
+Step 93, training acc: 0.480, instruction: Not ( not True or not False ) and (not False or True )
+Step 93, training acc: 0.860, instruction: True and False and (True and not False) is False
+Step 93, training acc: 0.860, instruction: True and not (True and False) is False
+Step 93, training acc: 0.580, instruction: True and not False or not False and True
+Step 93, training acc: 0.880, instruction: False and not (True and False) and (not True) is False
+Step 94, training acc: 0.440, instruction: False and (True and False) and not (False or True or True)
+Step 94, training acc: 0.880, instruction: True and not (False and not False) is False
+Step 94, training acc: 0.660, instruction: True or not (False or not False)
+Step 94, training acc: 0.860, instruction: Not ( False and True ) is True
+Step 94, training acc: 0.900, instruction: True and False and not (False or True or not False) is False
+Step 94, training acc: 0.640, instruction: False and not (False or True) or False
+Step 94, training acc: 0.560, instruction: (True and False) or not (False and True)
+Step 94, training acc: 0.880, instruction: True and not (False and not True) and not (False and not True) is True
+Step 95, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 95, training acc: 0.800, instruction: False or True and not False
+Step 95, training acc: 0.900, instruction: Not (not False) and not False is True
+Step 95, training acc: 0.920, instruction: False and not (False and not False) is False
+Step 95, training acc: 0.540, instruction: False and (True or False) is
+Step 95, training acc: 0.520, instruction: False and (not False or not True)
+Step 95, training acc: 0.400, instruction: False and not (True or not False) is
+Step 96, training acc: 0.900, instruction: True and False and (not True or not False) is False
+Step 96, training acc: 0.520, instruction: False or True and not (False and True and True)
+Step 96, training acc: 0.460, instruction: Not ( not False or not True ) and (not False or not not False)
+Step 96, training acc: 0.680, instruction: False or (False or not True) or not True
+Step 96, training acc: 0.860, instruction: False or (True or False) or not True is False
+Step 96, training acc: 0.640, instruction: False and not (False and False)
+Step 97, training acc: 0.620, instruction: True and (False or not not False)
+Step 97, training acc: 0.900, instruction: True and False and not (False or True or not False) is False
+Step 97, training acc: 0.580, instruction: False or True and not not False is
+Step 97, training acc: 0.380, instruction: Not ( not True ) and ( not False )
+Step 97, training acc: 0.520, instruction: False and not (False and True)
+Step 97, training acc: 0.620, instruction: True and not (True or False) or not False
+Step 97, training acc: 0.900, instruction: False and False and (True or False or not True) is False
+Step 98, training acc: 0.520, instruction: False and not (False and True)
+Step 98, training acc: 0.840, instruction: True or True or not False or False is True
+Step 98, training acc: 0.400, instruction: Not (False and True) or (True and not False)
+Step 98, training acc: 0.900, instruction: False and not (not False and True) is False
+Step 98, training acc: 0.540, instruction: False and not (True or not not False)
+Step 98, training acc: 0.520, instruction: False and not (False and True)
+Step 98, training acc: 0.500, instruction: Not (not False) and not False and (not True or not True)
+Step 99, training acc: 0.840, instruction: False and (not False or not False) is False
+Step 99, training acc: 0.600, instruction: True or False or (False and not False)
+Step 99, training acc: 0.520, instruction: False or True and not (False and not False)
+Step 99, training acc: 0.540, instruction: False and (not False or not True) and (not False or not True)
+Step 99, training acc: 0.480, instruction: False and not (False or True) and not True
+Step 99, training acc: 0.840, instruction: False or not False
+Step 99, training acc: 0.480, instruction: False or ( True and not False )
+Step 99, training acc: 0.820, instruction: False or not False or True and True is True
+Step 100, training acc: 0.520, instruction: False and not (True and False and True)
+Step 100, training acc: 0.880, instruction: True and (not False and True) is True
+Step 100, training acc: 0.800, instruction: False or True and not False
+Step 100, training acc: 0.840, instruction: True and ( False or not True ) is True
+Step 100, training acc: 0.520, instruction: False and not (False and True)
+Step 100, training acc: 0.520, instruction: True and not (True and False) or (False and not True) and not False
+Step 100, training acc: 0.740, instruction: Not False or (False and not False)
+Step 100, training acc: 0.460, instruction: False and not (False and not False) and (not False)
+Step 101, training acc: 0.860, instruction: Not False and not False and not False
+Step 101, training acc: 0.440, instruction: True or (not False and not False)
+Step 101, training acc: 0.640, instruction: Not True or ( False and True )
+Step 101, training acc: 0.600, instruction: False and not (not False or not False)
+Step 101, training acc: 0.900, instruction: False and (not False or not True) is False
+Step 101, training acc: 0.620, instruction: False and not (False and True) and not False
+Step 101, training acc: 0.680, instruction: Not (not False) and (True or False or True)
+Step 102, training acc: 0.540, instruction: Not ( True and not not True and not False )
+Step 102, training acc: 0.520, instruction: False and not (False and True)
+Step 102, training acc: 0.860, instruction: True and not (False or True) and (not False) is True
+Step 102, training acc: 0.620, instruction: Not (False or not True) and not (True and False)
+Step 102, training acc: 0.400, instruction: True or False or (not True or not False)
+Step 102, training acc: 0.420, instruction: False and not ( True and not False )
+Step 103, training acc: 0.660, instruction: True or False or (True and False)
+Step 103, training acc: 0.400, instruction: Not (not (True or False)) and (False or True)
+Step 103, training acc: 0.900, instruction: True and False and (not True or False or not False) is False
+Step 103, training acc: 0.660, instruction: Not ( True and True ) and False is
+Step 103, training acc: 0.660, instruction: Not ( True and True ) and False is
+Step 104, training acc: 0.560, instruction: True and (False or not False)
+Step 104, training acc: 0.900, instruction: True and False and (False or True or not True) is False
+Step 104, training acc: 0.760, instruction: False or True or not True
+Step 104, training acc: 0.880, instruction: False and (False or not False) is False
+Step 104, training acc: 0.520, instruction: False and not (False and True)
+Step 104, training acc: 0.820, instruction: False and (True or False or not False) is False
+Step 104, training acc: 0.660, instruction: Not (True or False) and not False
+Step 105, training acc: 0.540, instruction: False and not (True or not not False)
+Step 105, training acc: 0.880, instruction: True and (False or True or not False) is True
+Step 105, training acc: 0.940, instruction: False and not (True and not not False) is False
+Step 105, training acc: 0.440, instruction: False and not (False and True) and not (False and not True)
+Step 105, training acc: 0.900, instruction: False and (not False or not True) is False
+Step 105, training acc: 0.820, instruction: False or not False or True and True is True
+Step 106, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 106, training acc: 0.800, instruction: False or True or not not False
+Step 106, training acc: 0.860, instruction: False and not (False or True or not False) is False
+Step 106, training acc: 0.520, instruction: False and not (False or True or not False)
+Step 106, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 107, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 107, training acc: 0.740, instruction: False or True or not False
+Step 107, training acc: 0.480, instruction: False and not (True and not not False)
+Step 107, training acc: 0.520, instruction: False and not (False or True or not False)
+Step 107, training acc: 0.520, instruction: False and not (False or True)
+Step 107, training acc: 0.760, instruction: False or not not not False and True
+Step 107, training acc: 0.580, instruction: False and not (False and not not False)
+Step 108, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 108, training acc: 0.880, instruction: False and not (False and True and not not False) is False
+Step 108, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 108, training acc: 0.500, instruction: False and not (True and not not False) and (not False or not False)
+Step 108, training acc: 0.460, instruction: Not ( True or not False ) and not (not False or False)
+Step 108, training acc: 0.540, instruction: False and not (False or True or True)
+Step 108, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 108, training acc: 0.360, instruction: False and not (False and not not False) and (not False) and (not not True)
+Step 109, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 109, training acc: 0.480, instruction: False and not (True and not not False)
+Step 109, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 109, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 109, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 109, training acc: 0.520, instruction: False and not (not False and True and not not False)
+Step 109, training acc: 0.580, instruction: False and True and (not not False)
+Step 109, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 110, training acc: 0.940, instruction: False and not (True and not not not False) and (not False) is False
+Step 110, training acc: 0.640, instruction: Not True and not False and (False or not not False)
+Step 110, training acc: 0.660, instruction: False and (False or True) and not False
+Step 110, training acc: 0.900, instruction: True and False and not (False or True or not False) is False
+Step 110, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 110, training acc: 0.460, instruction: False and (not True or not not True)
+Step 110, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 110, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 111, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 111, training acc: 0.600, instruction: True and not (False or True) and not (not False)
+Step 111, training acc: 0.760, instruction: False or True or not True
+Step 111, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 111, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 111, training acc: 0.880, instruction: False and False
+Step 111, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 111, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 112, training acc: 0.700, instruction: False or True or not False or not True or False
+Step 112, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 112, training acc: 0.640, instruction: True or False or not True or not True or not False
+Step 112, training acc: 0.680, instruction: True or False or not False
+Step 112, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 113, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 113, training acc: 0.520, instruction: Not True and not (not True and not not False) and (not False)
+Step 113, training acc: 0.760, instruction: False or True or not True
+Step 113, training acc: 0.600, instruction: True and (False or not True)
+Step 113, training acc: 0.600, instruction: True and (not True or False) and (not False)
+Step 113, training acc: 0.580, instruction: False and not (False and not not True)
+Step 113, training acc: 0.720, instruction: Not (False and not False)
+Step 113, training acc: 0.520, instruction: False and not (False or True)
+Step 114, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 114, training acc: 0.540, instruction: True or False or (True or False or False)
+Step 114, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 114, training acc: 0.460, instruction: Not ( True or not False ) and not (not False)
+Step 114, training acc: 0.400, instruction: True and not (False and not True) and (not False) and (not False)
+Step 114, training acc: 0.940, instruction: False and not (True and not not not False) and (not False) is False
+Step 114, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 115, training acc: 0.940, instruction: False and not (True and not False) is False
+Step 115, training acc: 0.520, instruction: False or True and not (False and not True)
+Step 115, training acc: 0.880, instruction: False and not (True or True) and False is False
+Step 115, training acc: 0.420, instruction: False and not (True and not not not False) and (not False)
+Step 115, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 115, training acc: 0.580, instruction: False and not (True or not False) and (not False)
+Step 115, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 116, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 116, training acc: 0.540, instruction: True and not (False or True) and (not False)
+Step 116, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 116, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 116, training acc: 0.440, instruction: False and not (not (not True or False) or not True) and (not False)
+Step 116, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 116, training acc: 0.840, instruction: Not (not True) or (not False) is True
+Step 117, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 117, training acc: 0.420, instruction: False and not (True and not not not False) and (not False)
+Step 117, training acc: 0.480, instruction: False and not (not True and False)
+Step 117, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 117, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 118, training acc: 0.700, instruction: Not False and not False and False and False is
+Step 118, training acc: 0.880, instruction: False and False and (not False and not False) is False
+Step 118, training acc: 0.860, instruction: True and False and (False or not False) is False
+Step 118, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 118, training acc: 0.800, instruction: 
+Step 118, training acc: 0.540, instruction: False and not (True and False)
+Step 119, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 119, training acc: 0.460, instruction: Not (True or True or False) and (not False or not True)
+Step 119, training acc: 0.680, instruction: False or True and (False or True)
+Step 119, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 119, training acc: 0.840, instruction: True and (not True or False) is False
+Step 119, training acc: 0.460, instruction: Not False and not True and not False or not False and not False and not True
+Step 119, training acc: 0.820, instruction: Not ( False or True or False ) is False
+Step 119, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 120, training acc: 0.860, instruction: Not (True or not False or not False) is False
+Step 120, training acc: 0.800, instruction: False or True and not False
+Step 120, training acc: 0.860, instruction: Not ( True or not True or not not False ) is False
+Step 120, training acc: 0.800, instruction: Not ( True or True or False ) is False
+Step 120, training acc: 0.840, instruction: True and not False and False
+Step 120, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 120, training acc: 0.540, instruction: False and not (True and False)
+Step 121, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 121, training acc: 0.900, instruction: True and False and not (False or True) is False
+Step 121, training acc: 0.760, instruction: False or True or not True
+Step 121, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 121, training acc: 0.500, instruction: Not (False or not False) and (not True) and (not False)
+Step 121, training acc: 0.580, instruction: False and not (False and not not True)
+Step 121, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 121, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 122, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 122, training acc: 0.560, instruction: True and not (False and True) and not (False or True)
+Step 122, training acc: 0.800, instruction: False or True and not False
+Step 122, training acc: 0.440, instruction: Not ( True and False ) or ( False and True )
+Step 122, training acc: 0.500, instruction: Not (True or not False) and (not False and not True)
+Step 122, training acc: 0.440, instruction: Not (False or True) and (False or not True)
+Step 122, training acc: 0.940, instruction: False and (True and not False) is False
+Step 122, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 123, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 123, training acc: 0.580, instruction: False and not (True or not False) and (not False)
+Step 123, training acc: 0.520, instruction: False or True or not (False and not True)
+Step 123, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 123, training acc: 0.500, instruction: False and False and (not False or not True)
+Step 123, training acc: 0.520, instruction: False and not (False or True)
+Step 123, training acc: 0.480, instruction: False and (True or not False) and not (True or not False)
+Step 123, training acc: 0.620, instruction: Not (False or not True) and not (False and not False)
+Step 124, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 124, training acc: 0.900, instruction: True and not (True or False) is True
+Step 124, training acc: 0.800, instruction: False or True and not False
+Step 124, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 124, training acc: 0.400, instruction: Not ( not ( False or not False ) and False )
+Step 124, training acc: 0.520, instruction: False and not (False or True)
+Step 124, training acc: 0.660, instruction: Not (False and not True) and not False
+Step 125, training acc: 0.560, instruction: True and not ( False or True and not False )
+Step 125, training acc: 0.480, instruction: True or False or (True and not False) or (not False and not False)
+Step 125, training acc: 0.560, instruction: False or True and not (False and not not False)
+Step 125, training acc: 0.540, instruction: Not (not (True or not False) or (not False and not False))
+Step 125, training acc: 0.840, instruction: Not ( False and False and False ) is True
+Step 125, training acc: 0.520, instruction: True or False or (not True or True)
+Step 125, training acc: 0.560, instruction: ( True or not not not False ) and ( False or True or False )
+Step 125, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 126, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 126, training acc: 0.660, instruction: True or False or (True and False)
+Step 126, training acc: 0.740, instruction: False or True or not False or not True
+Step 126, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 126, training acc: 0.880, instruction: Not ( not True and not False ) and (not False) is False
+Step 126, training acc: 0.520, instruction: False and not (False or True)
+Step 126, training acc: 0.880, instruction: False and (not True or False) is False
+Step 126, training acc: 0.580, instruction: False and not (True or not False) and (not False)
+Step 127, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 127, training acc: 0.900, instruction: True and False and not (False or True or not True) is False
+Step 127, training acc: 0.680, instruction: False or True and not not False
+Step 127, training acc: 0.460, instruction: False and not (True and not not False) and (not False) and (True and not False)
+Step 127, training acc: 0.620, instruction: Not (False or True) and not False
+Step 127, training acc: 0.880, instruction: False and not (not (not False or True) or not False) is False
+Step 127, training acc: 0.560, instruction: False and (not True or False) and not (not False)
+Step 127, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 128, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 128, training acc: 0.900, instruction: True and False and not (False or True) is False
+Step 128, training acc: 0.760, instruction: False or True or not True
+Step 128, training acc: 0.580, instruction: Not True and not False and not (False or True or not True)
+Step 128, training acc: 0.500, instruction: Not ( not ( True and not False ) and True )
+Step 128, training acc: 0.660, instruction: Not (True or not False) or False
+Step 128, training acc: 0.720, instruction: Not True or not False
+Step 129, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 129, training acc: 0.840, instruction: True and False and (True and False and not True) is False
+Step 129, training acc: 0.860, instruction: False and True and ( not False ) is False
+Step 129, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 129, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 129, training acc: 0.520, instruction: False and not (False or True)
+Step 129, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 130, training acc: 0.940, instruction: False and not (True and not False) is False
+Step 130, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 130, training acc: 0.920, instruction: False and False and (False or not False or not not True) is False
+Step 130, training acc: 0.520, instruction: True and not (False or True) or (not False)
+Step 130, training acc: 0.880, instruction: True and not (not True) is True
+Step 130, training acc: 0.800, instruction: 
+Step 130, training acc: 0.580, instruction: True and not True and not False or True and not False
+Step 130, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 131, training acc: 0.680, instruction: False and (False or not False)
+Step 131, training acc: 0.580, instruction: Not (not False) and not False and (False or not False)
+Step 131, training acc: 0.620, instruction: Not (False or True) and not False
+Step 131, training acc: 0.680, instruction: False and (False or not False)
+Step 131, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 131, training acc: 0.660, instruction: Not (not True) and not False
+Step 132, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 132, training acc: 0.760, instruction: True or False
+Step 132, training acc: 0.820, instruction: False or not True
+Step 132, training acc: 0.400, instruction: Not ( False and True ) or ( not False )
+Step 132, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 133, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 133, training acc: 0.800, instruction: False or True and not False
+Step 133, training acc: 0.520, instruction: Not ( False or not True ) and not not ( True and False )
+Step 133, training acc: 0.680, instruction: Not (False or not False) is not False
+Step 133, training acc: 0.600, instruction: Not not ( True or False ) and not False
+Step 133, training acc: 0.840, instruction: Not (not True) and not False is True
+Step 134, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 134, training acc: 0.860, instruction: True and not (True and False) is False
+Step 134, training acc: 0.560, instruction: False or True and not not True is
+Step 134, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 134, training acc: 0.620, instruction: Not (False or True) and not False
+Step 134, training acc: 0.520, instruction: Not False and not True and not False is
+Step 134, training acc: 0.880, instruction: False and (not False or not not not not True) is False
+Step 134, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 135, training acc: 0.860, instruction: True and not (False or True or not True) is True
+Step 135, training acc: 0.480, instruction: Not True or (not False and not False)
+Step 135, training acc: 0.800, instruction: False or True and not False
+Step 135, training acc: 0.900, instruction: True and False and not (False or True or not True) is False
+Step 135, training acc: 0.400, instruction: False and not (False or True or not True) and (not True)
+Step 135, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 136, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 136, training acc: 0.560, instruction: True or False or (True or False)
+Step 136, training acc: 0.820, instruction: False or True or not True or not False is False
+Step 136, training acc: 0.540, instruction: Not (False or True) or not True
+Step 136, training acc: 0.660, instruction: Not (False and True) and not False
+Step 136, training acc: 0.700, instruction: False or (False or not True) or not False
+Step 136, training acc: 0.940, instruction: False and (True and not False) is False
+Step 136, training acc: 0.880, instruction: False and not (True and False and not False) and (not False) is False
+Step 137, training acc: 0.940, instruction: False and not (True and not False) is False
+Step 137, training acc: 0.800, instruction: Not (True or True) and False is False
+Step 137, training acc: 0.800, instruction: False or True and not False
+Step 137, training acc: 0.580, instruction: Not (True or not False) and False is
+Step 137, training acc: 0.360, instruction: Not ( True or not False ) and not False is
+Step 137, training acc: 0.980, instruction: Not (not False) and not not False is False
+Step 137, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 137, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 138, training acc: 0.560, instruction: True or ( True or not False )
+Step 138, training acc: 0.900, instruction: Not (True and (False or False)) is False
+Step 138, training acc: 0.880, instruction: True and (not False and True) is True
+Step 138, training acc: 0.520, instruction: False and not (False and True)
+Step 138, training acc: 0.460, instruction: False and not (False and not False) and (not False)
+Step 138, training acc: 0.860, instruction: True and (False or True) is True
+Step 139, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 139, training acc: 0.660, instruction: True or False and (True and not False) and not False
+Step 139, training acc: 0.520, instruction: False or True and not (False and not True)
+Step 139, training acc: 0.640, instruction: Not (True and not False) and not not False
+Step 139, training acc: 0.540, instruction: Not (False or True)
+Step 139, training acc: 0.620, instruction: False and not (not False and not False)
+Step 139, training acc: 0.320, instruction: (not (not False)) or (not False)
+Step 139, training acc: 0.820, instruction: False or not False or True and True is True
+Step 140, training acc: 0.900, instruction: False and not (not False and True) is False
+Step 140, training acc: 0.680, instruction: False or True and not not False
+Step 140, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 140, training acc: 0.540, instruction: False and not (True or not not False) and (not False)
+Step 140, training acc: 0.540, instruction: Not (not False and True or False and True)
+Step 140, training acc: 0.480, instruction: Not (not False or not not True)
+Step 141, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 141, training acc: 0.660, instruction: True or False or (True and False)
+Step 141, training acc: 0.520, instruction: False or True and not (False and not False)
+Step 141, training acc: 0.440, instruction: Not (False or True) and not (not True or False)
+Step 141, training acc: 0.820, instruction: False or not True
+Step 141, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 141, training acc: 0.480, instruction: False and not (True or False or not True or False)
+Step 142, training acc: 0.700, instruction: True and False and (True or False or True)
+Step 142, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 142, training acc: 0.640, instruction: Not (True and not False) and not not False
+Step 142, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 142, training acc: 0.660, instruction: True and False and not (False or True)
+Step 142, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 142, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 143, training acc: 0.660, instruction: True or False or (True and False)
+Step 143, training acc: 0.800, instruction: False or True or not True or False is True
+Step 143, training acc: 0.820, instruction: Not ( False or False and False ) is True
+Step 143, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 143, training acc: 0.860, instruction: True and not False or (not False and True) is True
+Step 143, training acc: 0.560, instruction: Not ( False and not False ) and ( not False )
+Step 143, training acc: 0.540, instruction: True and not False and (not False or True)
+Step 144, training acc: 0.580, instruction: False and not (not True or not False)
+Step 144, training acc: 0.900, instruction: False and not (not False and True) is False
+Step 144, training acc: 0.680, instruction: Not (not False) and not not False
+Step 144, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 144, training acc: 0.820, instruction: Not (not True) and not not True is True
+Step 144, training acc: 0.460, instruction: False and not (not False and True) and not (not not False)
+Step 144, training acc: 0.840, instruction: True and not not False
+Step 145, training acc: 0.480, instruction: Not (not (False and True)) and (not False)
+Step 145, training acc: 0.460, instruction: False or True or not (not True and False)
+Step 145, training acc: 0.640, instruction: True and False and (False or True)
+Step 145, training acc: 0.640, instruction: Not (not True and (False and False))
+Step 145, training acc: 0.620, instruction: Not not (not False and not True)
+Step 145, training acc: 0.500, instruction: Not (not True or False)
+Step 145, training acc: 0.920, instruction: True and not not (False or not False) is True
+Step 146, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 146, training acc: 0.780, instruction: True and False and (True and False)
+Step 146, training acc: 0.520, instruction: False or True and not (False and not True)
+Step 146, training acc: 0.720, instruction: Not (False and not False)
+Step 146, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 146, training acc: 0.980, instruction: Not (not False) and not not False is False
+Step 146, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 147, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 147, training acc: 0.600, instruction: True and False and (False or not False)
+Step 147, training acc: 0.680, instruction: Not (not False) and not not False
+Step 147, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 147, training acc: 0.900, instruction: False and not (True or not False) and (not False) is False
+Step 147, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 148, training acc: 0.920, instruction: False and not (True or not not False) and (not False) is False
+Step 148, training acc: 0.500, instruction: True or False or (True and not False) or (not False and not True)
+Step 148, training acc: 0.520, instruction: False or True and not (False and not True)
+Step 148, training acc: 0.680, instruction: Not (not False) and not not False
+Step 148, training acc: 0.500, instruction: Not (False or True) and not (False and True)
+Step 148, training acc: 0.840, instruction: False or not False
+Step 148, training acc: 0.520, instruction: False and (not False or not True) and (not True or True)
+Step 148, training acc: 0.940, instruction: False and not (True and not False) and not (not False) is False
+Step 149, training acc: 0.800, instruction: False and not (True or False) is True
+Step 149, training acc: 0.900, instruction: True and not (True and not False) is True
+Step 149, training acc: 0.460, instruction: False and (False or not False) or (not False)
+Step 149, training acc: 0.520, instruction: Not (True and False) or not not False
+Step 149, training acc: 0.920, instruction: False and not (True or not not False) and (not False) is False
+Step 149, training acc: 0.500, instruction: False and not (True and not False) and not (not False)
+Step 149, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 150, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 150, training acc: 0.540, instruction: True or False or (True and not False) or not False
+Step 150, training acc: 0.840, instruction: False or True or not False or False is True
+Step 150, training acc: 0.500, instruction: Not (False or True) and not (not True) and not (False)
+Step 150, training acc: 0.620, instruction: Not True and not not (False and False)
+Step 150, training acc: 0.420, instruction: Not ( True and not False and not ( False or True or not True ) )
+Step 150, training acc: 0.740, instruction: False or not True or not False
+Step 151, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 151, training acc: 0.900, instruction: True and not (True or False) is True
+Step 151, training acc: 0.680, instruction: Not (not False) and not not False
+Step 151, training acc: 0.500, instruction: Not (True or False or not False) and ( not False or not False )
+Step 151, training acc: 0.860, instruction: False and not (False or True or not True) is False
+Step 151, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 152, training acc: 0.580, instruction: Not (not True) and (False or not False)
+Step 152, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 152, training acc: 0.760, instruction: False or True or not True
+Step 152, training acc: 0.520, instruction: False and (not False or not True)
+Step 152, training acc: 0.860, instruction: Not ( True or not False ) and not False is False
+Step 152, training acc: 0.860, instruction: False and not (False or True or not True) is False
+Step 152, training acc: 0.520, instruction: False and (not False or not True) and (not True or True)
+Step 152, training acc: 0.680, instruction: False or not (True and not False)
+Step 153, training acc: 0.500, instruction: False and not (True and not False) or (not False)
+Step 153, training acc: 0.940, instruction: False and not (False or not False) and (not False) is False
+Step 153, training acc: 0.800, instruction: False or True and not False
+Step 153, training acc: 0.740, instruction: True and False and not (True and False and not False)
+Step 153, training acc: 0.800, instruction: 
+Step 153, training acc: 0.560, instruction: True and (False or not False)
+Step 154, training acc: 0.460, instruction: Not (not False) or True and False is
+Step 154, training acc: 0.720, instruction: Not True or not False and not True
+Step 154, training acc: 0.600, instruction: Not (False or not False)
+Step 154, training acc: 0.440, instruction: Not (False or True) and not (not True) and not (False or not False)
+Step 154, training acc: 0.580, instruction: False and not (False or not not not False) and (not not False)
+Step 154, training acc: 0.600, instruction: Not ( False or not False ) and not False
+Step 154, training acc: 0.920, instruction: False and not (True or not not False) and (not False) is False
+Step 155, training acc: 0.940, instruction: False and not (True and not False) is False
+Step 155, training acc: 0.400, instruction: Not (True and False) or (True and not False)
+Step 155, training acc: 0.740, instruction: Not ( True or False or True ) is False
+Step 155, training acc: 0.540, instruction: False and not (True or not not False) and (not False)
+Step 155, training acc: 0.540, instruction: Not (True or not not not False) and not ( not False or False ) and not ( not not False or not False )
+Step 155, training acc: 0.520, instruction: False and not (True or False or True)
+Step 156, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 156, training acc: 0.640, instruction: Not (True and not False) and not not False
+Step 156, training acc: 0.680, instruction: Not (not False) and not not False
+Step 156, training acc: 0.620, instruction: Not (False or True) and not False
+Step 156, training acc: 0.540, instruction: False and not (False or not False) and (not False) and not (True and not not False)
+Step 156, training acc: 0.440, instruction: ( False ) and not ( True or not False )
+Step 156, training acc: 0.580, instruction: True and (True or False)
+Step 157, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 157, training acc: 0.600, instruction: Not (False or True) or not not True
+Step 157, training acc: 0.680, instruction: True and False and (True or False or not False)
+Step 157, training acc: 0.660, instruction: False or (False or True) or not True
+Step 157, training acc: 0.860, instruction: False and (False or not not False) and (not False) is False
+Step 157, training acc: 0.780, instruction: Not False and (False or True) and not not False
+Step 158, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 158, training acc: 0.560, instruction: Not (not False) and (not True)
+Step 158, training acc: 0.640, instruction: Not (True and not False) and not not False
+Step 158, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 158, training acc: 0.460, instruction: Not ( False or not True )
+Step 158, training acc: 0.500, instruction: False and not (True and not False) and not (not False)
+Step 158, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 159, training acc: 0.940, instruction: False and not (True and not False) is False
+Step 159, training acc: 0.860, instruction: True and (False or True) is True
+Step 159, training acc: 0.600, instruction: True and not (True and False) or not (not False or False)
+Step 159, training acc: 0.680, instruction: Not (not False) and not not False
+Step 159, training acc: 0.540, instruction: True and (True or False) and not (False and not True)
+Step 159, training acc: 0.540, instruction: False and not (True or not not False) and (not False)
+Step 159, training acc: 0.900, instruction: Not (not False) and not (False or not False) and not (True or False or True) is False
+Step 160, training acc: 0.660, instruction: If A is True and B is True, then A and B is True.
+Step 160, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 160, training acc: 0.800, instruction: False or True and not False
+Step 160, training acc: 0.680, instruction: Not (not False) and not not False
+Step 160, training acc: 0.580, instruction: Not ( True or not False ) and not (not False) and (not False) and (not False)
+Step 160, training acc: 0.180, instruction: False and not (False or not True and True) is
+Step 160, training acc: 0.820, instruction: ( True and not True and True ) is False
+Step 161, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 161, training acc: 0.520, instruction: Not (not False) and not not False and not (False or not False)
+Step 161, training acc: 0.540, instruction: False or True or not (True or False or False)
+Step 161, training acc: 0.940, instruction: False and (True and not False) is False
+Step 161, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 161, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 162, training acc: 0.720, instruction: True and not (True and not False) and not (False or not False)
+Step 162, training acc: 0.440, instruction: Not (not False) or (not True and not False)
+Step 162, training acc: 0.640, instruction: Not (not False) and not not False is
+Step 162, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 162, training acc: 0.480, instruction: False and not (False or not not True)
+Step 162, training acc: 0.560, instruction: Not ( True and not False )
+Step 162, training acc: 0.920, instruction: Not False and True and not not False is False
+Step 163, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 163, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 163, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 163, training acc: 0.460, instruction: Not ( False and False and False )
+Step 163, training acc: 0.680, instruction: Not (not False) and not not False
+Step 163, training acc: 0.620, instruction: False and (not False or not False) and (not False)
+Step 163, training acc: 0.920, instruction: Not False and True and not not False is False
+Step 164, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 164, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 164, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 164, training acc: 0.680, instruction: Not (not False) and not not False
+Step 164, training acc: 0.680, instruction: Not (not False) and not not False
+Step 164, training acc: 0.880, instruction: False and False or not (True) is False
+Step 164, training acc: 0.780, instruction: False or not not not False
+Step 165, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 165, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 165, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 165, training acc: 0.880, instruction: True and False and (False or not False or not not True) is False
+Step 165, training acc: 0.480, instruction: False and not (False or not not True)
+Step 165, training acc: 0.360, instruction: (not (not False)) and (not (False or not False)) and (not (True or False or True))
+Step 166, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 166, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 166, training acc: 0.580, instruction: False or True and not not False is
+Step 166, training acc: 0.680, instruction: Not (not False) and not not False
+Step 166, training acc: 0.700, instruction: True and False and (True or False or True)
+Step 166, training acc: 0.700, instruction: False or not not False or not True or not False
+Step 166, training acc: 0.500, instruction: False and not (True and not False) and not (not False)
+Step 166, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 167, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 167, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 167, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 167, training acc: 0.680, instruction: Not (not False) and not not False
+Step 167, training acc: 0.680, instruction: Not (not False) and not not False
+Step 167, training acc: 0.540, instruction: Not ( ( not False ) and ( not False ) )
+Step 167, training acc: 0.780, instruction: False or not not True or not False is True
+Step 168, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 168, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 168, training acc: 0.900, instruction: Not (not False) and not (False or not False) and not (True or False or True) is False
+Step 168, training acc: 0.680, instruction: Not (not False) and not not False
+Step 168, training acc: 0.660, instruction: Not (True and False) and not (False or not False) and not (True or False or True)
+Step 168, training acc: 0.680, instruction: Not (not False) and not not False
+Step 168, training acc: 0.500, instruction: False and (not True or not False) and (not True or not False)
+Step 168, training acc: 0.940, instruction: False and not (False or not False) and (not False) is False
+Step 169, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 169, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 169, training acc: 0.900, instruction: Not (not False) and not (False or not False) and not (True or False or True) is False
+Step 169, training acc: 0.680, instruction: Not (not False) and not not False
+Step 169, training acc: 0.460, instruction: Not (False and True) and not (False or True) and not (True or False or True)
+Step 169, training acc: 0.520, instruction: False and not (False or True)
+Step 169, training acc: 0.480, instruction: Not ( True or False ) and not ( not True or not True ) and not ( False or not False )
+Step 169, training acc: 0.660, instruction: False or ( True ) or not True is
+Step 170, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 170, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 170, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 170, training acc: 0.680, instruction: Not (not False) and not not False
+Step 170, training acc: 0.580, instruction: True and (not True or False) and (not (not False or False))
+Step 170, training acc: 0.660, instruction: Not (not False) or not False
+Step 170, training acc: 0.640, instruction: Not ( False or not not False ) and True
+Step 170, training acc: 0.620, instruction: True and not False and not (True or False or not not False)
+Step 171, training acc: 0.680, instruction: Not (not False) and not not False
+Step 171, training acc: 0.660, instruction: True or False or (True and not False)
+Step 171, training acc: 0.780, instruction: Not not not False
+Step 171, training acc: 0.680, instruction: Not (not False) and not not False
+Step 171, training acc: 0.440, instruction: Not (True or not False) and not (not (not False) and False)
+Step 171, training acc: 0.620, instruction: Not (not False) or not False or not not False
+Step 171, training acc: 0.560, instruction: Not ( False or not False ) and not ( not False and True )
+Step 171, training acc: 0.860, instruction: Not False and not False and not False
+Step 172, training acc: 0.600, instruction: False and not (True and not not False) and (not False)
+Step 172, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 172, training acc: 0.640, instruction: Not (False or not False) and not False
+Step 172, training acc: 0.920, instruction: Not ( False and True ) and not ( not ( False or not False ) and ( not False ) ) is False
+Step 172, training acc: 0.880, instruction: False and True
+Step 172, training acc: 0.640, instruction: Not (not False) and not (False or not False) and not (True or False or True)
+Step 172, training acc: 0.560, instruction: Not (not False) and not (False or not False) and (not False)
+Step 173, training acc: 0.440, instruction: Not (not False) and not (not True)
+Step 173, training acc: 0.540, instruction: False and not (False and True) and not (not False)
+Step 173, training acc: 0.680, instruction: Not False
+Step 173, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 173, training acc: 0.580, instruction: Not (False or True) and (True or not False)
+Step 173, training acc: 0.840, instruction: False and (True or not False) is False
+Step 173, training acc: 0.720, instruction: Not False and not True or not True
+Step 174, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 174, training acc: 0.440, instruction: Not (False or not (True or not False))
+Step 174, training acc: 0.880, instruction: False and False and not (False and not not False) is False
+Step 174, training acc: 0.600, instruction: Not (False or (False)) and not (True and not False)
+Step 174, training acc: 0.460, instruction: Not (not False) and not (True or not False)
+Step 174, training acc: 0.420, instruction: Not ( True or not not False )
+Step 174, training acc: 0.840, instruction: False or not False
+Step 175, training acc: 0.660, instruction: True or False or (True and False)
+Step 175, training acc: 0.880, instruction: True and not (not True) is True
+Step 175, training acc: 0.680, instruction: Not False
+Step 175, training acc: 0.660, instruction: Not ( False and not False ) and not not False
+Step 175, training acc: 0.580, instruction: Not (not True) and not not True
+Step 175, training acc: 0.680, instruction: Not ( False )
+Step 175, training acc: 0.500, instruction: Not (not (False ) and False )
+Step 175, training acc: 0.560, instruction: Not (not False) and not (not not False)
+Step 176, training acc: 0.880, instruction: True and not True
+Step 176, training acc: 0.400, instruction: False and True and not (True and not True) is
+Step 176, training acc: 0.680, instruction: Not (not False) and not not False
+Step 176, training acc: 0.880, instruction: True and not True
+Step 176, training acc: 0.500, instruction: False and not (True and not False) and not (not False)
+Step 176, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 177, training acc: 0.880, instruction: False and not (True or False or True) is False
+Step 177, training acc: 0.560, instruction: True or False or (True and not False) and (not False)
+Step 177, training acc: 0.800, instruction: False or True and not False
+Step 177, training acc: 0.560, instruction: Not ( not False ) and not not False
+Step 177, training acc: 0.800, instruction: 
+Step 177, training acc: 0.440, instruction: False and False or ( not True and True )
+Step 177, training acc: 0.360, instruction: False and ( not ( True or not False ) and ( not False ) )
+Step 177, training acc: 0.860, instruction: False or (False) or not True is False
+Step 178, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 178, training acc: 0.660, instruction: True or False or (True and not False)
+Step 178, training acc: 0.680, instruction: False or True and not not False
+Step 178, training acc: 0.560, instruction: Not ( not False ) and not not False
+Step 178, training acc: 0.300, instruction: Not ( False or True ) and not ( not True and not False )
+Step 178, training acc: 0.740, instruction: False or not not False and not (False or not not not True) and (not False)
+Step 178, training acc: 0.400, instruction: Not ( True and not False ) and not ( not ( False or not False ) and ( not False ) )
+Step 178, training acc: 0.840, instruction: False or not False
+Step 179, training acc: 0.420, instruction: False and not ( True and not not False ) and ( not False )
+Step 179, training acc: 0.560, instruction: True or False or (True and not False) and (not False)
+Step 179, training acc: 0.800, instruction: False or True and not False
+Step 179, training acc: 0.560, instruction: Not ( not False ) and not not False
+Step 179, training acc: 0.480, instruction: Not (True or not False) and not (False or not True)
+Step 179, training acc: 0.880, instruction: True and False and not (True and False and False) is False
+Step 179, training acc: 0.540, instruction: Not ( True and False ) and not ( False and not False )
+Step 180, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 180, training acc: 0.540, instruction: Not ( not True ) and not False
+Step 180, training acc: 0.500, instruction: False and False and (not False or not True)
+Step 180, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 180, training acc: 0.880, instruction: True and (not True or not False) is False
+Step 180, training acc: 0.340, instruction: Not (False and not True) or not False is
+Step 180, training acc: 0.580, instruction: False and (not False) and not (True or not False)
+Step 180, training acc: 0.860, instruction: Not False and not True or not True is False
+Step 181, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 181, training acc: 0.860, instruction: True or False or (True and not False) is True
+Step 181, training acc: 0.880, instruction: False or (True and not False) and (not False) is False
+Step 181, training acc: 0.640, instruction: True and not not False or False
+Step 181, training acc: 0.920, instruction: True and False and not (True or False or True) is False
+Step 181, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 182, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 182, training acc: 0.700, instruction: Not (not False) or False
+Step 182, training acc: 0.520, instruction: False and True and ( not False ) and ( not not False ) or not ( not not False ) or False
+Step 182, training acc: 0.600, instruction: Not (False or True) and not (False and not False)
+Step 182, training acc: 0.860, instruction: Not (not False) and False and False or False is False
+Step 182, training acc: 0.280, instruction: Not (not (not True)) and (not (False))
+Step 183, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 183, training acc: 0.840, instruction: Not ( True or True ) and False is False
+Step 183, training acc: 0.520, instruction: False or True and not (False and not True)
+Step 183, training acc: 0.880, instruction: False and not (True or False or True) is False
+Step 183, training acc: 0.460, instruction: Not ( True and not False ) and not ( False or not False )
+Step 183, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 184, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 184, training acc: 0.680, instruction: True and not False and (False or not not False)
+Step 184, training acc: 0.740, instruction: False or True or not False
+Step 184, training acc: 0.500, instruction: False and not (True and not False) and not (not False)
+Step 184, training acc: 0.680, instruction: Not ( not False and not True ) and (not False)
+Step 184, training acc: 0.520, instruction: False and not (False or True)
+Step 184, training acc: 0.360, instruction: Not ( True and not True ) or True and True
+Step 184, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 185, training acc: 0.660, instruction: True or False or (True and False)
+Step 185, training acc: 0.540, instruction: False and not (False and True) and not (not False)
+Step 185, training acc: 0.640, instruction: False or True and not (True and not False)
+Step 185, training acc: 0.560, instruction: Not ( not False ) and not not False
+Step 185, training acc: 0.440, instruction: True and False and not (True and not False) and (not False)
+Step 185, training acc: 0.500, instruction: False and not (True and not False) and not (not False)
+Step 185, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 186, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 186, training acc: 0.680, instruction: True and not (not True)
+Step 186, training acc: 0.680, instruction: False or True and not not False
+Step 186, training acc: 0.760, instruction: False and not not False
+Step 186, training acc: 0.520, instruction: Not ( True and False ) and not ( False or not False )
+Step 186, training acc: 0.900, instruction: True and not not (not False) is True
+Step 186, training acc: 0.460, instruction: Not ( True or not ( not False ) )
+Step 186, training acc: 0.540, instruction: False and not (True or not not False) and (not False)
+Step 187, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 187, training acc: 0.860, instruction: True and False and (not False or not False) is False
+Step 187, training acc: 0.540, instruction: False or True or not (True or False or False)
+Step 187, training acc: 0.540, instruction: Not ( True or not False ) and not False
+Step 187, training acc: 0.520, instruction: Not ( not True and not False ) and (not False)
+Step 187, training acc: 0.480, instruction: False and not (False or not not True)
+Step 187, training acc: 0.440, instruction: Not ( False or not not False )
+Step 187, training acc: 0.780, instruction: False or not not not False
+Step 188, training acc: 0.660, instruction: True and False and not (True and False)
+Step 188, training acc: 0.600, instruction: True and False and (False or not False)
+Step 188, training acc: 0.800, instruction: False or True and not False
+Step 188, training acc: 0.660, instruction: Not (not False) and not not False and not True
+Step 188, training acc: 0.520, instruction: Not ( False or True ) and not ( False and not False )
+Step 188, training acc: 0.880, instruction: True and False and not (True and False and not False) is False
+Step 188, training acc: 0.540, instruction: Not ( True and False ) and not ( False and not False )
+Step 188, training acc: 0.840, instruction: False or not False
+Step 189, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 189, training acc: 0.480, instruction: Not (not (True and False)) and (not False)
+Step 189, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 189, training acc: 0.660, instruction: Not ( True or not not False ) or not False
+Step 189, training acc: 0.560, instruction: Not (not True)
+Step 190, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 190, training acc: 0.780, instruction: True and False and (True and False)
+Step 190, training acc: 0.860, instruction: False and True and ( not False ) is False
+Step 190, training acc: 0.840, instruction: False and (True or not False) is False
+Step 190, training acc: 0.800, instruction: 
+Step 190, training acc: 0.740, instruction: True and False and not (True and False and False)
+Step 190, training acc: 0.520, instruction: Not ( True and False ) and not ( not False )
+Step 190, training acc: 0.940, instruction: False and not (True and not False) and (not False) is False
+Step 191, training acc: 0.360, instruction: True and not ( False or True or not True )
+Step 191, training acc: 0.580, instruction: True or False or (True and not False) or (not True and not False)
+Step 191, training acc: 0.740, instruction: False or True and not False and True
+Step 191, training acc: 0.560, instruction: Not ( not False ) and not not False
+Step 191, training acc: 0.380, instruction: Not ( False or True ) and not ( not not False ) and not ( not not False )
+Step 191, training acc: 0.580, instruction: True and not (False or not False) and (True or not False)
+Step 191, training acc: 0.440, instruction: Not ( True and not True ) and not ( False or not True )
+Step 191, training acc: 0.860, instruction: True and not True and not True
+Step 192, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 192, training acc: 0.920, instruction: False and not (False and not False) and (not False) is False
+Step 192, training acc: 0.800, instruction: False or True and not False
+Step 192, training acc: 0.800, instruction: False and not False
+Step 192, training acc: 0.840, instruction: True and (not True or False) is False
+Step 192, training acc: 0.780, instruction: ```False and (False and not True) is False```
+Step 192, training acc: 0.520, instruction: False and ( True or not False )
+Step 192, training acc: 0.860, instruction: False or ( False ) or not True is False
+Step 193, training acc: 0.680, instruction: True and not (True and False)
+Step 193, training acc: 0.580, instruction: False and not (True or not False) and (not False)
+Step 193, training acc: 0.880, instruction: Not ( not False or not ( False and not ( True ) ) ) is False
+Step 193, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 193, training acc: 0.720, instruction: True or not not False
+Step 193, training acc: 0.320, instruction: Not ( False and ( True or not False ) )
+Step 193, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 194, training acc: 0.560, instruction: False and not (True and not False) and (not False)
+Step 194, training acc: 0.860, instruction: True and False and (True or False or not False) is False
+Step 194, training acc: 0.720, instruction: False or True
+Step 194, training acc: 0.620, instruction: Not (False or True) and not False
+Step 194, training acc: 0.460, instruction: Not ( True or not not ( False and True ) ) and ( False and not False )
+Step 194, training acc: 0.560, instruction: False and not (True or not False) and not (not False)
+Step 194, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 195, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 195, training acc: 0.600, instruction: True and False and (False or not False)
+Step 195, training acc: 0.540, instruction: False and False and (not False and not not False)
+Step 195, training acc: 0.520, instruction: Not ( False or not False ) and not (not False)
+Step 195, training acc: 0.420, instruction: Not ( False or True ) and not ( not not False ) and not ( not True )
+Step 195, training acc: 0.600, instruction: Not False and not True and not False or True and False
+Step 195, training acc: 0.520, instruction: Not ( True and False ) and not ( False or not False )
+Step 195, training acc: 0.920, instruction: False and not (True and False or not False) is False
+Step 196, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 196, training acc: 0.840, instruction: Not ( True or True ) and False is False
+Step 196, training acc: 0.760, instruction: False or True or not not not not False
+Step 196, training acc: 0.900, instruction: Not ( not ( True or False ) and not not False ) is False
+Step 196, training acc: 0.840, instruction: Not ( not ( not False ) or not ( not True ) ) and not True is False
+Step 196, training acc: 0.520, instruction: False and not (False or True)
+Step 196, training acc: 0.900, instruction: False and (not True or not False) is False
+Step 196, training acc: 0.640, instruction: Not False and not (True and not False) and (not False)
+Step 197, training acc: 0.960, instruction: False and not (True and not not False) and (not False) is False
+Step 197, training acc: 0.440, instruction: Not (not False) or (not False) or (not False)
+Step 197, training acc: 0.740, instruction: False or True or not False
+Step 197, training acc: 0.560, instruction: Not (not False) and (True or False)
+Step 197, training acc: 0.840, instruction: True and (not True or False) is False
+Step 197, training acc: 0.820, instruction: Not (not True) and not not True is True
+Step 197, training acc: 0.880, instruction: True and not not False and not (False or not not False) is True
+Step 198, training acc: 0.540, instruction: False and not (False and True) and not (not False)
+Step 198, training acc: 0.720, instruction: False or True
+Step 198, training acc: 0.680, instruction: Not (not False) and not not False
+Step 198, training acc: 0.600, instruction: Not (True and not False) and not (False or not False)
+Step 198, training acc: 0.520, instruction: False and not (False or True or not False)
+Step 198, training acc: 0.460, instruction: Not ( True or False ) and not ( False and not False )
+Step 198, training acc: 0.560, instruction: Not (False or not False) and not (not False)
+Step 199, training acc: 0.800, instruction: 
+Step 199, training acc: 0.480, instruction: Not True and (not False and not True) and (not False)
+Step 199, training acc: 0.720, instruction: False or True
+Step 199, training acc: 0.940, instruction: Not ( not False ) and not not False is False
+Step 199, training acc: 0.900, instruction: Not ( False or True ) and not ( not not False ) is False
+Step 199, training acc: 0.400, instruction: Not ( True and False ) and not ( not ( False or not False ) and ( not False ) )
+Step 199, training acc: 0.900, instruction: Not (False or not False) and not (not False) is True

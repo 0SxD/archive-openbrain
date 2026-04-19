@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "sagex",
+      "description": "Deterministic agent governance. Research gates, audit loops, approved-source enforcement, coder/auditor cycling with zero-context review.",
+      "path": "."
+    }
+  ]
+}

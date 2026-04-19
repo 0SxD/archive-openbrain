@@ -1,0 +1,4 @@
+{
+  "name": "superpowers",
+  "description": "Superpowers teaches Claude brainstorming, subagent driven development with built in code review, systematic debugging, and red/green TDD. Additionally, it teaches Claude how to author and test new skills."
+}

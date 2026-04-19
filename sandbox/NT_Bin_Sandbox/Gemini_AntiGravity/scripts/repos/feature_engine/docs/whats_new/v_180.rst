@@ -1,0 +1,194 @@
+Version 1.8.X
+=============
+
+Version 1.8.3
+-------------
+
+Deployed: 22nd Jan 2025
+
+Contributors
+~~~~~~~~~~~~
+
+- `Claudio Salvatore Arcidiacono <https://github.com/ClaudioSalvatoreArcidiacono>`_
+- `Chris Samiullah <https://github.com/christophergs>`_
+- `Soledad Galli <https://github.com/solegalli>`_
+
+This release makes Feature-engine compatible with the latest version of scikit-learn
+1.6.0.
+
+Code maintenance
+~~~~~~~~~~~~~~~~
+
+- Make all transformers compatible with scickit-learn's new developer's API (`Claudio Salvatore Arcidiacono <https://github.com/ClaudioSalvatoreArcidiacono>`_ and `Soledad Galli <https://github.com/solegalli>`_)
+- Add circleci tests for multiple versions of scikit-learn (`Chris Samiullah <https://github.com/christophergs>`_)
+
+Version 1.8.2
+-------------
+
+Deployed: 2nd Nov 2024
+
+Contributors
+~~~~~~~~~~~~
+
+- `Vasco Schiavo <https://github.com/VascoSch92>`_
+- `Gurjinder Kaur <https://github.com/gurjinderbassi>`_
+- `Michael Russell <https://github.com/michaelrussell4>`_
+- `JCCalvoJackson <https://github.com/jccalvojackson>`_
+- `Soledad Galli <https://github.com/solegalli>`_
+
+In this release, we add 2 new transformers: A transformer to select features based on the
+MRMR (Maximum Relevance Minimum Redundancy) framework, and a transformer to implement
+mean normalization.
+
+Mean normalization is a scaling procedure not supported by Scikit-learn, so we thought we'd
+give it a go ourselves. MRMR is a feature selection method made quite popular by Uber,
+probably because it is quite fast to compute.
+
+In addition, we added some new functionality and expanded the documentation of the Forecasting features
+transformers.
+
+Thank you very much to all contributors to this release!
+
+If you value what we do, consider `sponsoring us <https://github.com/sponsors/solegalli>`_, so that we can keep
+updating Feature-engine at a fast pace.
+
+New transformers
+~~~~~~~~~~~~~~~~
+
+- `MRMR()` selects features based on the Maximum Relevance Minimum Redundancy framework (`Soledad Galli <https://github.com/solegalli>`_)
+- `MeanNormalizationScaler()` scales features using mean normalization which consists of subtracting the mean and dividing by the value range (`Vasco Schiavo <https://github.com/VascoSch92>`_)
+
+
+Code improvements
+~~~~~~~~~~~~~~~~~
+
+- Add tz aware columns to variable handling functions, useful for datetime module transformers (`JCCalvoJackson <https://github.com/jccalvojackson>`_)
+
+Documentation
+~~~~~~~~~~~~~
+
+- Expand user guide for the forecasting features transformer (`Gurjinder Kaur <https://github.com/gurjinderbassi>`_)
+- Fix parameter default value of `DecisionTreeEncoder()` (Michael Russell <https://github.com/michaelrussell4>`_)
+
+
+Version 1.8.1
+-------------
+
+Deployed: 1st Sep 2024
+
+Contributors
+~~~~~~~~~~~~
+
+- `Cainã Max Couto da Silva <https://github.com/cmcouto-silva>`_
+- `Gurjinder Kaur <https://github.com/gurjinderbassi>`_
+- `Sergio Benito Martin <https://github.com/sergiobemar>`_
+- `Ranja Sarkar <https://github.com/ranja-sarkar>`_
+- `Hector Patino <https://github.com/hectorpatino>`_
+- `Alessandro Benetti <https://github.com/Benetti-Hub>`_
+- `olikra <https://github.com/olikra>`_
+- `Kanan Mahammadli <https://github.com/KananMahammadli>`_
+- `Soledad Galli <https://github.com/solegalli>`_
+
+In this release, we fix several bugs and future deprecation warnings from pandas and numpy.
+In addition, we expand the functionality of some feature selection classes to return the standard
+deviation of the derived feature importance.
+
+We have also updated and expanded various pages of our documentation.
+
+Thank you very much to all contributors to this release and to `Vasco Schiavo <https://github.com/VascoSch92>`_ and
+`Gleb Levitski <https://github.com/GLevv>`_ for actively discussing many of our PRs and issues.
+
+If you value what we do, consider `sponsoring us <https://github.com/sponsors/solegalli>`_, so that we can keep
+updating Feature-engine at a fast pace.
+
+Enhancements
+~~~~~~~~~~~~
+
+- `ProbeFeatureSelection` can now also determine feature importance through single feature model performance (`Soledad Galli <https://github.com/solegalli>`_)
+- `ProbeFeatureSelection` can now return the standard deviation of the feature importance (`Soledad Galli <https://github.com/solegalli>`_)
+- `RecursiveFeatureElimination` and `RecursiveFeatureAddition` can now return the standard deviation of the feature importances (`Soledad Galli <https://github.com/solegalli>`_)
+- `SelectByShuffling`, `SelectBySingleFeaturePerformance` and `SelectByTargetMeanPerformance` can now return the standard deviation of the feature importances (`Soledad Galli <https://github.com/solegalli>`_)
+- All feature selection classes can now implement Group cross-validation through the `groups` parameter (`Kanan Mahammadli <https://github.com/KananMahammadli>`_)
+
+
+Bug fixes
+~~~~~~~~~
+
+- The cv parameter of the recursive feature selectors can now take cv generators of the type `KFold.split(X, y)` (`Alessandro Benetti <https://github.com/Benetti-Hub>`_)
+- The cv parameter of the remaining feature selection classes can now take cv generators of the type `KFold.split(X, y)` (`Soledad Galli <https://github.com/solegalli>`_)
+- `LogCpTransformer()` adds a constant only to those variables that are strictly non-positive during fit (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix bug in `MatchVariables` that was preventing the transformer to work when missing values were raised (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix bug in `inverse_transform()` from `YeoJohnsonTransformer()` (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix pandas future warnings (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix numpy future warnings (`olikra <https://github.com/olikra>`_)
+
+Code improvements
+~~~~~~~~~~~~~~~~~
+
+- Expand coverage of various tests (`olikra <https://github.com/olikra>`_)
+
+Documentation
+~~~~~~~~~~~~~
+
+- Expand user guide for `ReciprocalTransformer()` (`Sergio Benito Martin <https://github.com/sergiobemar>`_)
+- Expand user guide for `YeoJohnsonTransformer()` (`Ranja Sarkar <https://github.com/ranja-sarkar>`_)
+- Expand user guide for `WoEEncoder()` (`Hector Patino <https://github.com/hectorpatino>`_)
+- Expand user guide for `OrdinalEncoder()` (`Gurjinder Kaur <https://github.com/gurjinderbassi>`_)
+- Expand user guide for `MeanMedianImputer()` (`Cainã Max Couto da Silva <https://github.com/cmcouto-silva>`_)
+- Expand `CyclicalFeatures` documentation to explain how `max_values` are calculated and discrepancies with Scikit-learn's documentation (`Soledad Galli <https://github.com/solegalli>`_)
+- Add contribute.MD file to repository (`Soledad Galli <https://github.com/solegalli>`_)
+
+Version 1.8.0
+-------------
+
+Deployed: 26th May 2024
+
+Contributors
+~~~~~~~~~~~~
+
+- `Cainã Max Couto da Silva <https://github.com/cmcouto-silva>`_
+- `Gurjinder Kaur <https://github.com/gurjinderbassi>`_
+- `Gleb Levitski <https://github.com/GLevv>`_
+- `Lorenzo Vitali <https://github.com/93lorenzo>`_
+- `Soledad Galli <https://github.com/solegalli>`_
+
+In this release, we make some breaking changes. The `DecisionTreeEncoder()` does not have the encoding pipeline any more.
+In its place, we now added an `encoding_dict_` parameter that stores the mappings from category to predictions of the
+decision tree. This allowed us to implement in addition a way to handle unseen categories and the method `inverse_transform`.
+
+We also expanded the functionality of the `DecisionTreeDiscretiser()`, which can now replace the continuous attributes
+with the decision tree predictions, interval limits, or bin number.
+
+In addition, we introduce a new transformer, the `DecisionTreeFreatures()`, which adds new features to the data,
+resulting from predictions of decision trees trained on one or more features.
+
+The classes from the module `outliers` can now automatically select the limit for the boundaries for outliers.
+
+Finally, we have updated and expanded various pages of our documentation.
+
+Thank you very much to all contributors to this release and to `Vasco Schiavo <https://github.com/VascoSch92>`_ and
+`Gleb Levitski <https://github.com/GLevv>`_ for actively reviewing many of our PRs.
+
+If you value what we do, please consider `sponsoring us <https://github.com/sponsors/solegalli>`_, so that we can keep
+updating Feature-engine at a fast pace.
+
+New
+~~~
+
+- `DecisionTreeFeatures` is a new transformer from the creation module that adds features based of predictions of decision trees (`Soledad Galli <https://github.com/solegalli>`_)
+
+
+Enhancements
+~~~~~~~~~~~~
+
+- `DecisionTreeEncoder` now supports encodings for unseen categories, `inverse_transform`, and provides an encoding dictionary instead of the pipeline (`Soledad Galli <https://github.com/solegalli>`_, `Gleb Levitski <https://github.com/GLevv>`_ and `Lorenzo Vitali <https://github.com/93lorenzo>`_ )
+- The `DecisionTreeDiscretiser()` can now replace the continuous attributes with the decision tree predictions, interval limits, or bin number (`Soledad Galli <https://github.com/solegalli>`_)
+- The `OutlierTrimmer()` and `Winsorizer()` can now adjust the strength of the outlier search automatically based of the statistical method (param `fold="auto"`) (`Gleb Levitski <https://github.com/GLevv>`_)
+
+
+Documentation
+~~~~~~~~~~~~~
+
+- Improve user guide for `PowerTransformer()` (`Cainã Max Couto da Silva <https://github.com/cmcouto-silva>`_)
+- Improve user guide for `EqualFrequencyDiscretiser()` and `EqualWidthDiscretiser` (`Cainã Max Couto da Silva <https://github.com/cmcouto-silva>`_)
+- Improve user guide for the categorical encoding module (`Gurjinder Kaur <https://github.com/gurjinderbassi>`_)

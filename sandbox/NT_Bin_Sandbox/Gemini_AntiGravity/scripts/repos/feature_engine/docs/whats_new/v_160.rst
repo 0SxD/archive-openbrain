@@ -1,0 +1,190 @@
+Version 1.6.X
+=============
+
+Version 1.6.2
+-------------
+
+Deployed: 18th September 2023
+
+Contributors
+~~~~~~~~~~~~
+
+- `Giorgio Segalla <https://github.com/GiorgioSgl>`_
+- `David Cortes <https://github.com/david-cortes>`_
+- `Kyle Gilde <https://github.com/kylegilde>`_
+- `Darigov Research <https://github.com/darigovresearch>`_
+- `Soledad Galli <https://github.com/solegalli>`_
+
+
+New functionality
+~~~~~~~~~~~~~~~~~
+
+- `MatchVariables()` can now also match the **dtypes** of the variables (`Kyle Gilde <https://github.com/kylegilde>`_)
+- `DatetimeFeatures()` and `DatetimeSubtraction()` can now specify the format of the datetime variables (`Soledad Galli <https://github.com/solegalli>`_)
+- Add `inverse_transform` method to `YeoJohnsonTransformer()` (`Giorgio Segalla <https://github.com/GiorgioSgl>`_)
+
+Bug fixes
+~~~~~~~~~
+
+This bugs were introduced by the latest releases of pandas, Scikit-learn and Scipy.
+
+- Fix failing test for `YeoJohnsonTransformer()` (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix failing test for `RareLabelEncoder()` (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix failing test for `DatetimeFeatures()` (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix failing test for many encoders: removed `downcast=infer` as it will be deprecated (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix version related failing style checks (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix version related failing type checks (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix version related failing doc checks (`Soledad Galli <https://github.com/solegalli>`_)
+- Fix future warning categorical imputation (`Soledad Galli <https://github.com/solegalli>`_)
+
+
+Code improvements
+~~~~~~~~~~~~~~~~~
+
+- Routine in `DatetimeFeatures()` does not enter into our check for `utc=True` when working with different timezones any more (`Soledad Galli <https://github.com/solegalli>`_)
+- Improve performance in `OneHotEncoder()` (`Soledad Galli <https://github.com/solegalli>`_)
+- Add check for dupicated variable names in dataframe  (`David Cortes <https://github.com/david-cortes>`_)
+
+Documentation
+~~~~~~~~~~~~~
+
+- Fix various typos in user guide (`Soledad Galli <https://github.com/solegalli>`_)
+- Update readthedocs.yml file (`Soledad Galli <https://github.com/solegalli>`_)
+- Add link to license in Readme (`Darigov Research <https://github.com/darigovresearch>`_)
+
+
+Version 1.6.1
+-------------
+
+Deployed: 8th June 2023
+
+Contributors
+~~~~~~~~~~~~
+
+- `dlaprins <https://github.com/dlaprins>`_
+- `Claudio Salvatore Arcidiacono <https://github.com/ClaudioSalvatoreArcidiacono>`_
+- `Morgan Sell <https://github.com/Morgan-Sell>`_
+- `Gleb Levitski <https://github.com/GLevv>`_
+- `Soledad Galli <https://github.com/solegalli>`_
+
+In this release, we make Feature-engine compatible with pandas 2.0, extend the functionality
+of some transformers, and we fix bugs introduced in the previous release.
+
+Thank you so much to all contributors, `Gleb Levitski <https://github.com/GLevv>`_ and
+`Claudio Salvatore Arcidiacono <https://github.com/ClaudioSalvatoreArcidiacono>`_ for helping
+with review and to those of you who created issues flagging bugs or requesting new functionality.
+
+New functionality
+~~~~~~~~~~~~~~~~~
+
+- The Population Stability Index can now be used to evaluate categorical variables (`dlaprins <https://github.com/dlaprins>`_ and `Claudio Salvatore Arcidiacono <https://github.com/ClaudioSalvatoreArcidiacono>`_)
+- `RelativeFeatures` has the option to add a constant to avoid dividing by zero (`Morgan Sell <https://github.com/Morgan-Sell>`_ and `Soledad Galli <https://github.com/solegalli>`_)
+- `SelectByShuffling` now accepts sample weights (`Soledad Galli <https://github.com/solegalli>`_)
+- `WoEEncoder` now let's you know which variables fail in the encoding (`Soledad Galli <https://github.com/solegalli>`_)
+- `WoEEncoder` has the option to add a constant to avoid dividing by zero (`Soledad Galli <https://github.com/solegalli>`_)
+
+Bug fixes
+~~~~~~~~~
+
+- Fixed various bugs in `RareLabelEncoder()` (`Soledad Galli <https://github.com/solegalli>`_)
+- Renamed `transform` method in base classes to `check_transform_input_and_state`, which fixed bugs raised when `set_output(transform="pandas")` in various classes (`Soledad Galli <https://github.com/solegalli>`_ and `Claudio Salvatore Arcidiacono <https://github.com/ClaudioSalvatoreArcidiacono>`_)
+
+Code improvements
+~~~~~~~~~~~~~~~~~
+
+- Made code base compatible with pandas 2.0 (`Claudio Salvatore Arcidiacono <https://github.com/ClaudioSalvatoreArcidiacono>`_)
+- Moved docstrings of selection transformers to docstrings module (`Soledad Galli <https://github.com/solegalli>`_)
+
+
+
+Version 1.6.0
+-------------
+
+Deployed: 16th March 2023
+
+Contributors
+~~~~~~~~~~~~
+
+- `Gleb Levitski <https://github.com/GLevv>`_
+- `Morgan Sell <https://github.com/Morgan-Sell>`_
+- `Alfonso Tobar <https://github.com/datacubeR>`_
+- `Nodar Okroshiashvili <https://github.com/Okroshiashvili>`_
+- `Luís Seabra  <https://github.com/luismavs>`_
+- `Kyle Gilde <https://github.com/kylegilde>`_
+- `Soledad Galli <https://github.com/solegalli>`_
+
+In this release, we make Feature-engine transformers compatible with the `set_output`
+API from Scikit-learn, which was released in version 1.2.0. We also make Feature-engine
+compatible with the newest direction of pandas, in removing the `inplace` functionality
+that our transformers use under the hood.
+
+We introduce a major change: most of the **categorical encoders can now encode variables
+even if they have missing data**.
+
+We are also releasing **3 brand new transformers**: One for discretization, one for feature
+selection and one for operations between datetime variables.
+
+We also made a major improvement in the performance of the `DropDuplicateFeatures` and some
+smaller bug fixes here and there.
+
+We'd like to thank all contributors for fixing bugs and expanding the functionality
+and documentation of Feature-engine.
+
+Thank you so much to all contributors and to those of you who created issues flagging bugs or
+requesting new functionality.
+
+New transformers
+~~~~~~~~~~~~~~~~
+
+- **ProbeFeatureSelection**: introduces random features and selects variables whose importance is greater than the random ones (`Morgan Sell <https://github.com/Morgan-Sell>`_ and `Soledad Galli <https://github.com/solegalli>`_)
+- **DatetimeSubtraction**: creates new features by subtracting datetime variables (`Kyle Gilde <https://github.com/kylegilde>`_ and `Soledad Galli <https://github.com/solegalli>`_)
+- **GeometricWidthDiscretiser**: sorts continuous variables into intervals determined by geometric progression (`Gleb Levitski <https://github.com/GLevv>`_)
+
+New functionality
+~~~~~~~~~~~~~~~~~
+
+- Allow categorical encoders to encode variables with NaN (`Soledad Galli <https://github.com/solegalli>`_)
+- Make transformers compatible with new `set_output` functionality from sklearn (`Soledad Galli <https://github.com/solegalli>`_)
+- The `ArbitraryDiscretiser()` now includes the lowest limits in the intervals (`Soledad Galli <https://github.com/solegalli>`_)
+
+New modules
+~~~~~~~~~~~
+
+- New **Datasets** module with functions to load specific datasets (`Alfonso Tobar <https://github.com/datacubeR>`_)
+- New **variable_handling** module with functions to automatically select numerical, categorical, or datetime variables (`Soledad Galli <https://github.com/solegalli>`_)
+
+Bug fixes
+~~~~~~~~~
+
+- Fixed bug in `DropFeatures()` (`Luís Seabra  <https://github.com/luismavs>`_)
+- Fixed bug in `RecursiveFeatureElimination()` caused when only 1 feature remained in data (`Soledad Galli <https://github.com/solegalli>`_)
+
+Documentation
+~~~~~~~~~~~~~
+
+- Add example code snippets to the selection module API docs (`Alfonso Tobar <https://github.com/datacubeR>`_)
+- Add example code snippets to the outlier module API docs (`Alfonso Tobar <https://github.com/datacubeR>`_)
+- Add example code snippets to the transformation module API docs (`Alfonso Tobar <https://github.com/datacubeR>`_)
+- Add example code snippets to the time series module API docs (`Alfonso Tobar <https://github.com/datacubeR>`_)
+- Add example code snippets to the preprocessing module API docs (`Alfonso Tobar <https://github.com/datacubeR>`_)
+- Add example code snippets to the wrapper module API docs (`Alfonso Tobar <https://github.com/datacubeR>`_)
+- Updated documentation using new Dataset module (`Alfonso Tobar <https://github.com/datacubeR>`_ and `Soledad Galli <https://github.com/solegalli>`_)
+- Reorganized Readme badges (`Gleb Levitski <https://github.com/GLevv>`_)
+- New Jupyter notebooks for `GeometricWidthDiscretiser` (`Gleb Levitski <https://github.com/GLevv>`_)
+- Fixed typos (`Gleb Levitski <https://github.com/GLevv>`_)
+- Remove examples using the boston house dataset (`Soledad Galli <https://github.com/solegalli>`_)
+- Update sponsor page and contribute page (`Soledad Galli <https://github.com/solegalli>`_)
+
+
+Deprecations
+~~~~~~~~~~~~
+
+- The class `PRatioEncoder` is no longer supported and was removed from the API (`Soledad Galli <https://github.com/solegalli>`_)
+
+Code improvements
+~~~~~~~~~~~~~~~~~
+
+- Massive improvement in the performance (speed) of `DropDuplicateFeatures()` (`Nodar Okroshiashvili <https://github.com/Okroshiashvili>`_)
+- Remove `inplace` and other issues related to pandas new direction (`Luís Seabra  <https://github.com/luismavs>`_)
+- Move most docstrings to dedicated docstrings module  (`Soledad Galli <https://github.com/solegalli>`_)
+- Unnest tests for encoders (`Soledad Galli <https://github.com/solegalli>`_)

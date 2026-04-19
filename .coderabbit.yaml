@@ -1,0 +1,18 @@
+# .coderabbit.yaml — Zero-Context Security Auditor Configuration
+# Forces CodeRabbit into zero-context review mode.
+# The reviewer ignores PR titles, descriptions, and commit messages.
+# Evaluates code purely for security, correctness, and edge cases.
+
+reviews:
+  profile: "security-auditor"
+  request_changes_workflow: true
+  high_level_summary: false
+  custom_instructions: |
+    Perform a ZERO-CONTEXT review.
+    1. Ignore the PR title, description, and commit messages.
+    2. Do not evaluate if this code accomplishes a feature goal.
+    3. Evaluate this code purely for security vulnerabilities, race conditions,
+       memory leaks, unhandled exceptions, and logic errors.
+    4. Assume any external input is malicious.
+    5. Report findings as: CRITICAL / HIGH / MEDIUM / LOW with specific line numbers.
+    6. Do not praise the code or the developer. Only report issues.

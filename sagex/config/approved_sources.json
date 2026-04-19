@@ -1,0 +1,36 @@
+{
+  "_comment": "SAGE-CONTROLLED. Only Sage adds entries. Agent reads, never writes.",
+  "_edit_mode_required": true,
+  "global": {
+    "approved_domains": [
+      "arxiv.org",
+      "github.com"
+    ],
+    "approved_urls": [],
+    "approved_notebooks": []
+  },
+  "projects": {
+    "OpenBrainLM": {
+      "approved_domains": [
+        "arxiv.org",
+        "github.com"
+      ],
+      "approved_notebooks": [],
+      "approved_urls": []
+    },
+    "nautilus_trader": {
+      "approved_domains": [
+        "arxiv.org",
+        "github.com",
+        "docs.nautilustrader.io",
+        "binance-docs.github.io",
+        "mlflow.org"
+      ],
+      "approved_notebooks": [],
+      "approved_urls": [
+        "https://github.com/nautechsystems/nautilus_trader",
+        "https://github.com/binance/binance-spot-api-docs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sagex",
+  "version": "0.1.0",
+  "description": "Deterministic agent governance for Claude Code. Research gates, audit loops, approved-source enforcement, and coder/auditor cycling with zero-context review. Structural enforcement > text pleas.",
+  "author": "SageX Research",
+  "license": "MIT",
+  "homepage": "https://github.com/0SxD/sagex",
+  "repository": "https://github.com/0SxD/sagex"
+}

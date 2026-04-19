@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openbrainlm"
+version = "0.1a1"  # PEP 440 alpha — displays as "alpha" in UI
+description = "An open-source LM plug-in brain. Built from biomimicry and emergent Nicomachean ethics-based, sub-dialectic conflict resolution of the self."
+readme = "WHAT_IS_OPENBRAIN.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [
+    {name = "Architect"},
+]
+keywords = ["biomimicry", "brain", "consciousness", "agents", "multi-agent"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+# Zero external dependencies for core. Stdlib only.
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+include = ["openbrainlm*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  nt_sandbox:
+    build: .
+    container_name: nt_sandbox
+    # No port 5000 exposed — MLflow uses local file:// tracking URI, no server required.
+    volumes:
+      # Mount the entire sandbox directory (scripts, mlruns, results) into /workspace
+      - .:/workspace
+    working_dir: /workspace
+    environment:
+      # MLflow writes to /workspace/mlruns inside the container (mapped from host sandbox dir)
+      - MLFLOW_TRACKING_URI=file:///workspace/mlruns
+      # Override these at runtime with -e flags to point at real NPZ / bar data paths
+      - NPZ_LONG_PATH=/workspace/models/sjm_params_long.npz
+      - NPZ_SHORT_PATH=/workspace/models/sjm_params_short.npz
+      - BARS_PARQUET_DIR=/workspace/data/bars_30s
+    command: tail -f /dev/null  # Keep alive; exec into container to run scripts

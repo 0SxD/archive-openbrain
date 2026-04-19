@@ -1,0 +1,1550 @@
+Step -1, training acc: 0.200, instruction: 
+Step 0, training acc: 0.200, instruction: 
+Step 0, training acc: 0.200, instruction: 
+Step 0, training acc: 0.240, instruction: The SVG path element <path d="M 31.97,19.98 L 38.55,43.43"/> draws a line.
+Step 0, training acc: 0.180, instruction: Draw this SVG path element
+Step 0, training acc: 0.160, instruction: The following SVG path element draws a:
+Step 0, training acc: 0.140, instruction: A line
+Step 0, training acc: 0.140, instruction: This SVG path element draws a line.
+Step 0, training acc: 0.240, instruction: This SVG path element <path d="M 31.97,19.98 L 38.55,43.43"/> draws a line.
+Step 1, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 1, training acc: 0.220, instruction: This SVG path element draws a:
+Step 1, training acc: 0.220, instruction: What does the following SVG path element draw?
+Step 1, training acc: 0.220, instruction: The SVG path element with the following code:
+Step 1, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 1, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 1, training acc: 0.220, instruction: The SVG path element below draws a:
+Step 1, training acc: 0.220, instruction: Which of the following shapes is drawn by this SVG path element?
+Step 2, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 2, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 2, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 2, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 2, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 2, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 2, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 2, training acc: 0.200, instruction: The SVG code shown here: `<path d="M 29.25,88.14 L 74.91,74.60 M 74.91,74.60 L 84.13,44.02 M 84.13,44.02 L 75.16,14.24 L 45.19,61.73 M 45.19,61.73 L 25.89,86.05 L 29.25,88.14"/>` draws a shape. What shape is it?
+Step 3, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 3, training acc: 0.200, instruction: The SVG path element below draws a shape. What is it?
+Step 3, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 3, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 3, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 3, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 3, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 3, training acc: 0.220, instruction: Which of the following shapes is drawn by this SVG path element?
+Step 4, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 4, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 4, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 4, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 4, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 4, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 4, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 4, training acc: 0.200, instruction: Which shape does this SVG path element draw?
+Step 5, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 5, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 5, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 5, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 5, training acc: 0.220, instruction: Which shape does the following SVG path element draw?
+Step 5, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 5, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 5, training acc: 0.180, instruction: This SVG path element draws a (shape).
+Step 6, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 6, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 6, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 6, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 6, training acc: 0.220, instruction: Which shape does the following SVG path element draw?
+Step 6, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 6, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 6, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 7, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 7, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 7, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 7, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 7, training acc: 0.200, instruction: What shape does the SVG path element in the given code draw?
+Step 7, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 7, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 7, training acc: 0.160, instruction: Which shape is drawn by the following SVG path element?
+Step 8, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 8, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 8, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 8, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 8, training acc: 0.200, instruction: Which shape does this SVG path element draw?
+Step 8, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 8, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 8, training acc: 0.200, instruction: The SVG code below draws a shape. What shape is it?
+Step 9, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 9, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 9, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 9, training acc: 0.220, instruction: .
+Step 9, training acc: 0.200, instruction: 
+Step 9, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 9, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 9, training acc: 0.200, instruction: 
+Step 10, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 10, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 10, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 10, training acc: 0.200, instruction: 
+Step 10, training acc: 0.200, instruction: 
+Step 10, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 10, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 10, training acc: 0.060, instruction: This SVG path element draws a . Fill in the blank by choosing one of the following shape names: `circle`, `heptagon`, `hexagon`, `kite`, `line`, `octagon`, `pentagon`, `rectangle`, `sector`, `triangle`, `ellipse`.`
+Step 11, training acc: 0.160, instruction: This SVG path element
+Step 11, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 11, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 11, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 11, training acc: 0.220, instruction: Which shape is drawn by this SVG path element?
+Step 11, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 11, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 11, training acc: 0.140, instruction: This SVG path element draws a shape. Which shape does it draw? Choose from the following options:
+Step 12, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 12, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 12, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 12, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 12, training acc: 0.200, instruction: What shape does the SVG path element in the given code draw?
+Step 12, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 12, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 12, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 13, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 13, training acc: 0.200, instruction: Which shape does this SVG path element draw?
+Step 13, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 13, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 13, training acc: 0.200, instruction: 
+Step 13, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 13, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 14, training acc: 0.180, instruction: What shape is drawn by the SVG path below?
+Step 14, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 14, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 14, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 14, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 14, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 14, training acc: 0.220, instruction: What shape is drawn by the SVG path element given below?
+Step 14, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 15, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 15, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 15, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 15, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 15, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 15, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 15, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 15, training acc: 0.160, instruction: Which shape is drawn by the SVG path element below?
+Step 16, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 16, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 16, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 16, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 16, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 16, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 16, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 16, training acc: 0.200, instruction: <path d="M 50.48,35.30 L 66.69,40.68 M 66.69,40.68 L 65.02,47.57 L 58.50,50.37 M 58.50,50.37 L 50.48,35.30"/>
+Step 17, training acc: 0.060, instruction: Which shape is drawn by the following SVG path element with coordinates (38.00, 62.00), (48.00, 60.00), (51.00, 49.00), (54.00, 60.00), (65.00, 62.00), (54.00, 64.00), (51.00, 74.00), (48.00, 64.00), and (38.00, 62.00)? The possible options are: circle, heptagon, hexagon, kite, line, octagon, pentagon, rectangle, sector, triangle, and trapezoid.
+Step 17, training acc: 0.200, instruction: What shape is drawn by the SVG code below?
+Step 17, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 17, training acc: 0.200, instruction: 
+Step 17, training acc: 0.220, instruction: What shape does the SVG path element given below draw?
+Step 17, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 17, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 17, training acc: 0.200, instruction: 
+Step 18, training acc: 0.180, instruction: What shape is drawn by the SVG path below?
+Step 18, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 18, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 18, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 18, training acc: 0.200, instruction: Which shape does this SVG path element draw?
+Step 18, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 18, training acc: 0.180, instruction: What shape is drawn by the SVG path element `<path d="M 38.00,62.00 L 48.00,60.00 L 51.00,49.00 L 54.00,60.00 L 65.00,62.00 L 54.00,64.00 L 51.00,74.00 L 48.00,64.00 L 38.00,62.00"/>`
+Step 18, training acc: 0.200, instruction: 
+Step 19, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 19, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 19, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 19, training acc: 0.200, instruction: 
+Step 19, training acc: 0.200, instruction: 
+Step 19, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 19, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 19, training acc: 0.200, instruction: Which of the following shapes is drawn by the SVG path element below?
+Step 20, training acc: 0.180, instruction: What shape is drawn by the SVG path below?
+Step 20, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 20, training acc: 0.200, instruction: What shape is drawn by the SVG code below?
+Step 20, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 20, training acc: 0.200, instruction: Which shape does this SVG path element draw?
+Step 20, training acc: 0.180, instruction: What shape is this SVG path element?
+Step 20, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 20, training acc: 0.160, instruction: Which shape is drawn by the following SVG path element?
+Step 21, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 21, training acc: 0.220, instruction: Which shape is drawn by this SVG path element?
+Step 21, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 21, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 21, training acc: 0.160, instruction: What shape does the following SVG path element draw? Click on the correct answer.
+Step 21, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 21, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 21, training acc: 0.160, instruction: This SVG path element draws a shape. Which of the following shapes is it?
+Step 22, training acc: 0.180, instruction: What shape is drawn by the SVG path below?
+Step 22, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 22, training acc: 0.200, instruction: What shape is drawn by the SVG code below?
+Step 22, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 22, training acc: 0.200, instruction: What shape does the SVG path element with the following code draw?
+Step 22, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 22, training acc: 0.160, instruction: What shape is drawn by the SVG path element `<path d="M 73.73,87.22 L 79.29,59.06 L 53.87,38.89 L 73.73,87.22"/>`?
+Step 22, training acc: 0.000, instruction: The following SVG path element draws a {list of options}: <path d="M {coordinates} L {coordinates} M {coordinates} L {coordinates} M {coordinates} L {coordinates}"/>
+Step 23, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 23, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 23, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 23, training acc: 0.180, instruction: The following SVG path element draws a shape. Identify the shape.
+Step 23, training acc: 0.200, instruction: Which shape does this SVG path element draw?
+Step 23, training acc: 0.220, instruction: What shape is this SVG path element drawing?
+Step 23, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 23, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 24, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 24, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 24, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 24, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 24, training acc: 0.160, instruction: This SVG path element <path d="M62.00,77.00 L17.00,31.00 L96.00,39.00 L62.00,77.00"/> draws a four-sided shape.
+Step 24, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 24, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 24, training acc: 0.200, instruction: 
+Step 25, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 25, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 25, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 25, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 25, training acc: 0.200, instruction: This SVG path element <path d="M {} {} M {} {}"/> draws a shape. What shape is it?
+Step 25, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 25, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 25, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 26, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 26, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 26, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 26, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 26, training acc: 0.160, instruction: Given an SVG path element, what shape does it draw?
+Step 26, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 26, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 26, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 27, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 27, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 27, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 27, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 27, training acc: 0.140, instruction: This SVG path element draws a shape. Choose the corresponding shape from the options below.
+Step 27, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 27, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 27, training acc: 0.180, instruction: This SVG path element `
+Step 28, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 28, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 28, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 28, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 28, training acc: 0.200, instruction: This SVG path element <path d="M X,Y L Z,W"/> draws a shape. What shape is it?
+Step 28, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 28, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 28, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 29, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 29, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 29, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 29, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 29, training acc: 0.140, instruction: This SVG path element draws a shape. Choose the corresponding shape from the options below.
+Step 29, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 29, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 29, training acc: 0.200, instruction: 
+Step 30, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 30, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 30, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 30, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 30, training acc: 0.160, instruction: This SVG path element <path d="M50,40 A18,18 0 1,0 14,40 A18,18 0 1,0 50,40"/> draws a ______.
+Step 30, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 30, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 30, training acc: 0.200, instruction: Fillable shape
+Step 31, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 31, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 31, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 31, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 31, training acc: 0.160, instruction: Given an SVG path element, what shape does it draw?
+Step 31, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 31, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 31, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 32, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 32, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 32, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 32, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 32, training acc: 0.180, instruction: This SVG path element <path d="M x1,y1 L x2,y2"/> draws a shape. What shape is it?
+Step 32, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 32, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 32, training acc: 0.140, instruction: "Predict the shape drawn by this SVG path element."
+Step 33, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 33, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 33, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 33, training acc: 0.220, instruction: This SVG path element draws a shape. What is it?
+Step 33, training acc: 0.160, instruction: Given an SVG path element, what shape does it draw?
+Step 33, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 33, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 33, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 34, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 34, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 34, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 34, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 34, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 34, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 34, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 34, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 35, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 35, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 35, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 35, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 35, training acc: 0.180, instruction: This SVG path element <path d="M x1,y1 L x2,y2"/> draws a shape. What shape is it?
+Step 35, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 35, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 35, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 36, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 36, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 36, training acc: 0.200, instruction: What shape is formed by the following SVG path element?
+Step 36, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 36, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 36, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 36, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 36, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 37, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 37, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 37, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 37, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 37, training acc: 0.180, instruction: This SVG path element <path d="M x1,y1 L x2,y2"/> draws a shape. What shape is it?
+Step 37, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 37, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 37, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 38, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 38, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 38, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 38, training acc: 0.240, instruction: The following SVG path element draws a shape. What shape is it?
+Step 38, training acc: 0.200, instruction: This SVG path element <path d="M X,Y L Z,W"/> draws a shape. What shape is it?
+Step 38, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 38, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 38, training acc: 0.200, instruction: 
+Step 39, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 39, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 39, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 39, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 39, training acc: 0.160, instruction: Given an SVG path element, what shape does it draw?
+Step 39, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 39, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 39, training acc: 0.180, instruction: The following SVG path element draws a shape. Look carefully and identify the correct name of the shape from the options given below
+Step 40, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 40, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 40, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 40, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 40, training acc: 0.140, instruction: This SVG path element draws a shape. Choose the letter of the shape that it draws.
+Step 40, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 40, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 40, training acc: 0.260, instruction: This SVG path element <path d="M 90.41,82.38 L 45.53,97.84"/> draws a _____ shape.
+Step 41, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 41, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 41, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 41, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 41, training acc: 0.200, instruction: Which shape does this SVG path element draw?
+Step 41, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 41, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 41, training acc: 0.160, instruction: This SVG path element
+Step 42, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 42, training acc: 0.260, instruction: The SVG path element below draws a shape. What shape is it?
+Step 42, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 42, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 42, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 42, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 42, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 42, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 43, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 43, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 43, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 43, training acc: 0.200, instruction: 
+Step 43, training acc: 0.220, instruction: What shape does the SVG path element shown below draw?
+Step 43, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 43, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 43, training acc: 0.200, instruction: The SVG path element `<path d="_"` draws a ______.
+Step 44, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 44, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 44, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 44, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 44, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 44, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 44, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 44, training acc: 0.300, instruction: This SVG path element <path d="M 41.70,41.16 A 3.66,3.66 355.66 1,0 34.40,41.72 A 3.66,3.66 355.66 1,0 41.70,41.16"/> draws a shape with six sides.
+Step 45, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 45, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 45, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 45, training acc: 0.200, instruction: 
+Step 45, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 45, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 45, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 45, training acc: 0.260, instruction: The SVG path element below draws a shape. What shape is it?
+Step 46, training acc: 0.200, instruction: 
+Step 46, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 46, training acc: 0.120, instruction: This SVG path element draws a shape with five sides.
+Step 46, training acc: 0.200, instruction: What shape is drawn by the SVG path element `path d="[SVG path
+Step 46, training acc: 0.200, instruction: 
+Step 46, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 46, training acc: 0.120, instruction: This SVG path element draws a shape with five sides.
+Step 46, training acc: 0.200, instruction: 
+Step 47, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 47, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 47, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 47, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 47, training acc: 0.200, instruction: 
+Step 47, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 47, training acc: 0.160, instruction: This SVG path element draws a shape. What is the shape?
+Step 47, training acc: 0.180, instruction: Which shape is drawn by this SVG path element <path d="M 6.68,51.71 L 25.83,67.50 L 45.78,74.93 M 45.78,74.93 L 55.10,57.27 L 54.84,38.25 L 6.68,51.71"/>?
+Step 48, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 48, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 48, training acc: 0.240, instruction: This SVG path element draws a shape. What shape is it?
+Step 48, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 48, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 48, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 48, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 48, training acc: 0.140, instruction: This SVG code below forms a path element. Write what shape is drawn by this path element.
+Step 49, training acc: 0.200, instruction: 
+Step 49, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 49, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 49, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 49, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 49, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 49, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 49, training acc: 0.200, instruction: This SVG code below
+Step 50, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 50, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 50, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 50, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 50, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 50, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 50, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 50, training acc: 0.180, instruction: Input 1
+Step 51, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 51, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 51, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 51, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 51, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 51, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 51, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 51, training acc: 0.180, instruction: What shape does the SVG path element <path d="M 20.00,24.00 L 39.00,57.00 L 82.00,55.00 L 20.00,24.00"/> draw?
+Step 52, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 52, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 52, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 52, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 52, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 52, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 52, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 52, training acc: 0.220, instruction: This SVG code below forms a specific 2-dimensional shape, what is its name?
+Step 53, training acc: 0.200, instruction: What shape does the following SVG path element form?
+Step 53, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 53, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 53, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 53, training acc: 0.220, instruction: What shape is formed by the SVG path element below?
+Step 53, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 53, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 53, training acc: 0.180, instruction: This SVG code is meant to represent a specific 2D shape. What shape is it?
+Step 54, training acc: 0.200, instruction: What shape does the following SVG path element form?
+Step 54, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 54, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 54, training acc: 0.200, instruction: 
+Step 54, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 54, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 54, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 54, training acc: 0.180, instruction: What shape does this SVG element draw?
+Step 55, training acc: 0.180, instruction: What shape is drawn by the SVG path below?
+Step 55, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 55, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 55, training acc: 0.220, instruction: What shape is depicted in the SVG path element below?
+Step 55, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 55, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 55, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 55, training acc: 0.120, instruction: Pentagon
+Step 56, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 56, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 56, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 56, training acc: 0.200, instruction: 
+Step 56, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 56, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 56, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 56, training acc: 0.200, instruction: 
+Step 57, training acc: 0.200, instruction: What shape does the SVG path element below form?
+Step 57, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 57, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 57, training acc: 0.200, instruction: What shape is represented by the SVG path element below?
+Step 57, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 57, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 57, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 57, training acc: 0.060, instruction: Heptagon
+Step 58, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 58, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 58, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 58, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 58, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 58, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 58, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 58, training acc: 0.200, instruction: 
+Step 59, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 59, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 59, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 59, training acc: 0.200, instruction: 
+Step 59, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 59, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 59, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 59, training acc: 0.240, instruction: Score: 33
+Step 60, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 60, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 60, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 60, training acc: 0.220, instruction: What shape is this SVG path element drawing?
+Step 60, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 60, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 60, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 60, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 61, training acc: 0.200, instruction: What shape does the following SVG path element form?
+Step 61, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 61, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 61, training acc: 0.220, instruction: What shape does the SVG path element below draw?
+Step 61, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 61, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 61, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 61, training acc: 0.180, instruction: The SVG path element
+Step 62, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 62, training acc: 0.240, instruction: This SVG path element draws a specific shape. What is the name of this shape?
+Step 62, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 62, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 62, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 62, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 62, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 62, training acc: 0.260, instruction: The SVG code draws a specific 2D shape, what's its name?
+Step 63, training acc: 0.260, instruction: This SVG path element draws what shape?
+Step 63, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 63, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 63, training acc: 0.200, instruction: 
+Step 63, training acc: 0.200, instruction: 
+Step 63, training acc: 0.220, instruction: What shape is formed by the SVG path element below?
+Step 63, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 63, training acc: 0.280, instruction: The SVG code given below forms a specific two-dimensional shape with a certain number of sides. What is it?
+Step 64, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 64, training acc: 0.320, instruction: This SVG path element draws a ______.
+Step 64, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it?
+Step 64, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 64, training acc: 0.200, instruction: 
+Step 64, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 64, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 64, training acc: 0.260, instruction: What is your favorite thing about this shape?
+Step 65, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 65, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 65, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 65, training acc: 0.200, instruction: 
+Step 65, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 65, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 65, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 65, training acc: 0.160, instruction: Svg path
+Step 66, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 66, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 66, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 66, training acc: 0.180, instruction: How many sides does the shape drawn by the following SVG path element have?
+Step 66, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 66, training acc: 0.280, instruction: The SVG path element below draws a shape. What shape is it, and how many sides does it have?
+Step 66, training acc: 0.200, instruction: What is the name of the shape that this SVG path element draws?
+Step 67, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 67, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 67, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 67, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 67, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 67, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 67, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 67, training acc: 0.260, instruction: This SVG path element draws a shape. What shape is it, and how many sides does it have?
+Step 68, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 68, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 68, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 68, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 68, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 68, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 68, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 68, training acc: 0.200, instruction: 
+Step 69, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 69, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 69, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 69, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 69, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 69, training acc: 0.260, instruction: This SVG path element draws a shape. What shape is it, and how many sides does it have?
+Step 69, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 69, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 70, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 70, training acc: 0.280, instruction: What shape does the following SVG code draw, and how many sides does it have?
+Step 70, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 70, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 70, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 70, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 70, training acc: 0.340, instruction: The SVG path element below draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 70, training acc: 0.240, instruction: Score: 38
+Step 71, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 71, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 71, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 71, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 71, training acc: 0.280, instruction: What shape does the following SVG code draw, and how many sides does it have?
+Step 71, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 71, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 71, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 72, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 72, training acc: 0.260, instruction: The following SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 72, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 72, training acc: 0.180, instruction: This SVG path element draws a shape with three sides.
+Step 72, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 72, training acc: 0.200, instruction: What shape is drawn by the SVG path element below?
+Step 72, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 72, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 73, training acc: 0.280, instruction: What shape does the SVG path element below draw, and how many sides does it have?
+Step 73, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 73, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 73, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 73, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 73, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 73, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 73, training acc: 0.300, instruction: The SVG code below draws a specific 2D shape with a certain number of sides. What is it?
+Step 74, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 74, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 74, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 74, training acc: 0.220, instruction: This SVG path element draws a shape with _ sides. What shape is it?
+Step 74, training acc: 0.240, instruction: How many sides does the following SVG code draw?
+Step 74, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 74, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 74, training acc: 0.280, instruction: The following SVG code draws a specific 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 75, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 75, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 75, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 75, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 75, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 75, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 75, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 75, training acc: 0.320, instruction: The SVG code below draws a two-dimensional shape with a specific number of sides. What shape does it draw, and how many sides does it have?
+Step 76, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 76, training acc: 0.280, instruction: What shape does the following SVG code draw, and how many sides does it have?
+Step 76, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 76, training acc: 0.140, instruction: What shape is drawn by the following SVG code element?
+Step 76, training acc: 0.180, instruction: This SVG path element draws a (shape name).
+Step 76, training acc: 0.220, instruction: What shape is this SVG path element drawing?
+Step 76, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 76, training acc: 0.240, instruction: The SVG code below draws a specific 2D shape. What is the shape?
+Step 77, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 77, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 77, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 77, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 77, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 77, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 77, training acc: 0.280, instruction: This SVG path element draws a shape with (number of sides) sides. What shape is it?
+Step 77, training acc: 0.300, instruction: The SVG code below draws a certain 2D shape with some number of sides. What shape is it, and how many sides does it have?
+Step 78, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 78, training acc: 0.300, instruction: This SVG code draws a ______ with ______ sides.
+Step 78, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 78, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 78, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 78, training acc: 0.280, instruction: What shape does the SVG path element below draw, and how many sides does it have?
+Step 78, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 78, training acc: 0.280, instruction: What shape does the SVG path element below draw, and how many sides does it have?
+Step 79, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 79, training acc: 0.260, instruction: This SVG code draws a polygon with X sides.
+Step 79, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 79, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 79, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 79, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 79, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 79, training acc: 0.200, instruction: 
+Step 80, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 80, training acc: 0.320, instruction: This SVG code draws a ```shape``` with ```number of sides``` sides.
+Step 80, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 80, training acc: 0.340, instruction: Which shape is drawn by the following SVG path element, and how many sides does it have?
+Step 80, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 80, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 80, training acc: 0.280, instruction: What shape does the following SVG code draw, and how many sides does it have?
+Step 80, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 81, training acc: 0.280, instruction: What shape does the SVG path element below draw, and how many sides does it have?
+Step 81, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 81, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 81, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 81, training acc: 0.280, instruction: What shape does the following SVG code draw, and how many sides does it have?
+Step 81, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 81, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 82, training acc: 0.200, instruction: What shape does the SVG code below draw?
+Step 82, training acc: 0.280, instruction: What 2D shape does the following SVG code draw, and how many sides does it have?
+Step 82, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 82, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 82, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 82, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 82, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 82, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 83, training acc: 0.280, instruction: What shape does the SVG path element below draw, and how many sides does it have?
+Step 83, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 83, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 83, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 83, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 83, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 83, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 83, training acc: 0.280, instruction: The following SVG code draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 84, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 84, training acc: 0.220, instruction: What is the 2D shape drawn by the SVG code below, and how many sides does it have?
+Step 84, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 84, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 84, training acc: 0.280, instruction: What 2D shape does the following SVG code draw, and how many sides does it have?
+Step 84, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 84, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 84, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 85, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 85, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 85, training acc: 0.200, instruction: 
+Step 85, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 85, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 85, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 85, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 85, training acc: 0.300, instruction: This SVG path element defines a polygon with a given number of sides.
+Step 86, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 86, training acc: 0.300, instruction: This SVG code draws a ______ with ______ sides.
+Step 86, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 86, training acc: 0.280, instruction: This SVG path element draws a two-dimensional shape with a specific number of sides. What shape does it draw, and how many sides does it have?
+Step 86, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 86, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 86, training acc: 0.280, instruction: What 2D shape does the following SVG code draw, and how many sides does it have?
+Step 86, training acc: 0.200, instruction: 
+Step 87, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 87, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 87, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 87, training acc: 0.200, instruction: This SVG path element draws a polygon with a certain number of sides. What shape is it, and how many sides does it have?
+Step 87, training acc: 0.320, instruction: Which two-dimensional shape does the following SVG path element draw, and how many sides does it have?
+Step 87, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 87, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 87, training acc: 0.280, instruction: The following SVG code draws a polygon with a certain number of sides. What is its name and how many sides does it have?
+Step 88, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 88, training acc: 0.300, instruction: This SVG code draws a ______ with ______ sides.
+Step 88, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 88, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 88, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 88, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 88, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 88, training acc: 0.260, instruction: The SVG path element below draws a shape with a certain number of sides
+Step 89, training acc: 0.200, instruction: 
+Step 89, training acc: 0.280, instruction: What 2D shape does the following SVG code draw, and how many sides does it have?
+Step 89, training acc: 0.200, instruction: 
+Step 89, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 89, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 89, training acc: 0.220, instruction: What shape does the following SVG code draw?
+Step 89, training acc: 0.200, instruction: 
+Step 89, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 90, training acc: 0.300, instruction: What shape is shown in this image, and how many corners does it have?
+Step 90, training acc: 0.300, instruction: This SVG code draws a ______ with ______ sides.
+Step 90, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 90, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 90, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 90, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 90, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 90, training acc: 0.220, instruction: How many sides does the shape drawn by this SVG path element have?
+Step 91, training acc: 0.160, instruction: What 2D shape does the following SVG code draw?
+Step 91, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 91, training acc: 0.280, instruction: What shape does the following SVG code draw, and how many sides does it have?
+Step 91, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 91, training acc: 0.200, instruction: Score: 32
+Step 91, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 91, training acc: 0.260, instruction: What 2D shape is drawn by the following SVG path element, and how many sides does it have?
+Step 91, training acc: 0.200, instruction: 
+Step 92, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 92, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 92, training acc: 0.280, instruction: What shape does the following SVG code draw, and how many sides does it have?
+Step 92, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 92, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 92, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 92, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 92, training acc: 0.260, instruction: The SVG code below draws a certain shape. What is it and how many sides does it have?
+Step 93, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 93, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 93, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 93, training acc: 0.260, instruction: The following SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 93, training acc: 0.240, instruction: What shape is this SVG code drawing?
+Step 93, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 93, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 93, training acc: 0.300, instruction: The following SVG path element draws a shape with a certain number of sides. Can you tell me what the shape is and how many sides it has?
+Step 94, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 94, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 94, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 94, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 94, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 94, training acc: 0.220, instruction: This SVG path element draws a polygon with a certain number of sides. What is the shape, and how many sides does it have?
+Step 94, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 94, training acc: 0.260, instruction: The SVG code below draws a polygon with a certain number of sides. What is the shape, and how many sides does it have?
+Step 95, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 95, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 95, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 95, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 95, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 95, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 95, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 95, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 96, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 96, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 96, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 96, training acc: 0.200, instruction: What shape is drawn by the following SVG code?
+Step 96, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 96, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 96, training acc: 0.240, instruction: What 2D shape does the following SVG path element draw, and how many sides does it have?
+Step 96, training acc: 0.280, instruction: The SVG code below draws a polygon with ```n``` sides. Can you tell me what shape it is, and how many sides it has?
+Step 97, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 97, training acc: 0.300, instruction: This SVG code draws a shape with a certain number of sides. What is it, and how many sides does it have?
+Step 97, training acc: 0.280, instruction: What shape is drawn by the SVG path element below, and how many sides does it have?
+Step 97, training acc: 0.200, instruction: 
+Step 97, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 97, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 97, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 97, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 98, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 98, training acc: 0.260, instruction: What 2D shape is drawn by this SVG path element, and how many sides does it have?
+Step 98, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 98, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 98, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 98, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 98, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 98, training acc: 0.260, instruction: What 2D shape is drawn by the following SVG path element, and how many sides does it have?
+Step 99, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 99, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 99, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 99, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 99, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 99, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 99, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 99, training acc: 0.200, instruction: 
+Step 100, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 100, training acc: 0.300, instruction: This SVG code draws a ______ with ______ sides.
+Step 100, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 100, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 100, training acc: 0.280, instruction: What shape does the following SVG code draw, and how many sides does it have?
+Step 100, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 100, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 100, training acc: 0.300, instruction: The following SVG path element draws a shape with a certain number of sides.
+Step 101, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 101, training acc: 0.300, instruction: This SVG code draws a shape with a certain number of sides. What is it, and how many sides does it have?
+Step 101, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 101, training acc: 0.220, instruction: What shape is being drawn by the SVG code below?
+Step 101, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 101, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 101, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 101, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 102, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 102, training acc: 0.320, instruction: This SVG code draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 102, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 102, training acc: 0.220, instruction: What shape is being drawn by the SVG code below?
+Step 102, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 102, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 102, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 102, training acc: 0.200, instruction: 
+Step 103, training acc: 0.180, instruction: What shape is drawn in this SVG code?
+Step 103, training acc: 0.200, instruction: 
+Step 103, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 103, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 103, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 103, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 103, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 103, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 104, training acc: 0.180, instruction: What shape is drawn in this SVG code?
+Step 104, training acc: 0.180, instruction: What 2D shape is drawn by the following SVG code?
+Step 104, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 104, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 104, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 104, training acc: 0.160, instruction: This SVG path element draws a hexagon with six sides.
+Step 105, training acc: 0.180, instruction: What shape is drawn in this SVG code?
+Step 105, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 105, training acc: 0.200, instruction: 
+Step 105, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 105, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 105, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 105, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 106, training acc: 0.180, instruction: What shape is drawn in this SVG code?
+Step 106, training acc: 0.260, instruction: This SVG code draws a shape with a certain number of sides. Can you identify the shape and the number of sides?
+Step 106, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 106, training acc: 0.280, instruction: This SVG path element draws a two-dimensional shape with a specific number of sides. What shape does it draw, and how many sides does it have?
+Step 106, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 106, training acc: 0.240, instruction: What shape is this SVG code drawing?
+Step 106, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 106, training acc: 0.200, instruction: 
+Step 107, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 107, training acc: 0.280, instruction: This SVG code draws a ______.
+Step 107, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 107, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 107, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 107, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 107, training acc: 0.340, instruction: What shape does this SVG code create, and how many sides does it have?
+Step 108, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 108, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 108, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 108, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 108, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 108, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 108, training acc: 0.200, instruction: 
+Step 109, training acc: 0.240, instruction: What 2D shape does the following SVG path element draw, and how many sides does it have?
+Step 109, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 109, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 109, training acc: 0.260, instruction: What 2D shape is drawn by the following SVG path element, and how many sides does it have?
+Step 109, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 109, training acc: 0.300, instruction: What 2D shape is drawn by the following SVG code, and how many sides does it have?
+Step 109, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 109, training acc: 0.300, instruction: The following SVG path element draws a shape with a certain number of sides.
+Step 110, training acc: 0.200, instruction: 
+Step 110, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 110, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 110, training acc: 0.200, instruction: 
+Step 110, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 110, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 110, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 110, training acc: 0.280, instruction: Which 2D shape is created by the given SVG path element, along with the number of sides it has?
+Step 111, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 111, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 111, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 111, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 111, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 111, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 111, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 111, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 112, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 112, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 112, training acc: 0.260, instruction: This SVG code draws a 2D shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 112, training acc: 0.300, instruction: This SVG code draws a ______ with ______ sides.
+Step 112, training acc: 0.200, instruction: 
+Step 112, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 112, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 112, training acc: 0.200, instruction: 
+Step 113, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 113, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 113, training acc: 0.260, instruction: This SVG code draws a 2D shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 113, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 113, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 113, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 113, training acc: 0.300, instruction: This SVG path element draws a 2D shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 114, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 114, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 114, training acc: 0.260, instruction: This SVG code draws a 2D shape with a specific number of sides. What shape does it draw, and how many sides does it have?
+Step 114, training acc: 0.300, instruction: This SVG path element draws a 2D shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 114, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 114, training acc: 0.280, instruction: This SVG path element draws a two-dimensional shape with a specific number of sides. What shape does it draw, and how many sides does it have?
+Step 114, training acc: 0.320, instruction: This SVG path element draws a shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 114, training acc: 0.180, instruction: Specific 2D shape
+Step 115, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 115, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 115, training acc: 0.320, instruction: This SVG path element draws a shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 115, training acc: 0.300, instruction: The SVG path element below draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 115, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 115, training acc: 0.300, instruction: This SVG path element draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 115, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 116, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 116, training acc: 0.200, instruction: 
+Step 116, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 116, training acc: 0.200, instruction: 
+Step 116, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 116, training acc: 0.300, instruction: This SVG path element draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 116, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 116, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 117, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 117, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 117, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 117, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 117, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 117, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 117, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 118, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 118, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 118, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 118, training acc: 0.300, instruction: What shape is drawn by this SVG code, and how many sides does it have?
+Step 118, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 118, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 118, training acc: 0.200, instruction: 
+Step 119, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 119, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 119, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 119, training acc: 0.260, instruction: This SVG code draws a 2D shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 119, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 119, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 120, training acc: 0.300, instruction: What shape is drawn by this SVG code, and how many sides does it have?
+Step 120, training acc: 0.200, instruction: This SVG code draws a [shape
+Step 120, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 120, training acc: 0.300, instruction: What 2D shape is drawn by this SVG code, and how many sides does it have?
+Step 120, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 120, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 120, training acc: 0.200, instruction: 
+Step 121, training acc: 0.240, instruction: What 2D shape does the following SVG path element draw, and how many sides does it have?
+Step 121, training acc: 0.220, instruction: What shape is drawn by this SVG code?
+Step 121, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 121, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 121, training acc: 0.300, instruction: What shape is drawn by this SVG code, and how many sides does it have?
+Step 121, training acc: 0.200, instruction: This SVG path element draws a shape with ```number of sides``` sides. What is the shape?
+Step 121, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 121, training acc: 0.300, instruction: What 2D shape is drawn by this SVG code, and how many sides does it have?
+Step 122, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 122, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 122, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 122, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 122, training acc: 0.280, instruction: This SVG code draws a 2D shape with X sides. What shape is it?
+Step 122, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 122, training acc: 0.200, instruction: 
+Step 123, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 123, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 123, training acc: 0.320, instruction: This SVG path element draws a shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 123, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 123, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 123, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 123, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 123, training acc: 0.160, instruction: This SVG path element
+Step 124, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 124, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 124, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 124, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 124, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 124, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 125, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 125, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 125, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 125, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 125, training acc: 0.160, instruction: What shape does this SVG code draw, if it does? If it does draw a shape, how many sides does it have?
+Step 125, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 125, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 125, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 126, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 126, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 126, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 126, training acc: 0.260, instruction: This SVG code draws a 2D shape with $n$ sides. What shape is it, and how many sides does it have?
+Step 126, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 126, training acc: 0.200, instruction: <path d="M 43.79,3.46 L 66.68,10.86 L 56.02,58.65 L 43.79,3.46"/>
+Step 127, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 127, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 127, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 127, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 127, training acc: 0.260, instruction: This SVG code draws a 2D shape with $n$ sides. What shape is it?
+Step 127, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 127, training acc: 0.220, instruction: Which 2D shape does this SVG code draw?
+Step 128, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 128, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 128, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 128, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 128, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 128, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 128, training acc: 0.180, instruction: This SVG path element <path d="M 22.34,17.53 A 19.21,19.21 220.48 1,0 51.57,42.47 A 19.21,19.21 220.48 1,0 22.34,17.53"/> draws a
+Step 129, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 129, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 129, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 129, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 129, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 129, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 129, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 129, training acc: 0.260, instruction: The following SVG path element draws a shape with a specific number of sides. Identify the shape and its number of sides.
+Step 130, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 130, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 130, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 130, training acc: 0.200, instruction: 
+Step 130, training acc: 0.260, instruction: What 2D shape is drawn by this SVG path element, and how many sides does it have?
+Step 130, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 130, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 130, training acc: 0.280, instruction: This SVG path element draws a two-dimensional shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 131, training acc: 0.200, instruction: What 2D shape does the following SVG path element draw?
+Step 131, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 131, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 131, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 131, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 131, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 131, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 132, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 132, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 132, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 132, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 132, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 132, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 132, training acc: 0.260, instruction: What 2D shape is drawn by this SVG path element, and how many sides does it have?
+Step 132, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 133, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 133, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 133, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 133, training acc: 0.060, instruction: This SVG path element draws a shape with seven sides. What shape is it?
+Step 133, training acc: 0.240, instruction: This SVG code draws a 2D shape with an unknown number of sides. What is the shape, and how many sides does it have?
+Step 133, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 134, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 134, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 134, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 134, training acc: 0.200, instruction: 
+Step 134, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 134, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 134, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 134, training acc: 0.200, instruction: Analyze the SVG code below. What shape does it draw, and how many sides does the shape have?
+Step 135, training acc: 0.300, instruction: What shape does the following SVG path element draw, and how many sides does it have?
+Step 135, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 135, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 135, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 135, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 135, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 136, training acc: 0.200, instruction: What 2D shape does the following SVG path element draw?
+Step 136, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 136, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 136, training acc: 0.200, instruction: 
+Step 136, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 136, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 136, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 136, training acc: 0.200, instruction: 
+Step 137, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 137, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 137, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 137, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 137, training acc: 0.280, instruction: This SVG code draws a 2D shape with X sides. What shape is it?
+Step 137, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 137, training acc: 0.260, instruction: This SVG path element draws a shape. What shape is it, and how many sides does it have?
+Step 138, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 138, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 138, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 138, training acc: 0.260, instruction: This SVG code draws a 2D shape with $n$ sides. What shape is it, and how many sides does it have?
+Step 138, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 138, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 138, training acc: 0.240, instruction: What shape is this SVG code drawing?
+Step 139, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 139, training acc: 0.220, instruction: What shape is this SVG path element drawing?
+Step 139, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 139, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 139, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 139, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 139, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 139, training acc: 0.220, instruction: What shape is this SVG path element drawing?
+Step 140, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 140, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 140, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 140, training acc: 0.260, instruction: What 2D shape is drawn by this SVG path element, and how many sides does it have?
+Step 140, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 140, training acc: 0.280, instruction: This SVG path element draws a two-dimensional shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 141, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 141, training acc: 0.200, instruction: What 2D shape does this SVG path element draw?
+Step 141, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 141, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 141, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 141, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 141, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 142, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 142, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 142, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 142, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 142, training acc: 0.200, instruction: 
+Step 142, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 142, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 142, training acc: 0.280, instruction: This SVG path element draws a two-dimensional shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 143, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 143, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 143, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 143, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 143, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 143, training acc: 0.200, instruction: 
+Step 144, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 144, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 144, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 144, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 144, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 144, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 144, training acc: 0.240, instruction: What shape is this SVG code drawing?
+Step 144, training acc: 0.260, instruction: ```<path d="M 6.68,51.71 L 25.83,67.50 L 45.78,74.93 M 45.78,74.93 L 55.10,57.27 L 54.84,38.25 L 6.68,51.71"/>``` draws a shape with 5 sides. What is the shape?
+Step 145, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 145, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 145, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 145, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 145, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 145, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 145, training acc: 0.200, instruction: Shape
+Step 146, training acc: 0.260, instruction: This SVG code draws a 2D shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 146, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 146, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 146, training acc: 0.300, instruction: This SVG code draws a 2D shape with {number of sides} sides. What shape is it?
+Step 146, training acc: 0.280, instruction: This SVG path element draws a shape with ```number of sides``` sides. What shape does it draw?
+Step 146, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 146, training acc: 0.200, instruction: Code
+Step 147, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 147, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 147, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 147, training acc: 0.260, instruction: This SVG code draws a 2D shape with $n$ sides. What shape is it, and how many sides does it have?
+Step 147, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 147, training acc: 0.180, instruction: How many sides does the shape drawn by the following SVG path element have?
+Step 148, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 148, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 148, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 148, training acc: 0.200, instruction: 
+Step 148, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 148, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 148, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 148, training acc: 0.260, instruction: What shape is it, and how many sides does it have?
+Step 149, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 149, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 149, training acc: 0.320, instruction: What shape does this SVG path element draw, and how many sides does it have?
+Step 149, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 149, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 149, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 149, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 150, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 150, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 150, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 150, training acc: 0.180, instruction: This SVG path element draws a shape with 3 sides.
+Step 150, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 150, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 150, training acc: 0.160, instruction: This SVG path element
+Step 151, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 151, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 151, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 151, training acc: 0.200, instruction: 
+Step 151, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 151, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 151, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 152, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 152, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 152, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 152, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 152, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 152, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 152, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 153, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 153, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 153, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 153, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 153, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 153, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 153, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 154, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 154, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 154, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 154, training acc: 0.200, instruction: 
+Step 154, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 154, training acc: 0.300, instruction: What shape is drawn by the following SVG code, and how many sides does it have?
+Step 154, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 154, training acc: 0.200, instruction: 
+Step 155, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 155, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 155, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 155, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 155, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 155, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 155, training acc: 0.200, instruction:      
+Step 156, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 156, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 156, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 156, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 156, training acc: 0.300, instruction: This SVG code draws a 2D shape with {number of sides} sides. What shape is it?
+Step 156, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 156, training acc: 0.300, instruction: This SVG code draws a shape with a specific number of sides. What is the shape, and how many sides does it have?\
+Step 157, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 157, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 157, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 157, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 157, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 157, training acc: 0.200, instruction: 
+Step 157, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 157, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 158, training acc: 0.200, instruction: What 2D shape does the following SVG path element draw?
+Step 158, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 158, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 158, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 158, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 158, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 158, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 158, training acc: 0.200, instruction: Shape
+Step 159, training acc: 0.200, instruction: What 2D shape does the following SVG path element draw?
+Step 159, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 159, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 159, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 159, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 159, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 159, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 159, training acc: 0.160, instruction: What shape is drawn by this SVG path element?
+Step 160, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 160, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 160, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 160, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 160, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 160, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 160, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 160, training acc: 0.220, instruction: ![Example of new text
+Step 161, training acc: 0.200, instruction: What 2D shape does the following SVG path element draw?
+Step 161, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 161, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 161, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 161, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 161, training acc: 0.200, instruction: 
+Step 161, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 161, training acc: 0.280, instruction: This SVG path element draws a two-dimensional shape with a specific number of sides. What shape is it, and how many sides does it have?
+Step 162, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 162, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 162, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 162, training acc: 0.200, instruction: 
+Step 162, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 162, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 162, training acc: 0.180, instruction: Enter list of shapes and number of sides.
+Step 163, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 163, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 163, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 163, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 163, training acc: 0.280, instruction: This SVG code draws a 2D shape with X sides. What shape is it?
+Step 163, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 163, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 163, training acc: 0.200, instruction: Input
+Step 164, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 164, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 164, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 164, training acc: 0.200, instruction: 
+Step 164, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 164, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 164, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 164, training acc: 0.300, instruction: This SVG path element draws a polygon.
+Step 165, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 165, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 165, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 165, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 165, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 165, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 165, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 166, training acc: 0.240, instruction: What 2D shape does the following SVG path element draw, and how many sides does it have?
+Step 166, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 166, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 166, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 166, training acc: 0.280, instruction: This SVG code draws a 2D shape with X sides. What shape is it?
+Step 166, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 166, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 166, training acc: 0.200, instruction: 
+Step 167, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 167, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 167, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 167, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 167, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 167, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 167, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 167, training acc: 0.200, instruction: 
+Step 168, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 168, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 168, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 168, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 168, training acc: 0.280, instruction: This SVG path element draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 168, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 168, training acc: 0.220, instruction: The following SVG path element draws a 2D shape. Identify the shape and state how many sides it has.
+Step 169, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 169, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 169, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 169, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 169, training acc: 0.260, instruction: This SVG code draws a 2D shape with $n$ sides. What shape is it?
+Step 169, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 169, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 169, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 170, training acc: 0.200, instruction: What 2D shape does the following SVG path element draw?
+Step 170, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 170, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 170, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 170, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 170, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 170, training acc: 0.160, instruction: ```This SVG path element <path d="M 2.10,61.72 L 38.86,44.98 M 38.86,44.98 L 65.79,63.32 L 39.63,11.62 L 21.25,37.04 M 21.25,37.04 L 31.13,38.33 L 2.10,61.72"/>```
+Step 171, training acc: 0.200, instruction: What 2D shape does the following SVG path element draw?
+Step 171, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 171, training acc: 0.300, instruction: This SVG path element draws a shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 171, training acc: 0.200, instruction: 
+Step 171, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 171, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 171, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 171, training acc: 0.180, instruction: Please enter your guess below:
+Step 172, training acc: 0.240, instruction: What 2D shape does the following SVG path element draw, and how many sides does it have?
+Step 172, training acc: 0.220, instruction: What shape does the following SVG path element draw?
+Step 172, training acc: 0.300, instruction: This SVG path element draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 172, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 172, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 172, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 172, training acc: 0.160, instruction: This SVG path element draws a hexagon with 6 sides.
+Step 173, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 173, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 173, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 173, training acc: 0.200, instruction: 
+Step 173, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 173, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 173, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 173, training acc: 0.200, instruction: 
+Step 174, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 174, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 174, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 174, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 174, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 174, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 174, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 175, training acc: 0.200, instruction: What 2D shape does this SVG path element draw?
+Step 175, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 175, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 175, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 175, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 175, training acc: 0.200, instruction: This SVG path element draws a shape with ```number of sides``` sides. What is the shape?
+Step 175, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 175, training acc: 0.180, instruction: This SVG path element <path d="M 64.00,63.00 L 44.00,63.00 L 44.00,50.00 L 64.00,50.00 L 64.00,37.00 L 83.00,57.00 L 64.00,76.00 L 64.00,63.00"/> draws a {shape} with {number of sides} sides.
+Step 176, training acc: 0.240, instruction: What shape does this SVG path element draw?
+Step 176, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 176, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 176, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 176, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 176, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 176, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 176, training acc: 0.260, instruction: The following SVG path element draws a shape with a specific number of sides. Identify the shape and state how many sides it has.
+Step 177, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 177, training acc: 0.280, instruction: This SVG code draws a 2D shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 177, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 177, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 177, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 177, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 177, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 177, training acc: 0.220, instruction: The SVG path element `<path d="M 31.97,19.98 L 38.55,43.43"/>` draws a line connecting the points (31.97, 19.98) and (38.55, 43.43).
+Step 178, training acc: 0.200, instruction: What 2D shape does the following SVG path element draw?
+Step 178, training acc: 0.280, instruction: This SVG code draws a shape with a certain number of sides. What shape is it, and how many sides does it have?
+Step 178, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 178, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 178, training acc: 0.340, instruction: What shape is this SVG path element drawing, and how many sides does it have?
+Step 178, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 178, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 178, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 179, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 179, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 179, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 179, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 179, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 179, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 179, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 179, training acc: 0.180, instruction: This SVG path element draws a seven-sided shape, or a heptagon.
+Step 180, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 180, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 180, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 180, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 180, training acc: 0.260, instruction: This SVG code draws a 2D shape with $n$ sides. What shape is it, and how many sides does it have?
+Step 180, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 180, training acc: 0.260, instruction: What 2D shape is drawn by this SVG path element, and how many sides does it have?
+Step 180, training acc: 0.200, instruction: How to calculate the area of a shape using SVG path elements
+Step 181, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 181, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 181, training acc: 0.300, instruction: What shape is drawn by this SVG code, and how many sides does it have?
+Step 181, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 181, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 181, training acc: 0.200, instruction: What 2D shape does this SVG code draw?
+Step 181, training acc: 0.180, instruction: What 2D shape is drawn by this SVG path element?
+Step 181, training acc: 0.340, instruction: What shape is this SVG path element drawing, and how many sides does it have?
+Step 182, training acc: 0.240, instruction: This SVG path element draws a shape with ```number of sides``` sides. What is the shape, and how many sides does it have?
+Step 182, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 182, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 182, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 182, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 182, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 182, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 182, training acc: 0.180, instruction: What shape is drawn by the following SVG path element?
+Step 183, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 183, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 183, training acc: 0.280, instruction: What shape is drawn by the SVG code below, and how many sides does it have?
+Step 183, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 183, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 183, training acc: 0.200, instruction: 
+Step 183, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 183, training acc: 0.180, instruction: What shape is drawn by this SVG code with 3 sides?
+Step 184, training acc: 0.180, instruction: What 2D shape is this SVG code drawing?
+Step 184, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 184, training acc: 0.280, instruction: What shape is drawn by the SVG code below, and how many sides does it have?
+Step 184, training acc: 0.200, instruction: 
+Step 184, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 184, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 184, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 184, training acc: 0.180, instruction: Revised text
+Step 185, training acc: 0.280, instruction: What shape is drawn by this SVG path, and how many sides does it have?
+Step 185, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 185, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 185, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 185, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 185, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 185, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 185, training acc: 0.140, instruction: Line
+Step 186, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 186, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 186, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 186, training acc: 0.200, instruction: 
+Step 186, training acc: 0.300, instruction: This SVG code draws a 2D shape with {number of sides} sides. What shape is it?
+Step 186, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 186, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 186, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 187, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 187, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 187, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 187, training acc: 0.200, instruction: 
+Step 187, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 187, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 187, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 187, training acc: 0.240, instruction: Please predict what shape the following SVG code draws, and the number of sides it has.
+Step 188, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 188, training acc: 0.260, instruction: What 2D shape does this SVG path element draw, and how many sides does it have?
+Step 188, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 188, training acc: 0.400, instruction: What shape is this SVG code drawing, and how many sides does it have?
+Step 188, training acc: 0.200, instruction: 
+Step 188, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 188, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 188, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 189, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 189, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 189, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 189, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 189, training acc: 0.380, instruction: This SVG code draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 189, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 189, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 189, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 190, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 190, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 190, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 190, training acc: 0.260, instruction: What shape is depicted in the SVG code below, and how many sides does it have?
+Step 190, training acc: 0.200, instruction: 
+Step 190, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 190, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 190, training acc: 0.120, instruction: Trapezoid
+Step 191, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 191, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 191, training acc: 0.280, instruction: What shape is drawn by the SVG code below, and how many sides does it have?
+Step 191, training acc: 0.200, instruction: 
+Step 191, training acc: 0.200, instruction: 
+Step 191, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 191, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 191, training acc: 0.220, instruction: Note: This text has a score of 50, which is the highest possible score. The old texts have a score ranging from 32 to 40. This means that the new text is different from and better than the old texts.
+Step 192, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 192, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 192, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 192, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 192, training acc: 0.240, instruction: This SVG code draws a 2D shape with an unknown number of sides. What is the shape, and how many sides does it have?
+Step 192, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 192, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 192, training acc: 0.200, instruction: 
+Step 193, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 193, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 193, training acc: 0.280, instruction: What shape is drawn by the SVG code below, and how many sides does it have?
+Step 193, training acc: 0.200, instruction: 
+Step 193, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 193, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 193, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 193, training acc: 0.280, instruction: This SVG path element draws a ```shape``` with ```number of sides``` sides.
+Step 194, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 194, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 194, training acc: 0.280, instruction: What shape is drawn by the SVG code below, and how many sides does it have?
+Step 194, training acc: 0.200, instruction: 
+Step 194, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 194, training acc: 0.340, instruction: What 2D shape does this SVG code draw, and how many sides does it have?
+Step 194, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 194, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 195, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 195, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 195, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 195, training acc: 0.260, instruction: What shape is depicted in the SVG code below, and how many sides does it have?
+Step 195, training acc: 0.220, instruction: What shape does the SVG code below draw? What is the number of sides of the shape?
+Step 195, training acc: 0.320, instruction: What shape is drawn by this SVG path element, and how many sides does it have?
+Step 195, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 195, training acc: 0.140, instruction: What shape is created by this SVG path element?
+Step 196, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 196, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 196, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 196, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 196, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 196, training acc: 0.320, instruction: What 2D shape is this SVG code drawing, and how many sides does it have?
+Step 196, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 196, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 197, training acc: 0.280, instruction: What shape is drawn by the following SVG path element, and how many sides does it have?
+Step 197, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 197, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 197, training acc: 0.200, instruction: 
+Step 197, training acc: 0.260, instruction: This SVG code draws a 2D shape with $n$ sides. What shape is it, and how many sides does it have?
+Step 197, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 197, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 197, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 198, training acc: 0.240, instruction: What shape does this SVG code draw?
+Step 198, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 198, training acc: 0.280, instruction: What shape is drawn by the SVG code below, and how many sides does it have?
+Step 198, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 198, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 198, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 198, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it, and how many sides does it have?
+Step 198, training acc: 0.380, instruction: What shape does this SVG code draw, and how many sides does it have?
+Step 199, training acc: 0.240, instruction: What 2D shape does the following SVG path element draw, and how many sides does it have?
+Step 199, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 199, training acc: 0.360, instruction: This SVG path element draws a 2D shape with a specific number of sides. What is the shape, and how many sides does it have?
+Step 199, training acc: 0.320, instruction: This SVG path element draws a two-dimensional shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 199, training acc: 0.340, instruction: This SVG code draws a shape with a certain number of sides. What shape does it draw, and how many sides does it have?
+Step 199, training acc: 0.320, instruction: This SVG path element draws a shape with a certain number of sides. What is the shape, and how many sides does it have?
+Step 199, training acc: 0.200, instruction: This SVG code draws a 2D shape. What shape is it?
+Step 199, training acc: 0.200, instruction: 
